@@ -1,9 +1,4 @@
-<col:collection 
-  xmlns:col="http://cnx.rice.edu/collxml"
-  xmlns:md="http://cnx.rice.edu/mdml"
-  xmlns:sys="http://cnx.rice.edu/system-info"
-  xmlns="http://cnx.rice.edu/collxml">
-
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:sys="http://cnx.rice.edu/system-info" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
     <md:uuid>fe58be6f-3b61-4e16-b3b6-db6924f0b2f2</md:uuid>
     <md:title>Introduction to Philosophy</md:title>
@@ -12,7 +7,141 @@
     <md:content-id>col00005</md:content-id>
     <md:language>en</md:language>
   </col:metadata>
-  <col:content>
-
-  </col:content>
+  <content>
+    <subcollection>
+      <md:title>Introduction to Philosophy</md:title>
+      <content>
+        <module document="m00001"/>
+        <module document="m00002"/>
+        <module document="m00003"/>
+        <module document="m00004"/>
+        <module document="m00005"/>
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>Critical Thinking, Research, Reading, and Writing</md:title>
+      <content>
+        <module document="m00006"/>
+        <module document="m00007"/>
+        <module document="m00008"/>
+        <module document="m00009"/>
+        <module document="m00010"/>
+        <module document="m00011"/>
+        <module document="m00012"/>
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>Chapter 3: To come</md:title>
+      <content>
+        <module document="m00013"/>
+        <module document="m00014"/>
+        <module document="m00015"/>
+        <module document="m00016"/>
+        <module document="m00017"/>
+        <module document="m00018"/>
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>Chapter 4: To Come</md:title>
+      <content>
+        <module document="m00019"/>
+        <module document="m00020"/>
+        <module document="m00021"/>
+        <module document="m00022"/>
+        <module document="m00023"/>
+        <module document="m00024"/>
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>Logic and Reasoning</md:title>
+      <content>
+        <module document="m00025"/>
+        <module document="m00026"/>
+        <module document="m00027"/>
+        <module document="m00028"/>
+        <module document="m00029"/>
+        <module document="m00030"/>
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>Metaphysics</md:title>
+      <content>
+        <module document="m00031"/>
+        <module document="m00032"/>
+        <module document="m00033"/>
+        <module document="m00034"/>
+        <module document="m00035"/>
+        <module document="m00036"/>
+        <module document="m00037"/>
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>Epistemology</md:title>
+      <content>
+        <module document="m00038"/>
+        <module document="m00039"/>
+        <module document="m00040"/>
+        <module document="m00041"/>
+        <module document="m00042"/>
+        <module document="m00043"/>
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>Value Theory</md:title>
+      <content>
+        <module document="m00044"/>
+        <module document="m00045"/>
+        <module document="m00046"/>
+        <module document="m00047"/>
+        <module document="m00048"/>
+        <module document="m00049"/>
+        <module document="m00050"/>
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>Normative Moral Theory</md:title>
+      <content>
+        <module document="m00051"/>
+        <module document="m00052"/>
+        <module document="m00053"/>
+        <module document="m00054"/>
+        <module document="m00055"/>
+        <module document="m00056"/>
+        <module document="m00057"/>
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>Applied Ethics</md:title>
+      <content>
+        <module document="m00058"/>
+        <module document="m00059"/>
+        <module document="m00060"/>
+        <module document="m00061"/>
+        <module document="m00062"/>
+        <module document="m00063"/>
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>Political Philosophy</md:title>
+      <content>
+        <module document="m00064"/>
+        <module document="m00065"/>
+        <module document="m00066"/>
+        <module document="m00067"/>
+        <module document="m00068"/>
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>Chapter 12: To Come</md:title>
+      <content>
+        <module document="m00069"/>
+        <module document="m00070"/>
+        <module document="m00071"/>
+        <module document="m00072"/>
+        <module document="m00073"/>
+        <module document="m00074"/>
+        <module document="m00075"/>
+      </content>
+    </subcollection>
+  </content>
 </col:collection>
