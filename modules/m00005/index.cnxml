@@ -6,8 +6,220 @@
     <md:uuid>210be7bd-12c2-46cc-8944-f0f8fce45a17</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">Placeholder Text</para>
-    </section>
-</content>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Appreciate the role of professional philosophers in academics and beyond.</item>
+      <item>Recognize the structure, organization, and thematic goals of the textbook.</item>
+      </list>
+      </section>
+      <para id="para-00002">Contemporary academic philosophy bears minimal resemblance to the classical traditions we have discussed in the previous sections. Philosophers today, like other academics, focus on specific areas of research expertise with the goal of producing new research that advances our philosophical understanding of specific problems or topic areas. That said, philosophical investigation is still motivated by the same desire to make sense of things in the most general way possible. In this section, we will introduce you to what philosophy majors do. Additionally, we will provide a brief summary of the themes and organization of the textbook.</para>
+      <section id="sect-00002">
+      <title>1.4.1 What Can You Do with a Philosophy Major?</title>
+      <para id="para-00003">Majoring in philosophy is a great way to complete a liberal arts degree. Philosophy will introduce you to fascinating ideas and teach you to think analytically and creatively. If you enjoy the topics in this book, you should consider a philosophy major.</para>
+      <section id="sect-00003">
+      <title>1.4.1.1 Becoming a Philosophy Teacher</title>
+      <para id="para-00004">To pursue a career in academic philosophy, you must major in philosophy as an undergraduate and continue your studies in the field by doing some graduate work. Community colleges and some four-year schools employ instructors with a master’s degree in philosophy. However, it is very common for these jobs to be occupied almost entirely by people with PhDs. Academic jobs, particularly in the humanities and liberal arts, are extremely competitive. Even with a PhD, it will be difficult to find a job in an academic department. That said, it is much more common to find jobs teaching than doing research, but many teaching jobs still require some research. A philosophy professor or instructor may be asked to teach on a wide variety of subjects, depending on the needs of the school. By contrast, when doing research, academic philosophers tend to focus on a very specific area with the goal of becoming an expert in that topic. Expertise is generally marked by the production of research work, such as a dissertation, book, or several research articles on the topic. Academic research jobs are typically secured with tenure, meaning that there are strong protections against unjustified firing. However, recent studies of federal data show that 73 percent of all academic jobs are not on the tenure track (meaning there is no chance to secure tenure). Additionally, 40 percent of all academic teaching positions are occupied by part-time faculty. The distribution of tenured, tenure-track, non-tenure track, and part-time employees varies greatly by institution type, with community colleges employing far more part-time instructors and far fewer tenured and tenure-track instructors. Meanwhile, research universities employ more tenured and tenure-track faculty and fewer part-time faculty (AAUP 2018).</para>
+      </section>
+      <section id="sect-00004">
+      <title>1.4.1.2 Alternatives to Academic Philosophy</title>
+      <para id="para-00005">Philosophy undergraduate and graduate degree majors have many options outside of teaching and research in an academic environment. There is a widespread and somewhat mistaken belief that the purpose of selecting a college major is to prepare you for a specific career. While that may be true for some technical degrees, like engineering or nursing, it is generally not true for degrees in the liberal arts and sciences. Many students enter college with a desire to pursue a career in some area of business or commerce. Others plan to go on to a professional graduate school in medicine or law. While it may seem like the best career decision would be to major in business, premed, or prelaw, this notion is probably misguided.</para>
+      <para id="para-00006">The original idea behind a liberal arts and sciences education was that high school graduates could study a broad range of fields in the core areas of knowledge that are foundational for our culture, society, and civilization—areas like the natural and social sciences, literature, history, religion, and philosophy. By studying these fields, students gain insights into the key ideas, methods of investigation, questions, and discoveries that underlie modern civilization. Those insights give you a perspective on the world today that is informed by the history and learning that make today’s world possible. And that perspective can have a transformative effect that goes far beyond job preparation.</para>
+      <para id="para-00007">When philosophy majors are compared to other majors in terms of their long-term career earnings, it appears that philosophy majors do very well. While the starting salaries of philosophy majors are lower than some other majors, their mid-career salaries compare very favorably with majors in areas like finance, engineering, and math.</para>
+      <figure id="fig-00001"><media alt="A graph presents the median mid-career salaries (10 years after graduation) of a range of college majors. The graph shows that philosophy graduates fall in the middle of the salary range. The data is as follows: Information Technology graduates earned approximately $50,000 after 10 years; Accounting graduates, approximately $48,000; Geology, approximately $45,000; Chemistry, approximately $42,000; Political Science, approximately $42,000; Marketing, approximately $42,000; Philosophy, approximately $41,000; Nutrition, approximately $41,000; Healthcare Administration, approximately $40,000; Biology, approximately $40,000; English, approximately $39,000; Hospitality &amp; Tourism, approximately $39,000; Psychology, approximately $38,000; Graphic Design, approximately $38,000; Education, approximately $37,000; and Spanish, approximately $35,000."><image mime-type="image/png" src="../../media/PHIL_Figure_01_04_010.png"/></media>
+      <caption>Median mid-career salaries (10 years after graduation) by College Major (attribution: Copyright Rice University, OpenStax under CC BY 4.0 license)</caption></figure>
+      <para id="para-00008">Additionally, philosophy majors have some of the highest LSAT and GMAT scores of any major (these are the tests generally required for admission to law school and business school, respectively). Quite a few former philosophy majors have gone on to become CEOs of large corporations, such as Reid Hoffman, cofounder of LinkedIn, and Carly Fiorina, CEO of Hewlett-Packard (Chideya 2015).</para>
+      <para id="para-00009">Many philosophers who have earned a graduate degree in philosophy and held positions as professors and instructors have made successful transitions to other careers, including start-ups, technology, business, ethics review boards, and public philosophy. Nigel Warburton, a former philosophy professor, started the philosophy podcast “Philosophy Bites” that is one of the most downloaded podcasts on academic topics. He also is an editor-in-chief of the online magazine <emphasis effect="italics">Aeon</emphasis>. David Barnett, a former philosophy professor, founded the company PopSockets in 2012 after leaving academia. That company now employs over 200 people and generates hundreds of millions of dollars in annual revenue. Additionally, there are a growing number of technology, neuroscience, and medical firms that are specifically looking to hire philosophers to help with research and ethics reviews. Marcus Arvan maintains a public directory of academic philosophers who have found work outside of academia at <link url="https://openstax.org/r/philosopher">Philosophers in Industry</link>. In short, philosophers can be found nearly everywhere doing useful work and making good money. You should not let concerns about career prospects drive you away from studying philosophy.</para>
+      </section>
+      </section>
+      <section id="sect-00005">
+      <title>1.4.2 An Overview of Your Philosophy Textbook</title>
+      <para id="para-00010">This textbook is organized in a way that generally reflects the broad areas of specialization in contemporary academic philosophy. Areas of specialization can be grouped into the following fields: historical traditions; metaphysics and epistemology; science, logic, and mathematics; and value theory. The fields of science, logic, and mathematics include research into contemporary symbolic logic as well as interdisciplinary work in the philosophy of mathematics and the sciences; these areas are closely related to metaphysics and epistemology. Value theory includes metaethics and the meaning of value, aesthetics, normative moral theories (ethics), and political philosophy. This textbook aims to provide a general overview of each of these areas. We give students a theoretical survey of each field in philosophy and introduce applications of these areas of study to contemporary issues of interest. Additionally, we have an explicitly multicultural focus. We emphasize that philosophy has been studied and practiced throughout the world since the beginning of recorded history. We provide, as much as we can, representation from non-Western philosophers. This approach is not typical of philosophy textbooks, which generally have a Eurocentric bias.</para>
+      <para id="para-00011">Throughout this text, we introduce you to the stunning array of philosophers and ideas from ancient Greece, Rome, and China, the classical Islamic and the late medieval European worlds, Africa, India, Japan, and Latin America. We help situate you within the different regions and time periods using timelines and other tools.</para>
+      <note class="time-line" id="note-00001">
+      <media alt="atoms_isotopes"><iframe width="660" height="371.4" src="../../media/interactive/OPX_Philo_01_Interactive01"/></media>
+      </note>
+      <para id="para-00012">Whether you go on to study philosophy or this is the only philosophy course you take, the habits of mind and techniques of philosophical thought you will learn can have a transformative effect. When you allow yourself to reflect on how a certain situation connects to the whole, when you critically examine your own biases and beliefs, when you investigate the world with an open mind, informed by rational methods of investigation, you will arrive at a richer sense of who you are and what your place is in the world.</para>
+      </section>
+      <section class="section-summary" id="sect-00006">
+      <title>Summary</title>
+      <section id="sect-00007">
+      <title>1.1 What Is Philosophy?</title>
+      <para id="para-00013">Philosophy is an activity in which philosophers attempt to gain the broadest and most integrated conception of the world as it is. The origins of philosophy are ancient, and the earliest philosophers were called sages—wise men and women who sought to answer psychological and moral questions as well as questions about how the natural world worked. Wilfrid Sellars, a highly influential 20th-century philosopher, is known for his concise and telling explanation of what philosophers do, which is to figure out how everything—in the broadest sense—“hangs together.”</para>
+      </section>
+      <section id="sect-00008">
+      <title>1.2 How Do Philosophers Arrive at Truth?</title>
+      <para id="para-00014">Philosophers use a number of techniques to gain a holistic understanding of how things hang together in the broadest possible sense. Some of these sources include the history of philosophy; intuition, or realizations that are a product of a clear and attentive mind; and common sense, or facts that are ascertained through sense perception. Logic has always been an important part of both philosophical and scientific reasoning, as well as conceptual analysis, which breaks down complex ideas into smaller and simpler components. Other techniques used by philosophers are thought experiments, trade-offs (sacrificing one conception of the world in favor of another), “biting the bullet” (accepting the negative implications of a view that has much to recommend it), and reflective equilibrium (comparing theory to real-world cases or examples).</para>
+      </section>
+      <section id="sect-00009">
+      <title>1.3 Socrates as a Paradigmatic Historical Philosopher</title>
+      <para id="para-00015">Socrates, an ancient Greek philosopher, can be viewed as a kind of paradigm of what it means to do philosophy. Socrates’s philosophy is known to us primarily through the writings of his student Plato. Socrates made few philosophical claims, but he did assert two moral principles: that no one willingly chooses what is harmful and that when a person does harm to others, they harm themselves. Socrates’s principle to do no harm is similar to the Indian concept of ahimsa, or the absence of harm, which is a central moral value in Indian religious and philosophical systems.</para>
+      </section>
+      <section id="sect-00010">
+      <title>1.4 An Overview of Contemporary Philosophy</title>
+      <para id="para-00016">Contemporary academic philosophy is different from the classical traditions, although the motivation for doing philosophy remains the same. If you are interested in pursuing a career in academic philosophy, a graduate degree—most likely a PhD—is required. However, philosophy majors at any level can have fulfilling and rewarding careers in a variety of fields.</para>
+      </section>
+      </section>
+      
+      <section class="review-questions" id="sect-00011">
+      <title>Review Questions</title>
+      <section id="sect-00012">
+      <title>Section 1.1</title>
+      <exercise id="exer-00001">
+      <problem id="prob-00001">
+      <para id="para-00017"><link class="os-embed" url="exercise/PH_Ch1-Sec1_DQ1"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00002">
+      <problem id="prob-00002">
+      <para id="para-00018"><link class="os-embed" url="exercise/PH_Ch1-Sec1_DQ2"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00003">
+      <problem id="prob-00003">
+      <para id="para-00019"><link class="os-embed" url="exercise/PH_Ch1-Sec1_DQ3"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00004">
+      <problem id="prob-00004">
+      <para id="para-00020"><link class="os-embed" url="exercise/PH_Ch1-Sec1_DQ4"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00005">
+      <problem id="prob-00005">
+      <para id="para-00021"><link class="os-embed" url="exercise/PH_Ch1-Sec1_DQ5"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00006">
+      <problem id="prob-00006">
+      <para id="para-00022"><link class="os-embed" url="exercise/PH_Ch1-Sec1_DQ6"/></para>
+      </problem>
+      </exercise>
+      </section>
+      <section id="sect-00013">
+      <title>Section 1.2</title>
+      <exercise id="exer-00007">
+      <problem id="prob-00007">
+      <para id="para-00023"><link class="os-embed" url="exercise/PH_Ch1-Sec2_DQ1"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00008">
+      <problem id="prob-00008">
+      <para id="para-00024"><link class="os-embed" url="exercise/PH_Ch1-Sec2_DQ2"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00009">
+      <problem id="prob-00009">
+      <para id="para-00025"><link class="os-embed" url="exercise/PH_Ch1-Sec2_DQ3"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00010">
+      <problem id="prob-00010">
+      <para id="para-00026"><link class="os-embed" url="exercise/PH_Ch1-Sec2_DQ4"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00011">
+      <problem id="prob-00011">
+      <para id="para-00027"><link class="os-embed" url="exercise/PH_Ch1-Sec2_DQ5"/></para>
+      </problem>
+      </exercise>
+      </section>
+      <section id="sect-00014">
+      <title>Section 1.3</title>
+      <exercise id="exer-00012">
+      <problem id="prob-00012">
+      <para id="para-00028"><link class="os-embed" url="exercise/PH_Ch1-Sec3_DQ1"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00013">
+      <problem id="prob-00013">
+      <para id="para-00029"><link class="os-embed" url="exercise/PH_Ch1-Sec3_DQ2"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00014">
+      <problem id="prob-00014">
+      <para id="para-00030"><link class="os-embed" url="exercise/PH_Ch1-Sec3_DQ3"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00015">
+      <problem id="prob-00015">
+      <para id="para-00031"><link class="os-embed" url="exercise/PH_Ch1-Sec3_DQ4"/></para>
+      </problem>
+      </exercise>
+      </section>
+      <section id="sect-00015">
+      <title>Section 1.4</title>
+      <exercise id="exer-00016">
+      <problem id="prob-00016">
+      <para id="para-00032"><link class="os-embed" url="exercise/PH_Ch1-Sec4_DQ1"/></para>
+      </problem>
+      </exercise>
+      </section>
+      </section>
+      
+      <section class="further-reading" id="sect-00016">
+      <title>Further Reading</title>
+      <para id="para-00033">Arendt, Hannah. 1971. “Thinking and Moral Considerations.” <emphasis effect="italics">Social Research</emphasis> 38 (3): 417–446.</para>
+      <para id="para-00034">Daniels, Norman. 2016. "Reflective Equilibrium." <emphasis effect="italics">The Stanford Encyclopedia of Philosophy.</emphasis> Updated October 14, 2016.<emphasis effect="italics"/> https://plato.stanford.edu/archives/sum2020/entries/reflective-equilibrium/.</para>
+      <para id="para-00035">Knobe, Joshua. n.d. “Program in Cognitive Science and Department of Philosophy.” Department of Philosophy and Cognitive Science at Yale, Experimental Philosophy. http://experimental-philosophy.yale.edu/</para>
+      <para id="para-00036">Ludlow, Peter. 2018. "Descriptions." <emphasis effect="italics">The Stanford Encyclopedia of Philosophy</emphasis>. Updated April 5, 2018. https://plato.stanford.edu/archives/fall2018/entries/descriptions/.</para>
+      <para id="para-00037">Marques, Joan. 2012. “Consciousness at Work: A Review of Some Important Values, Discussed from a Buddhist Perspective.” <emphasis effect="italics">Journal of Business Ethics</emphasis> 105 (1): 27–40.</para>
+      <para id="para-00038">Masolo, Dismas. 2016. "African Sage Philosophy." <emphasis effect="italics">The Stanford Encyclopedia of Philosophy</emphasis>. Updated February 22, 2016. https://plato.stanford.edu/archives/spr2016/entries/african-sage/.</para>
+      <para id="para-00039">Plato. “The Theaetetus.” Translated by Benjamin Jowett. http://classics.mit.edu/Plato/theatu.html.</para>
+      </section>
+      
+      <section class="references" id="sect-00017">
+      <title>References</title>
+      <section id="sect-00018">
+      <title>1.1 What Is Philosophy?</title>
+      <para id="para-00040">Adler, Joseph A. 2006. “Daughter/Wife/Mother or Sage/Immortal/Bodhisattva? Women in the Teaching of Chinese Religions.” <emphasis effect="italics">ASIANetwork Exchange</emphasis> 14 (2): 11–16.</para>
+      <para id="para-00041">Cheng, Julia. 1983. “The Ancient Sages (sheng): Their Identity and Their Place in Chinese Intellectual History.” <emphasis effect="italics">Oriens Extremus</emphasis> 30:1–18.</para>
+      <para id="para-00042">Diogenes Laërtius. (1925) 1972. <emphasis effect="italics">Lives of Eminent Philosophers</emphasis>. Translated by R. D. Hicks. New York: G.P. Putnam’s Sons. http://data.perseus.org/citations/urn:cts:greekLit:tlg0004.tlg001.perseus-eng1:1.prologue</para>
+      <para id="para-00043">Oruka, Henry Odera. 1990. <emphasis effect="italics">Sage Philosophy: Indigenous Thinkers and Modern Debate on African Philosophy</emphasis>. Nairobi: African Center for Technological Studies (ACTS) Press; also published by Leiden, The Netherlands: Brill.</para>
+      <para id="para-00044">Plato. <emphasis effect="italics">Apology</emphasis>. Translated by Benjamin Jowett. http://classics.mit.edu/Plato/apology.html.</para>
+      <para id="para-00045">———. <emphasis effect="italics">The Republic</emphasis>. Translated by Allan Bloom. New York: Basic Books, 1968.</para>
+      <para id="para-00046">Rout, Naresh. 2016. “Role of Women in Ancient India.” <emphasis effect="italics">Odisha Review</emphasis>, 72 (6): 42–47.</para>
+      <para id="para-00047">Sellars, Wilfred. 1962. “Philosophy in the Scientific Image of Man.” In <emphasis effect="italics">Frontiers of Science and Philosophy</emphasis>, edited by Robert Colodny, 35–78. Pittsburgh: University of Pittsburgh.</para>
+      <para id="para-00048">Waithe, Mary Ellen, ed. 1987. <emphasis effect="italics">A History of Women Philosophers, Vol. I: Ancient Women Philosophers, 600 BC–500 AD</emphasis>. Boston, MA: Martinus Nijhoff Publishers.</para>
+      </section>
+      <section id="sect-00019">
+      <title>1.2 How Do Philosophers Arrive at Truth?</title>
+      <para id="para-00049">Descartes, René. “The Rules for the Direction of the Mind.” <emphasis effect="italics">The Philosophical Writings of Descartes</emphasis>. Translated and edited by John Cottingham, Robert Stoothoff, and Dugald Murdoch, 7–78. Cambridge: Cambridge University Press, 1985.</para>
+      <para id="para-00050">Moore, G. E. 1939. “Proof of an External World.” <emphasis effect="italics">Proceedings of the British Academy</emphasis> 25:273–300.</para>
+      <para id="para-00051">Zhang, Fenzhi. 2015. <emphasis effect="italics">Xi Jinping: How to Read Confucius and Other Chinese Classical Thinkers</emphasis>. Beijing: CN Times Books.</para>
+      </section>
+      <section id="sect-00020">
+      <title>1.3 Socrates as a Paradigmatic Historical Philosopher</title>
+      <para id="para-00052">King, Martin Luther, Jr. 1963. “Letter from Birmingham Jail.” April 16, 1963. https://letterfromjail.com/.</para>
+      <para id="para-00053">McCarthy, Julie. 2015. “Fasting to the Death: Is It a Religious Rite or Suicide?” <emphasis effect="italics">NPR</emphasis>. September 2, 2015. https://www.npr.org/sections/goatsandsoda/2015/09/02/436820789/fasting-to-the-death-is-it-a-religious-rite-or-suicide.</para>
+      <para id="para-00054">Plato. <emphasis effect="italics">Apology</emphasis>, translated by Benjamin Jowett. http://classics.mit.edu/Plato/apology.html</para>
+      </section>
+      <section id="sect-00021">
+      <title>1.4 An Overview of Contemporary Philosophy</title>
+      <para id="para-00055">American Associate of University Professors (AAUP). 2018. “Data Snapshot: Contingent Faculty in US Higher Ed.” October 11, 2018. https://www.aaup.org/sites/default/files/10112018%20Data%20Snapshot%20Tenure.pdf.</para>
+      <para id="para-00056">Chideya, Farai. 2015. “Philosophers Don’t Get Much Respect, But Their Earnings Don’t Suck.” <emphasis effect="italics">FiveThirtyEight</emphasis>. November 11, 2015. https://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/.</para>
+      </section>
+      </section>
+    </content>
+    <glossary>
+      <definition id="def-00001"><term>Ahimsa</term> <meaning>one of the highest virtues of classical Indian religions. It is the practice of refraining from harming other living things.</meaning></definition>
+      <definition id="def-00002"><term>Argument</term> <meaning>a set of sentences, where some of those sentences (called premises) provide support for another sentence, called the conclusion.</meaning></definition>
+      <definition id="def-00003"><term>Coherence</term> <meaning>a situation in which it is possible for a set of beliefs or statements to be true at the same time.</meaning></definition>
+      <definition id="def-00004"><term>Common sense</term> <meaning>knowledge primarily derived from perception that seems clearly or obviously true.</meaning></definition>
+      <definition id="def-00005"><term>Conceptual analysis</term> <meaning>the process of taking apart and making sense of sentences or claims by examining their component parts.</meaning></definition>
+      <definition id="def-00006"><term>Definite description</term> <meaning>a method of conceptual analysis that substitutes a descriptive phrase that uniquely identifies the object or thing named for an object term or proper name.</meaning></definition>
+      <definition id="def-00007"><term>Enumeration</term> <meaning>the listing of the component parts of a concept, notion, or thing.</meaning></definition>
+      <definition id="def-00008"><term>Experimental philosophy</term> <meaning>philosophy that uses methods from experimental science to test claims made in philosophy.</meaning></definition>
+      <definition id="def-00009"><term>Intuition</term> <meaning>certain and evident cognition; the kind of knowledge that is so clear that it seems impossible for it to be false.</meaning></definition>
+      <definition id="def-00010"><term>Logic</term> <meaning>the formalization of reasoning.</meaning></definition>
+      <definition id="def-00011"><term>Milesians</term> <meaning>a school of early philosophers from Miletus; followers of Thales. They were known for examining the underlying causes of natural phenomena.</meaning></definition>
+      <definition id="def-00012"><term>Philosophy</term> <meaning>the “love of wisdom.” An academic discipline that attempts to grasp the broadest possible understanding of things. It is characterized by rational explanation and a willingness to question assumptions.</meaning></definition>
+      <definition id="def-00013"><term>Predicate</term> <meaning>the portion of a sentence that provides the description or characterization of an object or name. (A philosophical predicate is different from the predicate of grammar, and their definitions should not be confused.)</meaning></definition>
+      <definition id="def-00014"><term>Reflective equilibrium</term> <meaning>a process of reviewing a theoretical position by going back and forth between the theory and its practical applications. This process seeks coherence between theory and practice.</meaning></definition>
+      <definition id="def-00015"><term>Sage</term> <meaning>a wise person. Many ancient cultures designated important wise figures as “sages.”</meaning></definition>
+      <definition id="def-00016"><term>Thought experiment</term> <meaning>an imaginative scenario that tests some philosophical theory or concept by considering how it might apply in the imagined situation.</meaning></definition>
+      <definition id="def-00017"><term>Sanatana dharma</term> <meaning>the core or absolute set of moral and religious duties ordained for all people of ancient India, regardless of class or caste, and that predate the term <emphasis effect="italics">Hinduism</emphasis>.</meaning></definition>
+      <definition id="def-00018"><term>Socratic method</term> <meaning>a method of questioning used by Socrates (and named after him later) to help people understand what they were thinking and to arrive at some truth.</meaning></definition>
+      </glossary>
 </document>
