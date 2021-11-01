@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Philosophers of the Ancient World</title>
+   <instruction>
+    <desktop>Click each node on the timeline to explore corresponding details. Replay this interaction as many times as you need. There is no time limit. This activity is not graded.</desktop>
+    <mobile>Click each node on the timeline to explore corresponding details. Replay this interaction as many times as you need. There is no time limit. This activity is not graded.</mobile>
+  </instruction>
+  <artworktext>Artwork References </artworktext>
+  <citationtitle>Citations and Attributions</citationtitle>
+  <timelinedrawdetails>
+    <!-- <tval>1500 BC</tval>
+    <tval>800 BC</tval>
+    <tval>585 BC</tval>
+    <tval>551 BC</tval>
+    <tval>470 BC</tval>
+    <tval>429 BC</tval>
+    <tval>348 BC</tval>
+    <tval>280 BC</tval> -->
+    <tval>1500 BC</tval>
+    <tval>1300 BC</tval>
+    <tval>1100 BC</tval>
+    <tval>900 BC</tval>
+    <tval>700 BC</tval>
+    <tval>500 BC</tval>
+    <tval>300 BC</tval>
+    <tval>100 BC</tval>
+  </timelinedrawdetails>
+
+  <slides>
+    <slide>
+    
+      <image>
+      <position>right</position>
+        <src>OPX_Philo_Ch01_Med01.svg</src>
+        <alt>A figure shows the relationship of the different texts that are associated with the Vedas. The figure has a circle in the center with the word, Vedas, with four circle-shaped petals surrounding it. These petals are labelled Samhita, Brahmana, Aranyaka, and Upanishad.</alt>
+        <citation><![CDATA[]]></citation>
+      </image>
+      <content>
+        <heading>Vedas (1500 – 1000 BC)</heading>
+        <paras>
+          <para>The Vedas are ancient texts that form the basis of the Hindu religion and philosophies. Hindus consider the Vedas to be of divine origin, revealed to sages over time through meditation. Written down in Sanskrit between 1500 and 500 BCE, the Vedas consist of four main texts of mantras, often called the Samhita. Most of its mantras are used during worship or rituals. In addition, texts written down later are often included within the Vedas. These are the Brahmanas, manuals of ritual and prayer, and the Aranyakas and Upanishads, books of philosophy.</para>
+          <para></para>
+        </paras>
+      </content>
+      <redpointdetails>
+        <point>1500 BC</point>
+        <rangevalue>.31</rangevalue>
+        <desktop>
+          <marginleftpos>12.2px</marginleftpos>
+        </desktop>
+        <mobile>
+          <marginleftpos>6.5px</marginleftpos>
+        </mobile>
+
+      </redpointdetails>
+    </slide>
+
+    <slide>
+    
+      <image>
+      <position>left</position>
+        <src>Raja_Ravi_Varma_-_Sankaracharya.jpg</src>
+        <alt>A painting depicts Adi Shankara who is the author of a commentary on the dialogues featuring Maitreyi. Shankara is sitting cross legged surrounded by his four disciples.</alt>
+        <citation><![CDATA["Adi Shankara (788-820), founder of Advaita Vedanta, with disciples, by Raja Ravi Varma (1904)" by Raja Ravi Varma/Wikipedia, Public Domain]]></citation>
+      </image>
+      <content>
+        <heading>Maitreyi</heading>
+        <paras>
+          <para>Maitreyi was an Indian sage who appears in one of the earliest Upanishads, philosophical treaties of the Hindu sacred texts, the Vedas. The Upanishads often feature dialogues between sages. Maitreyi and Rishi Yajnavalkya engage in a well-known dialogue about material possessions, which cannot give a person happiness, and the achievement of ultimate bliss through knowledge of the Absolute. She is also associated with 10 of the Riga Veda, the earliest book of the Vedas.</para>
+          <para></para>
+        </paras>
+      </content>
+      <redpointdetails>
+      <point>800 BC</point>
+      <rangevalue>49.9</rangevalue>
+       <desktop>
+        <marginleftpos>-15.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-22px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+     
+     <slide>
+    
+      <image>
+      <position>right</position>
+        <src>OPX_Philo_Ch01_Med02.svg</src>
+        <alt>The figure represents a 365-day Egyptian calendar. It is a circle divided into twelve months. The first four months are labelled akhet, inundation. The next four months are labelled peret for the winter growing season. The final four months are labelled shemu for the summer harvest season. Writing on the calendar indicates the each month is divided into three weeks of 10 days and that there are five extra days to make a 365-day year.</alt>
+        <citation><![CDATA[]]></citation>
+      </image>
+      <content>
+        <heading>Thales of Miletus</heading>
+        <paras>
+          <para>One of the Seven Sages of Greece, Thales of Miletus was a Greek mathemetician, astronomer, and philosopher. Aristotle credited him as being the first Greek to turn toward the natural world to explain phenomenon. Thales studied in Egypt, bringing back the 365-day calendar and predicting a solar eclipse. He was a monist, believing that the universe was composed of one basic substance. Thales believed that water was this fundamental substance.</para>
+          <para></para>
+        </paras>
+      </content>
+      <redpointdetails>
+      <point>585 BC</point>
+      <rangevalue>65.3</rangevalue>
+       <desktop>
+        <marginleftpos>-24.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-31px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+
+    <slide>
+      <image>
+      <position>left</position>
+        <src>Confucius_Statue_at_the_Yushima_Seido.jpg</src>
+        <alt>A photo shows the stone statue of Confucius, wearing an embroidered gown with a knife, at Yushima Seidoa Confucian temple in Japan.</alt>
+        <citation><![CDATA["Confucius Statue at the Yushima Seido" by Abasaa/Wikipedia, Public Domain]]></citation>
+      </image>
+      <content>
+        <heading>Confucius</heading>
+        <paras>
+          <para>Confucius (551-479 BC) was the founder of Confucianism, a philosophy that has influenced society, politics, and culture in East Asia for over 2000 years. Not a member of the aristocracy, Confucious rose from lowly positions to become a minister in the government of a province in eastern China. Confucious’ teachings centered on virtue, veering into practical subjects such as social obligations, ritual performance, and governance. Confucious authored many of the Chinese classical texts on math, medicine, agriculture, astronomy and other subjects that served as the basis of imperial exams required to become a government official.</para>
+          <para></para>
+        </paras>
+      </content>
+    <redpointdetails>
+      <point>551 BC</point>
+      <rangevalue>68.7</rangevalue>
+      <desktop>
+        <marginleftpos>-24.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-31px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+<!-- new 1-->
+    <slide>
+      <image>
+      <position>left</position>
+        <src>OPX_Philo_Ch01_Med03.svg</src>
+        <alt>A drawing of poison Hemlock shows the white tufts of flowers at the end of long green stems.</alt>
+        <citation><![CDATA[]]></citation>
+      </image>
+      <content>
+        <heading>Socrates</heading>
+        <paras>
+          <para>Socrates (470 – 399 BC) was the earliest of the ancient Greek philosophers whose ideas greatly inform Western philosophy. Unlike earlier sages, Socrates recognized the limits of human knowledge. He developed the Socratic method, a method of asking and answering questions that uncovers presumptions that is still used today. As Socrates authored no texts himself, his ideas about morality, government, and knowledge survive through the writings of his students, the most famous of which is Plato. Charged with the corruption of youth, Socrates was sentenced to death, administered by drinking poison hemlock.</para>
+          <para></para>
+        </paras>
+      </content>
+    <redpointdetails>
+      <point>470 BC</point>
+      <rangevalue>73.3</rangevalue>
+      <desktop>
+        <marginleftpos>-29.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-34px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+
+    <!-- new 2-->
+    <slide>
+      <image>
+      <position>left</position>
+        <src>Platon_Cave_Sanraedam_1604.jpg</src>
+        <alt>People dressed in robes who appear distressed are kept behind a high barrier. Small statues are on top of the barrier and a bright fire shines behind these statues. The people gaze at the shadows of statues=s reflected onto a wall and look as if they might be shadows of real people. Meanwhile, a small group of men in front of the high barrier can see the statues and their shadows.</alt>
+        <citation><![CDATA["Plato's Cave" by Jan Saenredam/Wikipedia, Public Domain]]></citation>
+      </image>
+      <content>
+        <heading>Plato</heading>
+        <paras>
+          <para><![CDATA[Along with his teacher Socrates and his student Aristotle, Plato (429 – 347 BC) is one of the most influencial founders of Western philosophy. <em>The Republic, Apologia</em>, and his other works, covering nature of the universe (metaphysics), theory of knowledge (epistemology), ethics, and politics have been studied for over 2,300 years.]]></para>
+          <para></para>
+        </paras>
+      </content>
+    <redpointdetails>
+      <point>429 BC</point>
+      <rangevalue>77</rangevalue>
+      <desktop>
+        <marginleftpos>-29.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-38px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+     <!-- new 3-->
+    <slide>
+      <image>
+      <position>left</position>
+        <src>Olympias_presenting_the_young_Alexander_the_Great_to_Aristotle_by_Gerard_Hoet_before_1733_MH.jpg</src>
+        <alt>A painting depicts a scene in which Olympia presents the young Alexander the Great with his tutor, Aristotle. Members of the court look on as Olympia takes the child’s hand and points to Aristotle.</alt>
+        <citation><![CDATA["Olympias presenting the young Alexander the Great to Aristotle by Gerard Hoet before 1733" by Gerard Hoet/Wikipedia, Public Domain]]></citation>
+      </image>
+      <content>
+        <heading>Aristotle</heading>
+        <paras>
+          <para>Aristotle (348–322 BCE), a student of Plato, was an ancient Greek philosopher whose work in ethics, politics, logic, and the natural world provided the foundation for political and scientific thought in the Christian and Islamic worlds until the modern era. Aristotle’s ethics is based on the idea that happiness is achieved through virtue, which involves carrying out an innate purpose. His studies of motion, optics, astronomy, living organism, human psychology, and other areas have been challenged, changed, and develop into our current understandings of the natural world. Aristotle founded the Lyceum and served as tutor to Alexander the Great.</para>
+          <para></para>
+        </paras>
+      </content>
+    <redpointdetails>
+      <point>348 BC</point>
+      <rangevalue>82.9</rangevalue>
+      <desktop>
+        <marginleftpos>-33.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-40px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+
+     <!-- new 4-->
+    <slide>
+      <image>
+      <position>left</position>
+        <src>Portrait_of_Han_Fei.jpg</src>
+        <alt>A portrait represents philosopher and historian Han Feizi.</alt>
+        <citation><![CDATA["Portrait of Han Fei" by unknown author/Wikimedia Commons, Public Domain]]></citation>
+      </image>
+      <content>
+        <heading>Han Feizi</heading>
+        <paras>
+          <para>Han Feizi (280 - 223 CE) was the founder of the doctrine of Legalism, a philosophy that displaced Confucianism during the first dynasty of Imperial China. Han Feizi refuted Confucius’ ideal of virtue as a means of governance. Instead, he argued that government must be based on laws that all must obey. Han Feizi designed administrative techniques to ensure that governments run smoothly, advocating for a system of rewards and punishments based on whether officials performed their duties and respected the ruler’s authority.</para>
+          <para></para>
+        </paras>
+      </content>
+    <redpointdetails>
+      <point>280 BC</point>
+      <rangevalue>87.4</rangevalue>
+      <desktop>
+        <marginleftpos>-34.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-43.5px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+
+  </slides>
+</dataset>
