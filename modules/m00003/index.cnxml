@@ -124,6 +124,34 @@
         <title/>
         <para id="para-00037">Philosophers use a number of techniques to gain a holistic understanding of how things hang together in the broadest possible sense. Some of these sources include the history of philosophy; intuition, or realizations that are a product of a clear and attentive mind; and common sense, or facts that are ascertained through sense perception. Logic has always been an important part of both philosophical and scientific reasoning, as well as conceptual analysis, which breaks down complex ideas into smaller and simpler components. Other techniques used by philosophers are thought experiments, trade-offs (sacrificing one conception of the world in favor of another), “biting the bullet” (accepting the negative implications of a view that has much to recommend it), and reflective equilibrium (comparing theory to real-world cases or examples).</para>
         </section>
+        <section class="review-questions" id="sect-00021">
+          <title/>
+          <exercise id="exer-00007">
+          <problem id="prob-00007">
+          <para id="para-00038"><link class="os-embed" url="#exercise/PH_Ch1-Sec2_DQ1"/></para>
+          </problem>
+          </exercise>
+          <exercise id="exer-00008">
+          <problem id="prob-00008">
+          <para id="para-00039"><link class="os-embed" url="#exercise/PH_Ch1-Sec2_DQ2"/></para>
+          </problem>
+          </exercise>
+          <exercise id="exer-00009">
+          <problem id="prob-00009">
+          <para id="para-00040"><link class="os-embed" url="#exercise/PH_Ch1-Sec2_DQ3"/></para>
+          </problem>
+          </exercise>
+          <exercise id="exer-00010">
+          <problem id="prob-00010">
+          <para id="para-00041"><link class="os-embed" url="#exercise/PH_Ch1-Sec2_DQ4"/></para>
+          </problem>
+          </exercise>
+          <exercise id="exer-00011">
+          <problem id="prob-00011">
+          <para id="para-00042"><link class="os-embed" url="#exercise/PH_Ch1-Sec2_DQ5"/></para>
+          </problem>
+          </exercise>
+        </section>
 </content>
 <glossary>
 <definition id="def-00001"><term>Argument</term> <meaning>a set of sentences, where some of those sentences (called premises) provide support for another sentence, called the conclusion.</meaning></definition>
