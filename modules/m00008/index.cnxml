@@ -6,8 +6,131 @@
     <md:uuid>3e19563e-1abc-4ca3-bba1-4b64fe515b4f</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">Placeholder Text</para>
-    </section>
+    <section class="learning-objectives" id="sect-00001">
+<title>Learning Objectives</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
+<item>Label the conditions that make critical thinking possible.</item>
+<item>Classify and describe cognitive biases.</item>
+<item>Apply critical reflection strategies to resist cognitive biases.</item>
+</list>
+</section>
+<para id="para-00002">To resist the potential pitfalls of cognitive biases, we have taken some time to recognize why we fall prey to them. Now we need to understand how to resist easy, automatic, and error-prone thinking in favor of more reflective, critical thinking.</para>
+<section id="sect-00002">
+<title>Critical Reflection and Metacognition</title>
+<para id="para-00003">To promote good critical thinking, put yourself in a frame of mind that allows critical reflection. Recall from the previous section that rational thinking requires effort and takes longer. However, it will likely result in more accurate thinking and decision-making. As a result, reflective thought can be a valuable tool in correcting cognitive biases. The critical aspect of critical reflection involves a willingness to be skeptical of your own beliefs, your gut reactions, and your intuitions. Additionally, the critical aspect engages in a more analytic approach to the problem or situation you are considering. You should assess the facts, consider the evidence, try to employ logic, and resist the quick, immediate, and likely conclusion you want to draw. By reflecting critically on your own thinking, you can become aware of the natural tendency for your mind to slide into mental shortcuts.</para>
+<para id="para-00004">This process of critical reflection is often called <term id="term-00001">metacognition</term> in the literature of pedagogy and psychology. Metacognition means thinking about thinking and involves the kind of self-awareness that engages higher-order thinking skills. Cognition, or the way we typically engage with the world around us, is first-order thinking, while metacognition is higher-order thinking. From a metacognitive frame, we can critically assess our thought process, become skeptical of our gut reactions and intuitions, and reconsider our cognitive tendencies and biases.</para>
+<para id="para-00005">To improve metacognition and critical reflection, we need to encourage the kind of self-aware, conscious, and effortful attention that may feel unnatural and may be tiring. Typical activities associated with metacognition include checking, planning, selecting, inferring, self-interrogating, interpreting an ongoing experience, and making judgments about what one does and does not know (Hackner, Dunlosky, and Graesser 1998). By practicing metacognitive behaviors, you are preparing yourself to engage in the kind of rational, abstract thought that will be required for philosophy.</para>
+<para id="para-00006">Good study habits, including managing your workspace, giving yourself plenty of time, and working through a checklist, can promote metacognition. When you feel stressed out or pressed for time, you are more likely to make quick decisions that lead to error. Stress and lack of time also discourage critical reflection because they rob your brain of the resources necessary to engage in rational, attention-filled thought. By contrast, when you relax and give yourself time to think through problems, you will be clearer, more thoughtful, and less likely to rush to the first conclusion that leaps to mind. Similarly, background noise, distracting activity, and interruptions will prevent you from paying attention. You can use this checklist to try to encourage metacognition when you study:</para>
+<list id="list-00002">
+<item>Check your work.</item>
+<item>Plan ahead.</item>
+<item>Select the most useful material.</item>
+<item>Infer from your past grades to focus on what you need to study.</item>
+<item>Ask yourself how well you understand the concepts.</item>
+<item>Check your weaknesses.</item>
+<item>Assess whether you are following the arguments and claims you are working on.</item>
+</list>
+</section>
+<section id="sect-00003">
+<title>Cognitive Biases</title>
+<para id="para-00007">In this section, we will examine some of the most common cognitive biases so that you can be aware of traps in thought that can lead you astray. Cognitive biases are closely related to informal fallacies. Both <term class="no-emphasis" id="term-00002">fallacies</term> and biases provide examples of the ways we make errors in reasoning.</para>
+<note class="philo-connections" id="note-00001">
+<para id="para-00008">See Chapter 3, Section 3.5, “Informal Fallacies.”</para>
+</note>
+<para id="para-00009">Watch the following YouTube video to orient yourself before reading the text that follows.</para>
+<note class="media-video" id="note-00002">
+<title>Cognitive Biases 101, with Peter Bauman</title>
+<media alt="atoms_isotopes"><iframe width="660" height="371.4" src="https://www.youtube.com/watch?v=AK0GYBTNx5Q"/></media>
+</note>
+<section id="sect-00004">
+<title>Confirmation Bias</title>
+<para id="para-00010">One of the most common cognitive biases is <term id="term-00003">confirmation bias</term>, which is the tendency to search for, interpret, favor, and recall information that confirms or supports your prior beliefs. Like all cognitive biases, confirmation bias serves an important function. For instance, one of the most reliable forms of confirmation bias is the belief in our shared reality. Suppose it is raining. When you first hear the patter of raindrops on your roof or window, you may think it is raining. You then look for additional signs to confirm your conclusion, and when you look out the window, you see rain falling and puddles of water accumulating. Most likely, you will not be looking for irrelevant or contradictory information. You will be looking for information that confirms your belief that it is raining. Thus, you can see how confirmation bias—based on the idea that the world does not change dramatically over time—is an important tool for navigating in our environment.</para>
+<para id="para-00011">Unfortunately, as with most heuristics, we tend to apply this sort of thinking inappropriately. One example that has recently received a lot of attention is the way in which confirmation bias has increased political polarization. When searching for information on the internet about an event or topic, most people look for information that confirms their prior beliefs rather than what undercuts them. The pervasive presence of social media in our lives is exacerbating the effects of confirmation bias since the computer algorithms used by social media platforms steer people toward content that reinforces their current beliefs and predispositions. These multimedia tools are especially problematic when our beliefs are incorrect (for example, they contradict scientific knowledge) or antisocial (for example, they support violent or illegal behavior). Thus, social media and the internet have created a situation in which confirmation bias can be “turbocharged” in ways that are destructive for society.</para>
+<note class="philo-connections" id="note-00003">
+<para id="para-00012">Read more about social media’s computer algorithms in Chapter 9, Section 9.5.2, “The Growth of AI Applications.”</para>
+</note>
+<para id="para-00013">Confirmation bias is a result of the brain’s limited ability to process information. Peter Wason (1960) conducted early experiments identifying this kind of bias. He asked subjects to identify the rule that applies to a sequence of numbers—for instance, 2, 4, 8. Subjects were told to generate examples to test their hypothesis. What he found is that once a subject settled on a particular hypothesis, they were much more likely to select examples that confirmed their hypothesis rather than negated it. As a result, they were unable to identify the real rule (any ascending sequence of numbers) and failed to “falsify” their initial assumptions. Falsification is an important tool in the scientist’s toolkit when they are testing hypotheses and is an effective way to avoid confirmation bias.</para>
+<note class="philo-connections" id="note-00004">
+<para id="para-00014">See Visualization in Chapter 3, Section 3.4.2.2, along with the Wason Selection Task.</para>
+</note>
+<para id="para-00015">In philosophy, you will be presented with different arguments on issues, such as the nature of the mind or the best way to act in a given situation. You should take your time to reason through these issues carefully and consider alternative views. What you believe to be the case may be right, but you may also fall into the trap of confirmation bias, seeing confirming evidence as better and more convincing than evidence that calls your beliefs into question.</para>
+</section>
+<section id="sect-00005">
+<title>Anchoring Bias</title>
+<para id="para-00016">Confirmation bias is closely related to another bias known as anchoring. <term id="term-00004">Anchoring bias</term> refers to our tendency to rely on initial values, prices, or quantities when estimating the actual value, price, or quantity of something. If you are presented with a quantity, even if that number is clearly arbitrary, you will have a hard discounting it in your subsequent calculations; the initial value “anchors” subsequent estimates. For instance, Tversky and Kahneman (1974) reported an experiment in which subjects were asked to estimate the number of African nations in the United Nations. First, the experimenters spun a wheel of fortune in front of the subjects that produced a random number between 0 and 100. Let’s say the wheel landed on 79. Subjects were asked whether the number of nations was higher or lower than the random number. Subjects were then asked to estimate the real number of nations. Even though the initial anchoring value was random, people in the study found it difficult to deviate far from that number. For subjects receiving an initial value of 10, the median estimate of nations was 25, while for subjects receiving an initial value of 65, the median estimate was 45.</para>
+<para id="para-00017">In the same paper, Tversky and Kahneman described the way that anchoring bias interferes with statistical reasoning. In a number of scenarios, subjects made irrational judgments about statistics because of the way the question was phrased (i.e., they were tricked when an anchor was inserted into the question). Instead of expending the cognitive energy needed to solve the statistical problem, subjects were much more likely to “go with their gut,” or think intuitively. That type of reasoning generates anchoring bias. When you do philosophy, you will be confronted with some formal and abstract problems that will challenge you to engage in thinking that feels difficult and unnatural. Resist the urge to latch on to the first thought that jumps into your head, and try to think the problem through with all the cognitive resources at your disposal.</para>
+</section>
+<section id="sect-00006">
+<title>Availability Heuristic</title>
+<para id="para-00018">The <term id="term-00005">availability heuristic</term> refers to the tendency to evaluate new information based on the most recent or most easily recalled examples. The availability heuristic occurs when people take easily remembered instances as being more representative than they objectively are (i.e., based on statistical probabilities). In very simple situations, the availability of instances is a good guide to judgments. Suppose you are wondering whether you should plan for rain. It may make sense to anticipate rain if it has been raining a lot in the last few days since weather patterns tend to linger in most climates. More generally, scenarios that are well-known to us, dramatic, recent, or easy to imagine are more available for retrieval from memory. Therefore, if we easily remember an instance or scenario, we may incorrectly think that the chances are high that the scenario will be repeated. For instance, people in the United States estimate the probability of dying by violent crime or terrorism much more highly than they ought to. In fact, these are extremely rare occurrences compared to death by heart disease, cancer, or car accidents. But stories of violent crime and terrorism are prominent in the news media and fiction. Because these vivid stories are dramatic and easily recalled, we have a skewed view of how frequently violent crime occurs.</para>
+</section>
+<section id="sect-00007">
+<title>Tribalism</title>
+<para id="para-00019">Another more loosely defined category of cognitive bias is the tendency for human beings to align themselves with groups with whom they share values and practices. The tendency toward <term id="term-00006">tribalism</term> is an evolutionary advantage for social creatures like human beings. By forming groups to share knowledge and distribute work, we are much more likely to survive. Not surprisingly, human beings with pro-social behaviors persist in the population at higher rates than human beings with antisocial tendencies. Pro-social behaviors, however, go beyond wanting to communicate and align ourselves with other human beings; we also tend to see outsiders as a threat. As a result, tribalistic tendencies both reinforce allegiances among in-group members and increase animosity toward out-group members.</para>
+<para id="para-00020">Tribal thinking makes it hard for us to objectively evaluate information that either aligns with or contradicts the beliefs held by our group or tribe. This effect can be demonstrated even when in-group membership is not real or is based on some superficial feature of the person—for instance, the way they look or an article of clothing they are wearing. A related bias is called the <term id="term-00007">bandwagon fallacy</term>. The bandwagon fallacy can lead you to conclude that you ought to do something or believe something because many other people do or believe the same thing. While other people can provide guidance, they are not always reliable. Furthermore, just because many people believe something doesn’t make it true. Watch the video below to improve your “tribal literacy” and understand the dangers of this type of thinking.</para>
+<note class="media-video" id="note-00005">
+<title>The Dangers of Tribalism, Kevin deLaplante</title>
+<media alt="atoms_isotopes"><iframe width="660" height="371.4" src="https://www.youtube.com/watch?v=7y-b7f6CK2M"/></media>
+</note>
+</section>
+<section id="sect-00008">
+<title>Sunk Cost Fallacy</title>
+<para id="para-00021">Sunk costs refer to the time, energy, money, or other costs that have been paid in the past. These costs are “sunk” because they cannot be recovered. The <term id="term-00008">sunk cost fallacy</term> is thinking that attaches a value to things in which you have already invested resources that is greater than the value those things have today. Human beings have a natural tendency to hang on to whatever they invest in and are loath to give something up even after it has been proven to be a liability. For example, a person may have sunk a lot of money into a business over time, and the business may clearly be failing. Nonetheless, the businessperson will be reluctant to close shop or sell the business because of the time, money, and emotional energy they have spent on the venture. This is the behavior of “throwing good money after bad” by continuing to irrationally invest in something that has lost its worth because of emotional attachment to the failed enterprise. People will engage in this kind of behavior in all kinds of situations and may continue a friendship, a job, or a marriage for the same reason—they don’t want to lose their investment even when they are clearly headed for failure and ought to cut their losses.</para>
+<para id="para-00022">A similar type of faulty reasoning leads to the <term id="term-00009">gambler’s fallacy</term>, in which a person reasons that future chance events will be more likely if they have not happened recently. For instance, if I flip a coin many times in a row, I may get a string of heads. But even if I flip several heads in a row, that does not make it more likely I will flip tails on the next coin flip. Each coin flip is statistically independent, and there is an equal chance of turning up heads or tails. The gambler, like the reasoner from sunk costs, is tied to the past when they should be reasoning about the present and future.</para>
+<para id="para-00023">There are important social and evolutionary purposes for past-looking thinking. Sunk-cost thinking keeps parents engaged in the growth and development of their children after they are born. Sunk-cost thinking builds loyalty and affection among friends and family. More generally, a commitment to sunk costs encourages us to engage in long-term projects, and this type of thinking has the evolutionary purpose of fostering culture and community. Nevertheless, it is important to periodically reevaluate our investments in both people and things.</para>
+<para id="para-00024">In recent ethical scholarship, there is some debate about how to assess the sunk costs of moral decisions. Consider the case of war. Just-war theory dictates that wars may be justified in cases where the harm imposed on the adversary is proportional to the good gained by the act of defense or deterrence. It may be that, at the start of the war, those costs seemed proportional. But after the war has dragged on for some time, it may seem that the objective cannot be obtained without a greater quantity of harm than had been initially imagined. Should the evaluation of whether a war is justified estimate the total amount of harm done or prospective harm that will be done going forward (Lazar 2018)? Such questions do not have easy answers.</para>
+<note class="philo-connections" id="note-00006">
+<para id="para-00025">See Just War Theory in Section 10.6.5 of Chapter 10.</para>
+</note>
+<note class="think-philosopher" id="note-00007">
+<para id="para-00026">As we have seen, cognitive biases are built into the way human beings process information. They are common to us all, and it takes self-awareness and effort to overcome the tendency to fall back on biases. Consider a time when you have fallen prey to one of the five cognitive biases described above. What were the circumstances? Recall your thought process. Were you aware at the time that your thinking was misguided? What were the consequences of succumbing to that cognitive bias?</para>
+<para id="para-00027">Write a short paragraph describing how that cognitive bias allowed you to make a decision you now realize was irrational. Then write a second paragraph describing how, with the benefit of time and distance, you would have thought differently about the incident that triggered the bias. Use the tools of critical reflection and metacognition to improve your approach to this situation. What might have been the consequences of behaving differently? Finally, write a short conclusion describing what lesson you take from reflecting back on this experience. Does it help you understand yourself better? Will you be able to act differently in the future? What steps can you take to avoid cognitive biases in your thinking today?</para>
+</note>
+</section>
+</section>
+
+<section class="summary" id="sect-00009">
+<title/>
+<para id="para-00028">Faulty inferences based on quick, automatic thinking are called cognitive biases, of which there are many. Strategies of critical reflection and metacognition help guard against cognitive biases and aid philosophers in avoiding common tendencies toward erroneous thinking.</para>
+</section>
+
+<section class="review-questions" id="sect-00010">
+<title/>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00029"><link class="os-embed" url="exercise/PH_Ch2-Sec2_RQ1"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00030"><link class="os-embed" url="exercise/PH_Ch2-Sec2_RQ2"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00031"><link class="os-embed" url="exercise/PH_Ch2-Sec2_RQ3"/></para>
+</problem>
+</exercise>
+</section>
+
+<section class="references" id="sect-00011">
+<title>References</title>
+<para id="para-00032">Hackner, Douglas J., Dunlosky, John, and Graesser, Arthur C, eds. 1998. <emphasis effect="italics">Metacognition in Educational Theory and Practice</emphasis>. New York: Lawrence Erlbaum and Associates.</para>
+<para id="para-00033">Lazar, Seth. 2018. “Moral Sunk Costs.” <emphasis effect="italics">The Philosophical Quarterly</emphasis> 68 (273): 841–61.</para>
+<para id="para-00034">Tversky, Amos, and Kahneman, Daniel. 1974. “Judgment under Uncertainty: Heuristics and Biases.” <emphasis effect="italics">Science</emphasis> 185 (4157): 1124–31.</para>
+<para id="para-00035">Wason, Peter C. 1960. “On the Failure to Eliminate Hypotheses in a Conceptual Task.” <emphasis effect="italics">Quarterly Journal of Experimental Psychology</emphasis>, 12 (3): 129-40. doi: 10.1080/17470216008416717.</para>
+</section>
 </content>
+<glossary>
+<definition id="def-00001"><term>Anchoring</term> <meaning>the tendency to make estimates based on an earlier initial value.</meaning></definition>
+<definition id="def-00002"><term>Availability heuristic</term> <meaning>the tendency to evaluate new information based on the most recent or most easily recalled examples.</meaning></definition>
+<definition id="def-00003"><term>Bandwagon fallacy</term> <meaning>the fallacy that we ought to do something or believe something because many other people do or believe the same thing.</meaning></definition>
+<definition id="def-00004"><term>Cognitive bias</term> <meaning>a systematic pattern of reasoning that deviates from a rationally optimal or logical judgment based on available facts and probabilities.</meaning></definition>
+<definition id="def-00005"><term>Confirmation bias</term> <meaning>the tendency to search for, interpret, favor, and recall information that confirms or supports established beliefs.</meaning></definition>
+<definition id="def-00006"><term>Gambler’s fallacy</term> <meaning>the reasoning that holds that if a chance event has happened less frequently in the recent past, it is more likely to happen in the near future (or vice versa).</meaning></definition>
+<definition id="def-00007"><term>Metacognition</term> <meaning>the process of thinking about thinking. Metacognition engages self-awareness and higher-order thinking skills so that an individual can regulate, monitor, and critically analyze their own thought processes.</meaning></definition>
+<definition id="def-00008"><term>Sunk-cost fallacy</term> <meaning>the fallacy of attaching a greater value to something than is warranted because a person has already invested time, resources, and emotion in that thing (or person).</meaning></definition>
+<definition id="def-00009"><term>Tribalism</term> <meaning>the tendency for human beings to align their beliefs and attitudes with groups of people who have similar attitudes, practices, or beliefs.</meaning></definition>
+</glossary>
 </document>

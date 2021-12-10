@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Necessary and Sufficient Conditions</title>
+   <instruction>
+    <desktop>Read the statement on each card. Identify the necessary and sufficient condition. Click the card to check your answer. Replay this interaction as many times as you need. There is no time limit. This activity is not graded.</desktop>
+    <mobile>Read the statement on each card. Identify the necessary and sufficient condition. Click the card to check your answer. Replay this interaction as many times as you need. There is no time limit. This activity is not graded.</mobile>
+  </instruction>
+  <!-- <artworktext>Artwork References</artworktext>
+  <citationtitle>Photo Credits</citationtitle>
+  <image>
+    <src>OPX_Comp_Ch 04_Med01.svg</src>
+    <alt> A line that rises to a peak in the middle and then falls again with five blank spots to fill in, from left to right: one on the far left, one on the incline, one at the peak, one on the decline, and one on the far right.</alt>
+  </image>
+  <feedback>
+    <correct>To learn more about the plot diagram, review Chapter 4 in your textbook.</correct>
+    <wrong>To learn more about the plot diagram, review Chapter 4 in your textbook.</wrong>
+  </feedback> -->
+  <items>
+    <item>
+       <front>
+          <type>text</type>
+          <text>If our team wins this game, then we are going to the championships.</text>
+          <!-- <image>
+            <src>image_1.svg</src>
+            <alt>A S</alt>
+            <citation>citation text: Tuesday’s numbers marked a stark increase from the 59 cases recorded on Monday, and the 89 cases recorded on Sunday</citation>
+          </image> -->
+        </front>
+        <back>
+          <text>Winning is sufficient for going to the championships. Going to the championships is a necessary condition of winning the game. </text>
+        </back>
+        <match>1</match>
+    </item>
+
+     <item>
+       <front>
+         <type>text</type>
+          <text>You can go to the party if you clean your room.</text>
+          <!-- <image>
+            <src>image_2.svg</src>
+            <alt>F E</alt>
+            <citation>citation text: Tuesday’s numbers marked a stark increase from the 59 cases recorded on Monday, and the 89 cases recorded on Sunday</citation>
+          </image> -->
+        </front>
+        <back>
+          <text>Cleaning your room is a necessary condition of being able to go to the party. Being allowed to go to the party is sufficient for knowing you have cleaned your room.</text>
+        </back>
+        <match>2</match>
+    </item>
+    <item>
+        <front>
+          <type>text</type>
+          <text>All management must report for training at 8 a.m.</text>
+          <!-- <image>
+            <src>image_3.svg</src>
+            <alt>P B</alt>
+            <citation>citation text: Tuesday’s numbers marked a stark increase from the 59 cases recorded on Monday, and the 89 cases recorded on Sunday</citation>
+          </image> -->
+        </front>
+        <back>
+          <text>Reporting for 8 a.m. training is necessary for all management. Being a member of management is sufficient for reporting for 8 a.m. training.</text>
+        </back>
+        <match>3</match>
+    </item>
+
+     <item>
+       <front>
+          <type>text</type>
+          <text>The power goes out whenever it storms.</text>
+          <!-- <image>
+            <src>image_4.svg</src>
+            <alt>H G</alt>
+            <citation>citation text: Tuesday’s numbers marked a stark increase from the 59 cases recorded on Monday, and the 89 cases recorded on Sunday</citation>
+          </image> -->
+        </front>
+        <back>
+          <text>The power going out is a necessary condition of a storm. A storm is sufficient for the power to go out.</text>
+        </back>
+        <match>1</match>
+    </item>
+
+
+  </items>
+</dataset>

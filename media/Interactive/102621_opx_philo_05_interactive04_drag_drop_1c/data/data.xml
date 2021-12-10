@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Types of Fallacies</title>
+ 
+
+   <instruction>
+    <desktop>Match each statement to the fallacy it illustrates by clicking a fallacy and then clicking the statement.</desktop>
+    <mobile>Match each statement to the fallacy it illustrates by clicking a fallacy and then clicking the statement.</mobile>
+  </instruction>
+  <feedback>
+     <correct>Good job! You correctly matched each statement with the type of fallacy it illustrates.</correct>
+     <wrong>Incorrect. A hasty generalization does not use enough evidence. Ad hominem fallacies attack the person rather than the claim. An appeal to ignorance relies on a lack of evidence to draw a conclusion.</wrong>
+  </feedback>
+
+  <items>
+    <item>
+      <clickable>
+        <text>Appeal to Ignorance</text>
+      </clickable>
+      <matching>
+        <text>In all our searching, we have not found intelligent life in the universe. Thus, we are the only intelligent life there is.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Tu Quoque</text>
+      </clickable>
+      <matching>
+        <text>Our competitors say it is wrong of us to manipulate market prices. But they’ve done it, so their criticism carries no weight.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>False Cause</text>
+      </clickable>
+      <matching>
+        <text>After the #MeToo movement, reports of rape increased by 20%. Clearly, the movement encouraged male supremacy in our society.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Biased Sample</text>
+      </clickable>
+      <matching>      
+        <text>90% of snowmobile owners say engine noises don’t bother them. So, people won't mind if the forest service lifts restrictions.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>False Dichotomy</text>
+      </clickable>
+      <matching>      
+        <text>The United States can either welcome all those who arrive or close our doors to all immigrants. I know which one I choose.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Appeal to Emotion</text>
+      </clickable>
+      <matching>
+        <text>Despite the evidence against my client, he's a father of four. Don't take him away from his children. Acquit him.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Hasty Generalization</text>
+      </clickable>
+      <matching>      
+        <text>I know the drug was approved by the FDA for seasickness, but I had an allergic reaction to it. The drug is not safe to use.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Ad Hominem</text>
+      </clickable>
+      <matching>
+        <text>Ali always argues politics, quoting economic figures to support his views. But what does he know? He never went to college.</text>
+      </matching>
+    </item>
+    
+  </items>
+</dataset>

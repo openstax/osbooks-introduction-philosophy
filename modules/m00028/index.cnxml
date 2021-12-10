@@ -6,8 +6,105 @@
     <md:uuid>eda86b4e-ce0d-4aab-91c0-6607a3c7d7a8</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">Placeholder Text</para>
-    </section>
+   <section class="learning-objectives" id="sect-00001">
+<title>Learning Objectives</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
+<item>Define key components of an argument.</item>
+<item>Categorize components of sample arguments.</item>
+<item>Explain the difference between assessing logic and assessing truth.</item>
+</list>
+</section>
+<para id="para-00002">As explained at the beginning of the chapter, an <term id="term-00001">argument</term> in philosophy is simply a set of reasons offered in support of some conclusion. So an “arguer” is a person who offers reasons for a specific conclusion. Notice that the definition does not state that the reasons <emphasis effect="italics">do</emphasis> support a conclusion (and rather states reasons are <emphasis effect="italics">offered</emphasis> or <emphasis effect="italics">meant</emphasis> to support a conclusion) because there are bad arguments in which reasons do not support a conclusion.</para>
+<para id="para-00003">Arguments have two components: the conclusion and the reasons offered to support it. The conclusion is what an arguer wants people to believe. The reasons offered are called <term id="term-00002">premises</term>. Often philosophers will craft a numbered argument to make clear each individual claim (premise) given in support of the conclusion. Here is an example of a numbered argument:</para>
+<list list-type="enumerated" id="list-00002">
+<item>If someone lives in San Francisco, then they live in California.</item>
+<item>If someone lives in California, then they live in the United States.</item>
+<item>Hassan lives in San Francisco.</item>
+<item>Therefore, Hassan lives in the United States.</item>
+</list>
+<section id="sect-00002">
+<title>Getting to the Premises</title>
+<para id="para-00004">The first step in understanding an argument is to identify the conclusion. Ask yourself what you think the main point or main idea is. Can you identify a thesis? Sometimes identifying the conclusion may involve a little bit of “mind reading.” You may have to ask yourself “What is this person trying to make me accept?” The arguer may use words that indicate a conclusion—for example, “therefore” or “hence” (see Table 5.1). After you have identified the conclusion, try to summarize it as well as you can. Then, identify the premises or evidence the arguer offers in support of that conclusion. Once again, identifying reasons can be tricky and might involve more mind reading because arguers don’t always explicitly state all of their reasons. Attempt to identify what you think the arguer wants you to accept as evidence. Sometimes arguers also use words that indicate that reasons or premises are being offered. In presenting evidence, people might use terms such as “<emphasis effect="italics">because</emphasis> of” or “since” (see Table 5.1). Lastly, if it is difficult to first identify the conclusion of an argument, you may have to begin by parsing the evidence to then figure out the conclusion.</para>
+<table summary="" id="table-00001">
+<tgroup cols="2">
+<tbody>
+<row>
+<entry><emphasis effect="bold">Conclusion indicator words and phrases</emphasis></entry>
+<entry>therefore, hence, so, thus, consequently, accordingly, as a result, it follows that, it entails that, we can conclude, for this reason, it must be that, it has to be that</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Premise indicator words and phrases</emphasis></entry>
+<entry>given that, since, because, for, in that, for the reason that, in as much as, as indicated by, seeing how, seeing that, it follows from, owing to, it may be inferred from</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="para-00005">Understanding evidence types can help you identify the premises being advanced for a conclusion. As discussed earlier in the chapter, philosophers will often offer definitions or conceptual claims in their arguments. For example, a premise may contain the conceptual claim that “The idea of God includes perfection.” Arguments can also contain as premises empirical evidence or information about the world gleaned through the senses. Principles are also used as premises in arguments. A principle is a general rule or law. Principles are as varied as fields of study and can exist in any domain. For example, “Do not use people merely as a means to an end” is an ethical principle.</para>
+<note class="philo-connections" id="note-00001">
+<para id="para-00006">See Conceptual Analysis in Chapter 1 (1.2.4).</para>
+</note>
+</section>
+<section id="sect-00003">
+<title>The Difference between Truth and Logic</title>
+<para id="para-00007">Analysis of arguments ought to take place on the levels of both truth <emphasis effect="italics">and</emphasis> logic. <term id="term-00003">Truth analysis</term> is the determination of whether statements are correct or accurate. On the other hand, <term id="term-00004">logical analysis</term> ascertains whether the premises of an argument support the conclusion.</para>
+<para id="para-00008">Often, people focus solely on the truth of an argument, but in philosophy logical analysis is often treated as primary. One reason for this focus is that philosophy deals with subjects in which it is difficult to determine the truth: the nature of reality, the existence of God, or the demands of morality. Philosophers use logic and inference to get closer to the truth on these subjects, and they assume that an inconsistency in a position is evidence against its truth.</para>
+<section id="sect-00004">
+<title>Logical Analysis </title>
+<para id="para-00009">Because logic is the study of reasoning, logical analysis involves assessing reasoning. Sometimes an argument with a false conclusion uses good reasoning. Similarly, arguments with true conclusions can use terrible reasoning. Consider the following absurd argument:</para>
+<list list-type="enumerated" id="list-00003">
+<item>The battle of Hastings occurred in 1066.</item>
+<item>Tamaracks are deciduous conifer trees.</item>
+<item>Therefore, Paris is the capital of France.</item>
+</list>
+<para id="para-00010">The premises of the above argument are true, as is the conclusion. However, the argument is illogical because the premises do not support the conclusion. Indeed, the premises are unrelated to each other and to the conclusion. More specifically, the argument does not contain a clear <term id="term-00005">inference</term> or evidence of reasoning. An inference is a reasoning process that leads from one idea to another, through which we formulate conclusions. So in an argument, an inference is the movement from the premises to the conclusion, where the former provide support for the latter. The above argument does not contain a clear inference because it is uncertain how we are supposed to cognitively move from the premises to the conclusion. Neither the truth nor the falsity of the premises helps us reason toward the truth of the conclusion. Here is another absurd argument:</para>
+<list list-type="enumerated" id="list-00004">
+<item>If the moon is made of cheese, then mice vacation there.</item>
+<item>The moon is made of cheese.</item>
+<item>Therefore, mice vacation on the moon.</item>
+</list>
+<para id="para-00011">The premises of the above argument are false, as is the conclusion. However, the argument has strong reasoning because it contains a good inference. If the premises are true, then the conclusion does follow. Indeed, the argument uses a particular kind of inference—deductive inference—and good a deductive inference <emphasis effect="italics">guarantees</emphasis> the truth of its conclusion as long as its premises are true.</para>
+<para id="para-00012">The important thing to remember is that a good inference involves clear steps by which we can move from premise to premise to reach a conclusion. The basic method for testing the two common types of inferences—deductive and inductive—is to provisionally assume that their premises are true. Assuming a neutral stance in considering an inference is crucial to doing philosophy. You begin by assuming that the premises are true and then ask whether the conclusion logically follows, given the truth of those premises.</para>
+</section>
+<section id="sect-00005">
+<title>Truth Analysis</title>
+<para id="para-00013">If the logic in an argument seems good, you next turn to assessing the truth of the premises. If you disagree with the conclusion or think it untrue, you must look for weaknesses (untruths) in the premises. If the evidence is empirical, check the facts. If the evidence is a principle, ask whether there are exceptions to the principle. If the evidence is a conceptual claim, think critically about whether the conceptual claim can be true, which often involves thinking critically about possible counterexamples to the claim.</para>
+</section>
+</section>
+
+<section class="summary" id="sect-00006">
+<title/>
+<para id="para-00014">An argument is a set of reasons offered in support of a conclusion. The reasons are called premises, and they are meant to logically support the conclusion. Identifying the premises involves critically identifying what is meant to be evidence for the conclusion. Both the premises and conclusion can be indicated by phrases and words. Evaluations of arguments take place on two levels: assessing truth and assessing logic. Logic and truth are separate features of arguments. Logical assessment involves determining whether the truth of the premises do support the conclusion. Logically good arguments contain inferences—a reasoning process that leads from one idea to another, through which we formulate conclusions—where the inference does support the conclusion.</para>
+</section>
+
+<section class="review-questions" id="sect-00007">
+<title/>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00015"><link class="os-embed" url="exercise/PH_Ch5-Sec3_RQ1"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00016"><link class="os-embed" url="exercise/PH_Ch5-Sec3_RQ2"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00017"><link class="os-embed" url="exercise/PH_Ch5-Sec3_RQ3"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00018"><link class="os-embed" url="exercise/PH_Ch5-Sec3_RQ4"/></para>
+</problem>
+</exercise>
+</section>
 </content>
+<glossary>
+<definition id="def-00001"><term>Argument</term> <meaning>a set of reasons offered in support of a conclusion.</meaning></definition>
+<definition id="def-00002"><term>Conclusion</term> <meaning>the result of an argument. A conclusion is that which is meant to be proved by the reasoning and premises used in an argument.</meaning></definition>
+<definition id="def-00003"><term>Premise</term> <meaning>evidence or a reason offered in support of a conclusion.</meaning></definition>
+<definition id="def-00004"><term>Truth analysis</term> <meaning>the process of determining whether statements made in an argument are either true or false.</meaning></definition>
+</glossary>
 </document>

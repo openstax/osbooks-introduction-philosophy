@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<titletext>Types of Inferences</titletext>
+<instruction>
+    <instructionnorm>To complete the activity, select an inference and then select the type of inference (inductive, deductive, or abductive) it represents.</instructionnorm>
+</instruction>
+  <category>
+      <categorytitle cat="one">Inductive</categorytitle>
+      <categorytitle cat="two">Deductive</categorytitle>
+      <categorytitle cat="three">Abductive</categorytitle>
+  </category>
+  
+  <draggableitem>
+    <item cat="one">Historically, March is the snowiest month in Ohio. Ohio will get a lot of snow this March.</item>
+    <item cat="two">If elk don't have enough water, they die off. Elk are thriving here, so there must be enough water.</item>
+    <item cat="one">Every time my insomnia gets bad, there’s something stressful going on. Stress causes my insomnia.</item>
+    <item cat="three">On the equinox, a pole on the equator will cast no shadow. From this, we infer the Earth is round.</item>
+    <item cat="three">My neighbor saw a package on my porch at 2 p.m. It was gone when I got home. The package was stolen.</item>
+    <item cat="two">Dad said we are going to either the movies or the pool. So, we are getting out of the house today. </item>
+    
+  </draggableitem>
+
+  <feedbackcor>Good job! You correctly identified the type of inference used in each statement.</feedbackcor>
+  <feedbackincor>Incorrect. Arguments that use past observations to predict the future or theorize beyond the evidence given are inductive. Arguments that use a conditional and do not refer to probability in the premise or conclusion are deductive. Arguments that list evidence and then conclude with a proposition that would explain the truth of the evidence are abductive.</feedbackincor>
+ 
+</dataset>

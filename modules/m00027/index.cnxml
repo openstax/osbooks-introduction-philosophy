@@ -6,8 +6,98 @@
     <md:uuid>b0f9c507-49c0-4a77-a524-25c520a021eb</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">Placeholder Text</para>
-    </section>
+   <section class="learning-objectives" id="sect-00001">
+<title>Learning Objectives</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
+<item>Identify the necessary and sufficient conditions in conditionals and universal affirmative statements.</item>
+<item>Describe counterexamples for statements.</item>
+<item>Examine the truth of conditionals and universal statements using counterexamples.</item>
+</list>
+</section>
+<para id="para-00002">Specific types of <emphasis effect="bold">statements</emphasis> have a particular meaning in logic, and such statements are frequently used by philosophers in their arguments. Of particular importance is the <emphasis effect="italics">conditional</emphasis>, which expresses the logical relations between two propositions. Conditional statements are used to accurately describe the world or construct a theory. Counterexamples are statements used to disprove a conditional. Universal statements are statements that assert something about every member of a set of things and are an alternative way to describe a conditional.</para>
+<section id="sect-00002">
+<title>Conditionals</title>
+<para id="para-00003">A <term id="term-00001">conditional</term> is most commonly expressed as an if–then statement, similar to the examples we discussed earlier when considering hypotheses. Additional examples of if–then statements are “If you eat your meat, then you can have some pudding” and “If that animal is a dog, then it is a mammal.” But there are other ways to express conditionals, such as “You can have pudding <emphasis effect="italics">only if</emphasis> you eat your meat” or “<emphasis effect="italics">All</emphasis> dogs are mammals.” While these sentences are different, their logical meaning is the same as their correlative if–then sentences above.</para>
+<para id="para-00004">All conditionals include two components—that which follows the “if” and that which follows the “then.” Any conditional can be rephrased in this format. Here is an example:</para>
+<quote id="quote-00001">
+<para id="para-00005">Statement 1: You must complete 120 credit hours to earn a bachelor’s degree.</para>
+<para id="para-00006">Statement 2: If you expect to graduate, then you must complete 120 credit hours.</para>
+</quote>
+<para id="para-00007">Whatever follows “if” is called the <emphasis effect="italics">antecedent</emphasis>; whatever follows “then” is called the <emphasis effect="italics">consequent</emphasis>. <emphasis effect="italics">Ante</emphasis> means “before,” as in the word “antebellum,” which in the United States refers to anything that occurred or was produced <emphasis effect="italics">before</emphasis> the American Civil War. The <emphasis effect="italics">ante</emphasis>cedent is the first part of the conditional, occurring <emphasis effect="italics">before</emphasis> the consequent. A consequent is a result, and in a conditional statement, it is the result of the antecedent (if the antecedent is true).</para>
+<section id="sect-00003">
+<title>Necessary and Sufficient Conditions</title>
+<para id="para-00008">All conditionals express two relations, or <emphasis effect="italics">conditions</emphasis>: those that are necessary and those that are sufficient. A relation is a relationship/property that exists between at least two things. If something is sufficient, it is always sufficient <emphasis effect="italics">for something else</emphasis>. And if something is necessary, it is always necessary <emphasis effect="italics">for something else.</emphasis> In the conditional examples offered above, one part of the relation is required for the other. For example, 120 credit hours are required for graduation, so 120 credit hours is necessary if you expect to graduate. Whatever is the consequent—that is, whatever is in the second place of a conditional—is necessary for that particular antecedent. This is the relation/condition of necessity. Put formally, Y is a <term id="term-00002">necessary condition</term> for X <emphasis effect="italics">if and only if X cannot be true without Y being true</emphasis>. In other words, X cannot happen or exist without Y. Here are a few more examples:</para>
+<list id="list-00002">
+<item>Being unmarried is a necessary condition for being a bachelor<emphasis effect="italics">.</emphasis> If you are a bachelor, then you are unmarried.</item>
+<item>Being a mammal is a necessary condition for being a dog. If a creature is a dog, then it is a mammal.</item>
+</list>
+<para id="para-00009">But notice that the <emphasis effect="italics">necessary relation</emphasis> of a conditional does not automatically occur in the other direction. Just because something is a mammal does not mean that it <emphasis effect="italics">must</emphasis> be a dog. Being a bachelor is not a necessary feature of being unmarried because you can be unmarried and be an unmarried woman. Thus, the relationship between X and Y in the statement “if X, then Y” is not always symmetrical (it does not automatically hold in both directions). Y is always <emphasis effect="italics">necessary</emphasis> for X, but X is <emphasis effect="italics">not necessary</emphasis> for Y. On the other hand, X is always <emphasis effect="italics">sufficient</emphasis> for Y.</para>
+<para id="para-00010">Take the example of “If you are a bachelor, then you are unmarried.” If you know that Eric is a bachelor, then you automatically know that Eric is unmarried. As you can see, the antecedent/first part is the sufficient condition, while the consequent/second part of the conditional is the necessary condition. X is a <term id="term-00003">sufficient condition</term> for Y <emphasis effect="italics">if and only if the truth of X guarantees the truth of Y.</emphasis> Thus, if X is a sufficient condition for Y, then X automatically implies Y. But the reverse is not true. Oftentimes X is not the only way for something to be Y. Returning to our example, being a bachelor is not the only way to be unmarried. Being a dog is a sufficient condition for being a mammal, but it is <emphasis effect="italics">not necessary</emphasis> to be a dog to be a mammal since there are many other types of mammals.</para>
+<para id="para-00011">The ability to understand and use conditionals increases the clarity of philosophical thinking and the ability to craft effective arguments. For example, some concepts, such as “innocent” or “good,” must be rigorously defined when discussing ethics or political philosophy. The standard practice in philosophy is to state the meaning of words and concepts before using them in arguments. And oftentimes, the best way to create clarity is by articulating the necessary or sufficient conditions for a term. For example, philosophers may use a conditional to clarify for their audience what they mean by “innocent”: “If a person has not committed the crime for which they have been accused, then that person is innocent.”</para>
+<note class="think-philosopher" id="note-00001">
+<para id="para-00012">In this activity, you will encounter examples of ordinary statements, each of which expresses a necessary and sufficient condition. For each statement, identify the necessary and sufficient condition. Click each card to find out whether you identified the condition correctly. Hint: Not all statements are in a clear if–then form, so you may find it helpful to first rephrase them as standard “if, then” conditionals.</para>
+<media alt="atoms_isotopes"><iframe width="660" height="371.4" src="../../media/Interactive/031221_opx_philo_05_interactive01_card_flip_01/index.html"/></media>
+</note>
+</section>
+<section id="sect-00004">
+<title>Counterexamples</title>
+<para id="para-00013">Sometimes people disagree with conditionals. Imagine a mother saying, “If you spend all day in the sun, you’ll get sunburnt.” Mom is claiming that getting sunburnt is a <emphasis effect="italics">necessary</emphasis> condition for spending all day in the sun. To argue against Mom, a teenager who wants to go to the beach might offer a <term id="term-00004">counterexample</term>, or an opposing statement that proves the first statement wrong. The teenager must point out a case in which the claimed necessary condition <emphasis effect="italics">does not occur</emphasis> alongside the sufficient one. Regular application of an effective sunblock with an SPF 30 or above will allow the teenager to avoid sunburn. Thus, getting sunburned is not a necessary condition for being in the sun all day.</para>
+<para id="para-00014">Counterexamples are important for testing the truth of propositions. Often people want to test the truth of statements to effectively argue against someone else, but it is also important to get into the critical thinking habit of attempting to come up with counterexamples for our own statements and propositions. Philosophy teaches us to constantly question the world around us and invites us to test and revise our beliefs. And generating creative counterexamples is a good method for testing our beliefs.</para>
+</section>
+</section>
+<section id="sect-00005">
+<title>Universal Statements</title>
+<para id="para-00015">Another important type of statement is the universal affirmative statement. Aristotle included universal affirmative statements in his system of logic, believing they were one of only a few types of meaningful logical statements (<emphasis effect="italics">On Interpretation</emphasis>). Universal affirmative statements take two groups of things and claim all members of the first group are also members of the second group: “All A are B.” These statements are called <emphasis effect="italics">universal</emphasis> and <emphasis effect="italics">affirmative</emphasis> because they assert something about all members of group A. This type of statement is used when classifying objects and/or the relationships. Universal affirmative statements are, in fact, an alternative expression of a conditional.</para>
+<section id="sect-00006">
+<title>Universal Statements as Conditionals</title>
+<para id="para-00016"><term class="no-emphasis" id="term-00005">Universal statements</term> are logically equivalent to conditionals, which means that any conditional can be translated into a universal statement and vice versa. Notice that universal statements also express the logical relations of necessity and sufficiency. Because universal affirmative statements can always be rephrased as conditionals (and vice versa), the ability to translate ordinary language statements into conditionals or universal statements is helpful for understanding logical meaning. Doing so can also help you identify necessary and sufficient conditions. Not all statements can be translated into these forms, but many can. Do the exercise below to practice rewriting statements.</para>
+<note class="think-philosopher" id="note-00002">
+<para id="para-00017">In this activity, you will encounter ordinary language statements that can be translated into conditional and universal affirmative statements. For each statement, first rephrase it into a conditional statement, then attempt to rephrase it into a universal affirmative statement. Click the card to check your answer. Hint: Rephrasing into universal statements is often more difficult because it requires adding nouns to the subject and/or predicate phrases.</para>
+<media alt="atoms_isotopes"><iframe width="660" height="371.4" src="../../media/Interactive/031221_opx_philo_05_interactive01_card_flip_02/index.html"/></media>
+</note>
+</section>
+<section id="sect-00007">
+<title>Counterexamples to Universal Statements</title>
+<para id="para-00018">Universal affirmative statements also can be disproven using counterexamples. Take the belief that “All living things deserve moral consideration.” If you wanted to prove this statement false, you would need to find <emphasis effect="italics">just one</emphasis> example of a living thing that you believe does not deserve moral consideration. Just one will suffice because the categorical claim is quite strong—that <emphasis effect="italics">all</emphasis> living things deserve moral consideration. And someone might argue that some parasites, like the protozoa that causes malaria, do not deserve moral consideration.</para>
+</section>
+</section>
+
+<section class="summary" id="sect-00008">
+<title/>
+<para id="para-00019">Logical statements can be conditionals or universal affirmative statements. Both are important since they express the important logical relations (also called “conditions”) of necessity and sufficiency. If you want to prove that a conditional or universal affirmative statement is false (which is to also prove that necessary and sufficient conditions they express do not hold), then you must offer a counterexample.</para>
+</section>
+
+<section class="review-questions" id="sect-00009">
+<title/>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00020"><link class="os-embed" url="exercise/PH_Ch5-Sec2_RQ1"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00021"><link class="os-embed" url="exercise/PH_Ch5-Sec2_RQ2"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00022"><link class="os-embed" url="exercise/PH_Ch5-Sec2_RQ3"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00023"><link class="os-embed" url="exercise/PH_Ch5-Sec2_RQ4"/></para>
+</problem>
+</exercise>
+</section>
 </content>
+<glossary>
+<definition id="def-00001"><term>Conditional</term> <meaning>a logical statement that expresses a necessary and a sufficient condition. Conditionals are usually formulated as if–then statements.</meaning></definition>
+<definition id="def-00002"><term>Counterexample</term> <meaning>an example that proves that either a statement is false or an argument is invalid.</meaning></definition>
+<definition id="def-00003"><term>Logical analysis</term> <meaning>the process of determining whether the logical inferences made in an argument are good. A logical analysis determines whether the premises in an argument logically support the conclusion.</meaning></definition>
+<definition id="def-00004"><term>Necessary condition</term> <meaning>X is a necessary condition for Y if and only if X must be true given the truth of Y. If X is necessary for Y, then X is guaranteed by Y—without the truth of X, Y cannot be true.</meaning></definition>
+<definition id="def-00005"><term>Statement</term> <meaning>a sentence with a truth value—a sentence that must be either true or false.</meaning></definition>
+<definition id="def-00006"><term>Sufficient condition</term> <meaning>X is a sufficient condition for Y if and only if the truth of X guarantees the truth of Y. If X is sufficient for Y, then the truth of X is enough to prove the truth of Y.</meaning></definition>
+</glossary>
 </document>
