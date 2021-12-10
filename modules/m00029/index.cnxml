@@ -14,6 +14,7 @@
 <item>Classify inferences as deductive, inductive, or abductive.</item>
 <item>Explain different explanatory virtues used in abductive reasoning.</item>
 </list>
+</section>
 <para id="para-00002">Inferences can be deductive, inductive, or abductive. Deductive inferences are the strongest because they can guarantee the truth of their conclusions. Inductive inferences are the most widely used, but they do not guarantee the truth and instead deliver conclusions that are probably true. Abductive inferences also deal in probability.</para>
 <section id="sect-00002">
 <title>Deductive Reasoning</title>
@@ -78,9 +79,9 @@
 </list>
 <para id="para-00017">You saw the first form, affirming the consequent, in the previous example concerning school closures. The fallacy is so called because the truth of the consequent (the necessary condition) is affirmed to infer the truth of the antecedent statement. The second form, denying the antecedent, occurs when the truth of the antecedent statement is denied to infer that the consequent is false. Your knowledge of sufficiency will help you understand why this inference is invalid. The truth of the antecedent (the sufficient condition) is only enough to know the truth of the consequent. But there may be more than one way for the consequent to be true, which means that the falsity of the sufficient condition does not guarantee that the consequent is false. Going back to an earlier example, that a creature is not a dog does not let you infer that it is not a mammal, even though being a dog is sufficient for being a mammal. Watch the video below for further examples of conditional reasoning. See if you can figure out which incorrect selection is structurally identical to affirming the consequent or denying the antecedent.</para>
 <note class="media-video" id="note-00001">
-<title>The Wason Selection Task</title>
-<media alt="atoms_isotopes"><iframe width="560" height="315" src="https://www.youtube.com/embed/iR97LBgpsl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"/></media>
-</note>
+  <title>The Wason Selection Task</title>
+  <media alt="atoms_isotopes"><iframe width="660" height="371.4" src="https://openstax.org/r/iR97LBgpsl8"/></media>
+  </note>
 </section>
 <section id="sect-00005">
 <title>Testing Deductive Inferences</title>
@@ -221,7 +222,7 @@
 </problem>
 </exercise>
 </section>
-
+</content>
 <glossary>
 <definition id="def-00001"><term>Abductive</term> <meaning>having to do with abduction/abductive reasoning. Abduction is probabilistic form of inference in which an explanation is offered to justify and explain evidence.</meaning></definition>
 <definition id="def-00002"><term>Deductive</term> <meaning>having to do with deduction/deductive reasoning. Deduction is a form of inference that can guarantee the truth of its conclusions, given the truth of the premises.</meaning></definition>
@@ -230,4 +231,4 @@
 <definition id="def-00005"><term>Invalid reference</term> <meaning>a property of bad deductive inferences. An invalid inference/argument is one in which the truth of the premises does not guarantee the truth of the conclusion.</meaning></definition>
 <definition id="def-00006"><term>Validity</term> <meaning>a property of deductive arguments where the structure of an argument is such that if the premises are true, then the conclusion is guaranteed to be true. A valid inference is a logically good inference.</meaning></definition>
 </glossary>
-</section></content></document>
+</document>
