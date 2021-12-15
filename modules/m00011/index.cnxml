@@ -106,12 +106,12 @@
 <title/>
 <exercise id="exer-00001">
 <problem id="prob-00001">
-<para id="para-00026"><link class="os-embed" url="exercise/PH_Ch2-Sec5_RQ1"/></para>
+<para id="para-00026"><link class="os-embed" url="#exercise/PH_Ch2-Sec5_RQ1"/></para>
 </problem>
 </exercise>
 <exercise id="exer-00002">
 <problem id="prob-00002">
-<para id="para-00027"><link class="os-embed" url="exercise/PH_Ch2-Sec5_RQ2"/></para>
+<para id="para-00027"><link class="os-embed" url="#exercise/PH_Ch2-Sec5_RQ2"/></para>
 </problem>
 </exercise>
 </section>
