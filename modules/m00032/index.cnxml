@@ -6,8 +6,165 @@
     <md:uuid>cd2e04a0-8b3e-4094-8239-6aaa903b1f9b</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">Placeholder Text</para>
-    </section>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Recognize what constitutes a substance.</item>
+      <item>Articulate the difference between monism and pluralism.</item>
+      <item>Contrast Aristotle’s and Plato’s views of form and substance.</item>
+      <item>Compare theories of substance in Greek and Indian philosophy.</item>
+      </list>
+      </section>
+      <para id="para-00002">The Latin term <emphasis effect="italics">substantia,</emphasis> translated as <term id="term-00001">substance</term>, is often used to refer to the basic reality of a thing. The notion that reason could lay bare the secrets of the cosmos if properly applied was widespread throughout the ancient world. One of the early questions that philosophers in ancient Greece and India approached was that of fundamentality, or simply, What is the foundation of reality? What is the independent base for that which we consider to be real?</para>
+      <section id="sect-00002">
+      <title>Fundamentality: The One and the Many</title>
+      <para id="para-00003">A reasonable starting point in the philosophical pursuit of the “really real” is to consider just how many real things exist. Is the real one, or is it many? You are probably puzzled by the question. Every day, you see and experience a plurality of beings. Common sense suggests that if you were to take a moment to observe the many different and ostensibly non-related things in your presence right now, you would most likely support a pluralistic view (there are many real things). Yet the framing of the real as one (the view known as monism) is also compelling.</para>
+      <section id="sect-00003">
+      <title>Monism</title>
+      <para id="para-00004">One of the earliest metaphysical positions taken was <term id="term-00002">monism</term>. At its simplest form, monism is the belief that the most discrete or fundamental reality (i.e., “the really real”) is singular. This idea was held by the so-called <term class="no-emphasis" id="term-00003">pre-Socratics</term>, a disparate group of philosophers who lived somewhat near each other and were born prior to Socrates but whose metaphysical positions, even if monistic, were wildly different. For example, they had different views of what the one “really real” is (see Table 6.1).</para>
+      <table summary="" id="table-00001">
+      <title>Pre-Socratic Monists</title>
+      <tgroup cols="3">
+      <tbody>
+      <row>
+      <entry>Date</entry>
+      <entry>Philosopher</entry>
+      <entry>The One Is:</entry>
+      </row>
+      <row>
+      <entry>c. 624–547 BCE</entry>
+      <entry>Thales of Miletus</entry>
+      <entry>water</entry>
+      </row>
+      <row>
+      <entry>c. 610–546 BCE</entry>
+      <entry>Anaximander of Miletus</entry>
+      <entry>the unbounded</entry>
+      </row>
+      <row>
+      <entry>c. 586–526 BCE</entry>
+      <entry>Anaximenes</entry>
+      <entry>air</entry>
+      </row>
+      <row>
+      <entry>c. 535–475 BCE</entry>
+      <entry>Heraclitus of Ephesus</entry>
+      <entry>fire</entry>
+      </row>
+      <row>
+      <entry>c. 515–445 BCE</entry>
+      <entry>Parmenides of Elea</entry>
+      <entry>Being</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      </table>
+      <para id="para-00005">It is tempting to look at the list of monistic answers and dismiss the thought quickly. Water, for example, is not the “really real.” Yet, as we see below, philosophers such as <term class="no-emphasis" id="term-00004">Thales of Miletus</term> made a consistent, rational argument for monism. In his case, he argued in support of water as the fundamental substance.</para>
+      </section>
+      <section id="sect-00004">
+      <title>Thales of Miletus</title>
+      <para id="para-00006">Studying the philosophers who predate Socrates is challenging, as in many cases their primary works did not survive. But there are transcribed fragments and the characterization of other philosophers from which to gain insights. There are also historians to give glimpses of what these thinkers posited. In the case of Thales, Aristotle is a useful source. Aristotle noted, “Thales, the founder of this school of philosophy, says the permanent entity is water (which is why he also propounded that the earth floats on water)” (Metaphysics 983b20). Why would anyone draw this conclusion? Aristotle suggested that Thales’s belief reflected the observations that all things are nourished through water, that heat itself is generated through the absence or removal of water, and that all things require water to live. The observations inherent to the position itself are understandable. How long can a person live without water? What happens to plants during drought? Water is, indeed, essential for any being.</para>
+      <para id="para-00007">The intellectual assumptions supporting the position are intriguing. First, Thales is working from the assumption that all things that are must be conceived as having only a material principle. Given how these thinkers made sense of the world around them, assuming only material causes (e.g. fire, water, air, etc.) is understandable. A second assumption informing the position is the notion that being either is or it is not. For these thinkers, there is no becoming (for example, change or evolving) from one fundamental substance, such as water, to another, such as fire. There is no state somewhere in between being and not being. By extension, being (once it <emphasis effect="italics">is</emphasis>) cannot be generated or destroyed. Thus, primary being (the most real of reals) must be and must not be capable of not being (Aristotle, Metaphysics 983b).</para>
+      <para id="para-00008">Thales’s account of water as the most real is internally consistent, meaning the argument uses the evidence presented in such a way as to avoid asserting contradictory and potentially competing claims. However, his approach itself prioritizes reason over the overwhelming empirical evidence. As a result, he draws a conclusion that denies the reality of change, motion, and plurality that is experienced so readily.</para>
+      </section>
+      <section id="sect-00005">
+      <title><term id="term-00005">Pluralism</term></title>
+      <para id="para-00009">The pluralists viewed the “really real” as “many,” but like the pre-Socratic monists, they did not hold a uniform view concerning how to define the many or basic realities.</para>
+      <table summary="" id="table-00002">
+      <title>Pre-Socratic Pluralists</title>
+      <tgroup cols="3">
+      <tbody>
+      <row>
+      <entry>Date</entry>
+      <entry>Philosopher</entry>
+      <entry>The Many Is:</entry>
+      </row>
+      <row>
+      <entry>c. 500–428 BCE</entry>
+      <entry>Anaxagoras</entry>
+      <entry>moving bits of matter</entry>
+      </row>
+      <row>
+      <entry>c. 494–434 BCE</entry>
+      <entry>Empedocles</entry>
+      <entry>fire, air, water, earth</entry>
+      </row>
+      <row>
+      <entry>c. 5th century BCE</entry>
+      <entry>Leucippus</entry>
+      <entry>atoms (indivisible eternal bits of matter)</entry>
+      </row>
+      <row>
+      <entry>c. 460–370 BCE</entry>
+      <entry>Democritus</entry>
+      <entry>atoms (indivisible eternal bits of matter)</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      </table>
+      <para id="para-00010">One of the views that resonates with the contemporary reader is that of atomism. Note that the atomism alluded to here is different from what is referred to as atomic theory. The atom within the thinking of Leucippus and <term class="no-emphasis" id="term-00006">Democritus</term> refers to <emphasis effect="italics">atomos</emphasis> as meaning “uncuttable” or “that which cannot be divided.” The plurality we experience is the result of atoms in motion. As these indivisible and eternal bits of true being collide and either join or separate, the beings we experience are formed. But underneath or supporting the being we experience is that being which is eternal and unchanging—in other words, the atoms. Atoms are the true being, and the visible objects are not!</para>
+      <para id="para-00011">Although it might appear that they have broken all philosophical ties with the monists, both the monists and pluralists agreed that true being was eternal. Anything real stayed as it was. Change happened to things that were not real. This assertion, however, leads to the unsatisfactory conclusion that neither the acorn nor the oak is real.</para>
+      </section>
+      <section id="sect-00006">
+      <title>Atomism in Indian philosophy</title>
+      <para id="para-00012"><term class="no-emphasis" id="term-00007">Indian atomism</term> provides for foundational immutable substances while going further toward accounting for change and explaining the transformation of the acorn into the oak. One of the earliest of all atomic models was pioneered in the sixth centurty BCE by a philosopher named Acharya <term class="no-emphasis" id="term-00008">Kanad</term>. According to legend, he was inspired by watching pilgrims scatter rice and grains at a temple. As he began to examine the rice, he realized that the grains, left alone, were without value. But once the grains were assembled into a meal, the collection of “anu” (atom) made a meal. So too were the beings we observe collections of indivisible particles.</para>
+      <para id="para-00013">Another tradition, the Nyāya-VaiśeṢika, built an atomic theory built upon two elements: 1. The presence of change within things or wholes, and 2. The doctrine of five elements (pañca mahābhūtas). Unlike the Greek atomistic view explored earlier, each atom was thought to have a specific attribute. As noted by Chatterjee (2017), “An earth atom has odour, a water atom taste, a fire atom colour and an air atom has touch as specific attribute.”</para>
+      <para id="para-00014">The reasoning supporting the atomistic views described above is <emphasis effect="italics">a priori.</emphasis> Using an appeal to reason (and not experience),<emphasis effect="italics"/> it was asserted that all things were composed of parts, and therefore it was necessary to assert that all things were reducible to eternal, spherical, and indivisible building blocks. The potential of an infinite regress (anavasthā) suggested that parts could always be divided into smaller parts. However, reason dictated that there must be a logical starting point at which no smaller part could be admitted (Chatterjee, 2017).</para>
+      <para id="para-00015">Unlike the random bumping and grinding used by Democritus to explain how atoms combined to form wholes, the Nyāya-VaiśeṢika framework explained composition through the joining of similar atomic types to first form a dyad (dyaṇuka) and then a triad (tryaṇuka). Triads joined in varying permutations in order to build the objects, or “wholes,” we experience.</para>
+      </section>
+      </section>
+      <section id="sect-00007">
+      <title>Ontological Perspectives on Substance</title>
+      <para id="para-00016">Up until now, this chapter has examined substance from a materialistic perspective—the concrete substances (water, fire, atoms) that make up the physical world that we see around us. As such, the discussion has been located squarely within a physicalism, an approach that equates the real world with the physical world. The study of existence, of being, of what is real—a discipline known as <term id="term-00009">ontology</term>—is broader. <emphasis effect="italics">Ontos</emphasis> is the Greek participle from the verb “to be” and means “being.” What qualifies as being? How should we categorize being?</para>
+      <section id="sect-00008">
+      <title>Naturalism</title>
+      <para id="para-00017"><term id="term-00010">Naturalism</term>, in its simplest form, is the view that meaningful inquiry includes only the physical and the laws governing physical entities and rejects the priority placed on reason assumed within metaphysics. For example, naturalism asserts that the inventory of beings allowed should include beings that are found within the physical realm. If we can see a thing or if we can test a thing within a laboratory environment, then a naturalist would include the being within his or her inventory. Naturalists also weed out the assumptions, theories, and questions that are introduced but are not capable of empirical proof.</para>
+      <figure id="fig-00001"><media alt="A diagram uses a branch to show the classification system for animals. In this diagram, animals are divided into different classifications."><image mime-type="image/png" src="../../media/PHIL_Figure_06_01_003.png"/></media>
+      <caption>Aristotle initiated the classification of living things that continues today. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+      <para id="para-00018">The debate between supernaturalism (that accepts the existence of beings beyond or above our natural realm) and naturalism is as old as philosophical inquiry itself. But the tension became particularly relevant during the modern period. During modernity, scholars made advances across many disciplines based upon a turn to a scientific method and a rejection of <emphasis effect="italics">a priori</emphasis> reasoning.</para>
+      <note class="philo-connections" id="note-00001">
+      <para id="para-00019">Chapter 5 covers the topic of logic in greater detail.</para>
+      </note>
+      </section>
+      <section id="sect-00009">
+      <title>The Allegory of the Cave</title>
+      <para id="para-00020">In Book VII of <emphasis effect="italics">The Republic</emphasis>, <term class="no-emphasis" id="term-00011">Plato</term> offered his <term class="no-emphasis" id="term-00012">allegory of the cave</term>, which depicts prisoners who have mistaken shadows cast on the wall of the cave for real beings and therefore have mistaken illusion for truth. The prisoners have been imprisoned throughout their lives. They are chained in place and have been positioned so that they can only see shadows that are cast upon the wall in front of them. They have come to treat the shadows not as the reflections that they are, but as something real. In an unexpected plot twist, one prisoner escapes and reaches the cave entrance. There, for the first time, he sees the sun—the true source of light (knowledge). After adjusting to the overpowering light emanating from the sun, the prisoner realizes that a fire was causing objects to cast shadows on the cave wall. The shadows cast by the fire within the cave were reflections. He realized that the shadows are not actual being or truth—they were merely fading facsimiles of reality. The escaped prisoner, freed from the chains of his earlier captivity (metaphorically speaking), understands the true nature of being and truth. He returns to the cave to “free” his fellow captives, but his claim is rejected by those in chains.</para>
+      <figure id="fig-00002"><media alt="An illustration shows prisoners chained together behind a wall in a cave. Behind the wall is a fire, and between the fire and the wall are people carrying cutouts of a horse, a soldier, and a dog. The fire casts a large shadow of these images onto the wall near the prisoners."><image mime-type="image/png" src="../../media/PHIL_Figure_06_01_004.png"/></media>
+      <caption>The Allegory of the Cave (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+      </section>
+      <section id="sect-00010">
+      <title>Plato’s Notion of Substance and Form</title>
+      <para id="para-00021">The prisoners were mistaking shadows for that which was real. But shadows do not last. As soon as the source of light fades, the shadows too disappear. If we want to identify the really real, Plato argued, we need to go beyond mere shadows and try to find those beings whose reality is not temporary. The idea or <term class="no-emphasis" id="term-00013">form</term> of a thing, unlike the material “shadow,” was not subject to atrophy and change.</para>
+      <para id="para-00022">The Latin term <emphasis effect="italics">substantia</emphasis>, translated as “substance,” describes the basic reality or essence of a thing that supports or stands under features that are incidental to the substance itself. While the so-called incidental features (e.g., quantity, time, place, etc.) can change, the essence of the entity endures. To account for the fundamental whatness of a thing, Plato posited an unchanging form or idea as the underlying and unchanging substance. As all things within a person’s reality are subject to change, Plato reasoned that the forms or unchanging basic realities concerning all things must not be located within this world. He therefore posited a realm in which change did not occur.</para>
+      <para id="para-00023">There is an intuitive appeal to Plato’s accounting of the real to forms. How else could we explain our ability to recognize a type of being given the sheer number of differences we will observe in the instances of a thing? We can make sense of dog, for example, because beyond the differences found among spaniels, poodles, and retrievers, there is a form of dog that accounts for knowing dog and being as dog.</para>
+      </section>
+      <section id="sect-00011">
+      <title>Aristotle on Matter and Form</title>
+      <para id="para-00024"><term class="no-emphasis" id="term-00014">Aristotle</term>, a student of Plato, disagreed with his teacher. If forms did exist, he challenged, then how could forms influence things? How could an immaterial form–which lacks matter—cause change to material entities?</para>
+      <para id="para-00025">In addition, what about concepts that are not easily reducible to a simple meaning or idea? Aristotle noted that “good was said in many ways” (<emphasis effect="italics">Ethics</emphasis> 1096a–b as found in Adamson 2016, 232). The reduction to a single form to identify the whatness for something works when the concept is simple but does not work when a wide-ranging concept (such as “the good”) is considered. Aristotle agreed with the approach of isolating dogness as the essence, but through the study of specific instances or <term id="term-00015">particulars</term>. He encouraged natural observation of the entity in question and introduced the categories of species and genera.</para>
+      <para id="para-00026">Unlike Plato, Aristotle does not posit an otherworldly form or collection of forms. In his middle and later works, Aristotle explained substance through a composite of matter and form. Form, much like an idea a sculptor has in mind, is the unchanging purpose or whatness informing each particular or individual instance. In this case of a sculpture, the sculptor’s vision or idea was referred to as the formal cause. The marble would be the material cause. The ability and artistic skill of the sculptor was termed the efficient cause. The final cause reflected the purpose of the being, or the reason why the sculpture was made in the first place.</para>
+      <para id="para-00027">The idea of substance being a composite of form within matter became known as <term class="no-emphasis" id="term-00016">hylomorphism</term>. The Greek word <emphasis effect="italics">hyle</emphasis> translates as “wood.” Here wood is figurative, a symbol of basic building material that is shaped by the form within a particular instance. The form does not reside in the Platonic heavens but, through purpose and efficiency, moves a particular thing from its beginning state (potentiality) along a continuum toward its final goal (actuality). The acorn is driven by its form and purpose to become the mighty oak. The movement from potentiality to actuality requires material and the efficient (proper) application of these materials such that the acorn can become!</para>
+      <figure id="fig-00003"><media alt="The painting School of Athens shows a gathering of ancient people. They are gathered together in different groups, surrounded by stone arches and statues."><image mime-type="image/jpeg" src="../../media/PHIL_Figure_06_01_005.jpg"/></media>
+      <caption>School of Athens (credit: “The School of Athens” by Raffaello Sanzio da Urbino/Vatican Museums, Public Domain)</caption></figure>
+      <para id="para-00028">The attitudes of Plato and Aristotle are reflected in Figure 6.5. The School of Athens was discussed in Chapter 1. This section details the interaction between the two central characters in the oil-on-canvas painting. Plato is the subject displayed to the left of center, and Aristotle is the subject depicted to the right of center. Plato’s gesture toward the heavens with his right hand was the artist’s way of recognizing Plato’s theory of forms. For Plato, forms were immutable and the ultimate reality. Forms were supposed to exist outside of our earthly realm as the things we observe are subject to change. Aristotle’s gesture with his right hand was the artist’s representation of Aristotle’s stressing of the form embedded within particular matter. The ultimate reality was supposed to be within each instance of matter observed. The material components were subject to change, but the form was not.</para>
+      <para id="para-00029">What do you think? The crucial difference introduced at this historical point was the emphasis placed upon particulars—individual instances of an entity—by Aristotle. While Plato stressed forms and asserted that there could be no individual instance without the form, Aristotle stressed particulars and asserted that without individual instances, there could be no knowledge of the form. Whereas Plato holds that beauty itself causes the beauty we see in flowers or faces, Aristotle asserts that there is no such thing as beauty without beautiful things, such as flowers and faces (Adamson, 2016, p. 231).</para>
+      <note class="media-podcast" id="note-00002">
+      <para id="para-00030">“Aristotle on Substance” in the series <emphasis effect="italics">The History of Philosophy without Any Gaps</emphasis> (<link url="https://openstax.org/r/aristotle-substance">https://historyofphilosophy.net/aristotle-substance</link>).</para>
+      </note>
+      </section>
+      </section>
+      <section class="summary" id="sect-00012">
+      <title/>
+      <para id="para-00031">The Latin term <emphasis effect="italics">substantia,</emphasis> translated as “substance,” is often used to refer to the basic reality supporting or standing under features that are incidental to that same thing. Ancient Greek philosophers were both monists and dualists. Indian philosophers developed the idea of atomism. The challenge of persistence (i.e., whether a thing could be said to retain numerical identity despite changes introduced through time) can be explored through the Ship of Theseus thought experiment.</para>
+      </section>
+      <section class="review-questions" id="sect-00013">
+      <title/>
+      <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00032"><link class="os-embed" url="#exercise/PH_Ch6-Sec1_RQ1"/></para></problem></exercise>
+      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00033"><link class="os-embed" url="#exercise/PH_Ch6-Sec1_RQ2"/></para></problem></exercise>
+      <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00034"><link class="os-embed" url="#exercise/PH_Ch6-Sec1_RQ3"/></para></problem></exercise>
+      <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00035"><link class="os-embed" url="#exercise/PH_Ch6-Sec1_RQ4"/></para></problem></exercise>
+      <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00036"><link class="os-embed" url="#exercise/PH_Ch6-Sec1_RQ5"/></para></problem></exercise>
+      </section>
 </content>
 </document>
