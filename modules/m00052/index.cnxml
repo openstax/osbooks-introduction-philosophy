@@ -6,8 +6,54 @@
     <md:uuid>e3968d01-ef57-4e6f-905b-0d9153de6057</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">Placeholder Text</para>
-    </section>
-</content>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Identify the meaning and purpose of normative moral theory.</item>
+      <item>Distinguish between the three areas of ethics.</item>
+      </list>
+      </section>
+      <para id="para-00002">This section focuses on the how normative moral theories relate to other branches of ethics, examines the requirements of normative moral theories, and introduces three major types of moral theories.</para>
+      <section id="sect-00002">
+      <title>Three Areas of Ethics</title>
+      <para id="para-00003"><term id="term-00001">Ethics</term> is the field of philosophy that investigates morality and engages in “systematizing, defending, and recommending concepts of right and wrong behavior” (Fieser 1995). It is divided into three main areas—metaethics, normative ethics, and applied ethics—each of which is distinguished by a different <emphasis effect="italics">level</emphasis> of inquiry and analysis.</para>
+      <para id="para-00004"><term id="term-00002">Metaethics</term> focuses on moral reasoning and “whether morality exists” (Dittmer 1995). It is concerned with questions that are more abstract, ones that explore the foundations and assumptions related to our moral beliefs and practice. It attempts to understand the beliefs and presuppositions connected to morality and moral deliberation. Metaethics explores, for example, where moral values originate, what it means to say something is right or good, whether there are any objective moral facts, whether morality is (culturally) relative, and the psychological basis for moral practices and values.</para>
+      <para id="para-00005"><term id="term-00003">Normative ethics</term> focuses on moral behavior, on what we should do. It thus deals with questions concerning human agency, responsibility, and moral evaluation. Normative ethics attempts to establish criteria or principles for identifying norms and standards to guide correct behavior. Philosophers offer systematized accounts of morality that provide standards and norms of right conduct. There are three main approaches to normative moral theory: consequentialist, deontological, and virtue ethics. Each approach differs based on the criterion (consequences, duty, or character) used for determining moral conduct.</para>
+      <para id="para-00006"><term id="term-00004">Applied ethics</term> focuses on the application of moral norms and principles to controversial issues to determine the rightness of specific actions. Issues like abortion, environmental racism, the use of humans in biomedical research, and online privacy are just a few of the controversial moral issues explored in applied ethics, which is covered in the next chapter.</para>
+      <para id="para-00007">A normative moral theory provides a framework for understanding our actions and determining what’s right. Fully worked out moral theories often address all three areas of ethics (metaethics, normative ethics, and applied ethics), but its aim will be establishing and defending the norms of conduct it recommends.</para>
+      </section>
+      <section id="sect-00003">
+      <title>Three Coherent Frameworks for Understanding Morality</title>
+      <para id="para-00008">A moral theory should make it possible to effectively guide behavior by providing a framework for determining what’s morally right and arguments justifying its recommendations. Such a framework must be based on a logical foundation for its principles and consistent recommendations. It should, in short, make sense.</para>
+      <para id="para-00009">This chapter examines three distinct moral framework approaches to normative ethics: consequentialist, deontological, and virtue. <term id="term-00005">Consequentialism</term> looks at an action’s outcome or consequences to determine whether it is morally right. Consequentialists think an action is right when it produces the greatest good (e.g., happiness or general welfare). <term id="term-00006">Deontology</term> focuses on duties or rules to determine the rightness of an action. Deontologists argue that an action is right when it conforms to the correct rule or duty (e.g., it is always wrong to lie). <term id="term-00007">Virtue ethics</term> focuses on character and the development of the right habits or traits. Virtue ethicists argue that right action flows from right character. These three main approaches are distinguished by the criterion (i.e., consequences, duty, or character) used for determining moral conduct.</para>
+      </section>
+      <section class="summary" id="sect-00004">
+      <title/>
+      <para id="para-00010">Ethics is the philosophical study of morality. It is commonly divided into three main areas: metaethics, normative ethics, and applied ethics, each of which is distinguished by a different <emphasis effect="italics">level</emphasis> of inquiry. A normative moral theory is a systematized account of morality that addresses important questions related to effectively guiding moral conduct. This chapter reviews three main approaches (consequentialist, deontological, and virtue) to normative ethics distinguished by the criterion (consequences, duty, or character) used for determining moral conduct.</para>
+      </section>
+      <section class="review-questions" id="sect-00005">
+      <title/>
+      <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00011"><link class="os-embed" url="#exercise/PH_Ch9-Sec1_RQ1"/></para></problem></exercise>
+      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00012"><link class="os-embed" url="#exercise/PH_Ch9-Sec1_RQ2"/></para></problem></exercise>
+      <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00013"><link class="os-embed" url="#exercise/PH_Ch9-Sec1_RQ3"/></para></problem></exercise>
+      </section>
+      <section class="references" id="sect-00006">
+      <title/>
+      <para id="para-00014">Cochrane, Alasdair. 1995. “Environmental Ethics.” In <emphasis effect="italics">Internet Encyclopedia of Philosophy</emphasis>, edited by James Fieser and Bradley Dowden. https://iep.utm.edu/envi-eth/</para>
+      <para id="para-00015">Dittmer, Joel. 1995. “Applied Ethics.” In <emphasis effect="italics">Internet Encyclopedia of Philosophy</emphasis>, edited by James Fieser and Bradley Dowden. https://iep.utm.edu/ap-ethic/</para>
+      <para id="para-00016">Fieser, James. 1995. “Ethics.” In <emphasis effect="italics">Internet Encyclopedia of Philosophy</emphasis>, edited by James Fieser and Bradley Dowden. https://iep.utm.edu/ethics/</para>
+      <para id="para-00017">Foot, Philippa. 2002. <emphasis effect="italics">Virtues and Vices and Other Essays in Moral Philosophy</emphasis>. 2nd ed. Oxford, UK: Oxford University Press.</para>
+      <para id="para-00018">Miller, David. 2017. “Justice.” In <emphasis effect="italics">The Stanford Encyclopedia of Philosophy</emphasis>, edited by Edward N. Zalta. Fall 2017 ed. Stanford, CA: Metaphysics Research Lab, Philosophy Department, Stanford University. https://plato.stanford.edu/archives/fall2017/entries/justice/</para>
+      <para id="para-00019">Sayre-McCord, Geoff. 2014. “Metaethics.” In <emphasis effect="italics">The Stanford Encyclopedia of Philosophy</emphasis>, edited by Edward N. Zalta. Summer 2014 ed. Stanford, CA: Metaphysics Research Lab, Philosophy Department, Stanford University. https://plato.stanford.edu/archives/sum2014/entries/metaethics/</para>
+      </section>
+    </content>
+      <glossary>
+      <definition id="def-00001"><term>applied ethics</term> <meaning>a branch of ethics that focuses on the application of moral norms to determine the permissibility of specific actions</meaning></definition>
+      <definition id="def-00002"><term>consequentialism</term> <meaning>a moral theory that looks at an action’s outcome or consequences to determine whether it is morally right</meaning></definition>
+      <definition id="def-00003"><term>deontology</term> <meaning>a moral theory that focuses on duties or rules to determine the rightness of an action</meaning></definition>
+      <definition id="def-00004"><term>metaethics</term> <meaning>a branch of ethics that focuses on foundational questions and moral reasoning</meaning></definition>
+      <definition id="def-00005"><term>normative ethics</term> <meaning>a branch of ethics that focuses on establishing norms and standards of moral conduct</meaning></definition>
+      <definition id="def-00006"><term>virtue ethics</term> <meaning>an approach to normative ethics that focuses on character</meaning></definition>
+      </glossary>
 </document>

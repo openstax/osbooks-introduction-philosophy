@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Hypothetical Imperatives</title>
+   <instruction>
+    <desktop>
+      Match terms that form a hypothetical imperative by flipping cards over and remembering their location. Unmatched cards reset after each “turn.” Replay this interaction as many times as you need. There is no time limit. This activity is not graded.
+      </desktop>
+    <mobile>Match terms that form a hypothetical imperative by flipping cards over and remembering their location. Unmatched cards reset after each “turn.” Replay this interaction as many times as you need. There is no time limit. This activity is not graded.</mobile>
+    
+  </instruction>
+  <artworktext>Artwork References</artworktext>
+  <citationtitle>Photo Credits</citationtitle>
+
+  <!-- <image>
+    <src>OPX_Comp_Ch 04_Med01.svg</src>
+    <alt> A line that rises to a peak in the middle and then falls again with five blank spots to fill in, from left to right: one on the far left, one on the incline, one at the peak, one on the decline, and one on the far right.</alt>
+  </image> -->
+  <feedback>Nice work! Learning the difference between a hypothetical and a categorical imperative will help you understand more fully a vital concept in Kant's normative ethics.</feedback>
+
+
+<cardpairs>
+    <cardpair>
+    <color>#a29201</color>
+    <iconshape>rectangle</iconshape>
+    <card>
+      <image>
+      <desktopsize>
+       <width>200px</width><height>auto</height>
+       </desktopsize>
+      <mobilesize>
+        <width>115px</width><height>auto</height>
+      </mobilesize>
+      <!-- <link>opx_philo_08_med01.svg</link> -->
+      <alt>Get a job</alt>
+      </image>
+       <captiontext>Get a job</captiontext>
+    </card>
+    <card>
+      <image>
+      <desktopsize>
+       <width>200px</width><height>auto</height>
+       </desktopsize>
+      <mobilesize>
+        <width>115px</width><height>auto</height>
+      </mobilesize>
+      <!-- <link>opx_philo_08_med02.svg</link> -->
+      <alt>To earn money</alt>
+      
+      </image>
+      <captiontext>To earn money</captiontext>
+      
+    </card>
+  </cardpair>
+
+  <cardpair>
+    <color>#fff839</color>
+    <iconshape>hexagon</iconshape>
+    <card>
+      <image>
+      <desktopsize>
+       <width>200px</width><height>auto</height>
+       </desktopsize>
+      <mobilesize>
+        <width>115px</width><height>auto</height>
+      </mobilesize>
+      <!-- <link>opx_philo_08_med03.svg</link> -->
+      <alt>Save money</alt>
+      
+      
+      </image>
+      <captiontext>Save money</captiontext>
+     
+    </card>
+    <card>
+      <image>
+
+      <desktopsize>
+       <width>200px</width><height>auto</height>
+       </desktopsize>
+      <mobilesize>
+        <width>115px</width><height>auto</height>
+      </mobilesize>
+      <!-- <link>opx_philo_08_med04.svg</link> -->
+      <alt>To buy a house</alt>
+      
+      </image>
+      <captiontext>To buy a house</captiontext>
+      
+    </card>
+  </cardpair>
+
+  
+  <cardpair>
+    <color>#00CAE5</color>
+    <iconshape>circle</iconshape>
+    <card>
+      <image>
+       <desktopsize>
+       <width>200px</width><height>auto</height>
+       </desktopsize>
+      <mobilesize>
+        <width>115px</width><height>auto</height>
+      </mobilesize>
+      
+      <!-- <link>opx_philo_08_med05.svg</link> -->
+      <alt>Exercise</alt>
+      
+      </image>
+     <captiontext>Exercise</captiontext>
+    </card>
+    <card>
+      <image>
+      <desktopsize>
+       <width>200px</width><height>auto</height>
+       </desktopsize>
+      <mobilesize>
+        <width>115px</width><height>auto</height>
+      </mobilesize>
+      <!-- <link>opx_philo_08_med06.svg</link> -->
+      <alt>To stay healthy</alt>
+      
+      </image>
+     <captiontext>To stay healthy</captiontext>
+    </card>
+  </cardpair>
+
+  <cardpair>
+    <color>#7fa8fc</color>
+    <iconshape>square</iconshape>
+    <card>
+      <image>
+
+      <desktopsize>
+       <width>200px</width><height>auto</height>
+       </desktopsize>
+      <mobilesize>
+        <width>115px</width><height>auto</height>
+      </mobilesize>
+
+      <!-- <link>opx_philo_08_med07.svg</link> -->
+      <alt>Attend parties</alt>
+      
+      </image>
+      <captiontext>Attend parties</captiontext>
+     
+    </card>
+    <card>
+      <image>
+
+<desktopsize>
+       <width>200px</width><height>auto</height>
+       </desktopsize>
+      <mobilesize>
+        <width>115px</width><height>auto</height>
+      </mobilesize>
+
+      <!-- <link>opx_philo_08_med08.svg</link> -->
+      <alt>To meet new people</alt>
+      
+      </image>
+      <captiontext>To meet new people</captiontext>
+    </card>
+  </cardpair>
+
+  <cardpair>
+    <color>#0130a2</color>
+    <iconshape>decagon</iconshape>
+    <card>
+      <image>
+
+<desktopsize>
+       <width>200px</width><height>auto</height>
+       </desktopsize>
+      <mobilesize>
+        <width>115px</width><height>auto</height>
+      </mobilesize>
+      <!-- <link>opx_philo_08_med09.svg</link> -->
+      <alt>Practice piano</alt>
+      
+      </image>
+      <captiontext>Practice piano</captiontext>
+    </card>
+    <card>
+      <image>
+
+      <desktopsize>
+       <width>200px</width><height>auto</height>
+       </desktopsize>
+      <mobilesize>
+        <width>115px</width><height>auto</height>
+      </mobilesize>
+      <!-- <link>opx_philo_08_med10.svg</link> -->
+      <alt>To improve performance</alt>
+      
+      </image>
+      <captiontext>To improve performance</captiontext>
+    </card>
+  </cardpair>
+
+  <cardpair>
+    <color>#dcc901</color>
+    <iconshape>traingle</iconshape>
+    <card>
+      <image>
+    <desktopsize>
+       <width>200px</width><height>auto</height>
+       </desktopsize>
+      <mobilesize>
+        <width>115px</width><height>auto</height>
+      </mobilesize>
+      <!-- <link>opx_philo_08_med11.svg</link> -->
+      <alt>Wash your hands often</alt>
+      
+      </image>
+      <captiontext>Wash your hands often</captiontext>
+    </card>
+    <card>
+      <image>
+      <desktopsize>
+       <width>200px</width><height>auto</height>
+       </desktopsize>
+      <mobilesize>
+        <width>115px</width><height>auto</height>
+      </mobilesize>
+      <!-- <link>opx_philo_08_med12.svg</link> -->
+      <alt>To avoid getting sick</alt>
+      
+      </image>
+      <captiontext>To avoid getting sick</captiontext>
+    </card>
+  </cardpair>
+</cardpairs>
+</dataset>

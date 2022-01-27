@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+    <focuscolor color="black"></focuscolor>
+    <desktop>
+        <title>
+            <fontsize>31px</fontsize>
+            <width>67%</width>
+        </title>
+        <instruction>
+            <fontsize>22px</fontsize>
+            <width>67%</width>
+        </instruction>
+        <front>
+            <fontsize>100px</fontsize>           
+        </front> 
+        <back>
+            <fontsize>30px</fontsize>           
+        </back> 
+        <cardsize>
+            <width>219px</width>
+            <height>219px</height>
+        </cardsize>      
+        <feedback>
+            <fontsize>24px</fontsize>
+        </feedback>
+        <button>
+            <fontsize>20px</fontsize> 
+            <width>170px</width> <!-- this is minimum width of a button-->
+            <height>64px</height> <!-- this is minimum width of a button-->          
+        </button>
+    </desktop>
+    <mobile>
+        <title>
+            <fontsize>18px</fontsize>
+        </title>
+        <instruction>
+            <fontsize>14px</fontsize>
+        </instruction>
+        <front>
+            <fontsize>50px</fontsize>           
+        </front> 
+        <back>
+            <fontsize>16px</fontsize>           
+        </back>  
+        <cardsize>
+            <width>140px</width>
+            <height>122px</height>
+        </cardsize>
+        <feedback>
+            <fontsize>16px</fontsize>
+        </feedback>
+        <button>
+            <fontsize>16px</fontsize>     
+            <width>170px</width> <!-- this is minimum width of a button-->
+            <height>64px</height> <!-- this is minimum width of a button-->      
+        </button>
+    </mobile>
+    <themes>
+        <theme>
+            <name>default-theme</name>
+            <title>Default</title>
+            <color1>#001a36</color1>
+            <color2>#4a4545</color2>
+            <color3>#C7EBF2</color3>
+
+            <rectangle>#007961</rectangle>
+            <hexagon>#FF924A</hexagon>
+            <circle>#61BAB0</circle>
+            <traingle>#D80000</traingle>
+            <square>#0055B1</square>
+            <decagon>#5C0F6D</decagon>
+        </theme>
+        <theme>
+            <name>scheme1-theme</name>
+            <title>Blind 1</title>
+            <color1>#001783</color1>
+            <color2>#4a4545</color2>
+            <color3>#6C9BFF</color3>
+
+            <rectangle>#A29201</rectangle>
+            <hexagon>#FFF839</hexagon>
+            <circle>#6F82CE</circle>
+            <traingle>#DCC901</traingle>
+            <square>#7FA8FC</square>
+            <decagon>#0130A2</decagon>
+        </theme>
+        <theme>
+            <name>scheme2-theme</name>
+            <title>Blind 2</title>
+            <color1>#001C5D</color1>
+            <color2>#4a4545</color2>
+            <color3>#7FA8FC</color3>
+
+            <rectangle>#A29201</rectangle>
+            <hexagon>#FFF839</hexagon>
+            <circle>#6F82CE</circle>
+            <traingle>#DCC901</traingle>
+            <square>#7FA8FC</square>
+            <decagon>#0130A2</decagon>
+        </theme>        
+        <theme>
+            <name>scheme3-theme</name>
+            <title>Blind 3</title>
+            <color1>#43596F</color1>
+            <color2>#4a4545</color2>
+            <color3>#79E6FF</color3>
+
+            <rectangle>#FD296B</rectangle>
+            <hexagon>#FBAABD</hexagon>
+            <circle>#43596F</circle>
+            <traingle>#BE003B</traingle>
+            <square>#29D7FF</square>
+            <decagon>#C7EAFF</decagon>
+        </theme>
+    </themes>
+</dataset>

@@ -1,0 +1,268 @@
+﻿<!DOCTYPE html>
+<html l lang="en">
+
+<head>
+  <title>OPS_Philosophy Chapter 8_(9)</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/settings.css" />
+  <!-- <script src="lib/SCORM_API_wrapper.js"></script> -->
+  <script src="lib/jquery/jquery-3.1.1.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="lib/bootstrap/js/popper.min.js"></script>
+  <script src="lib/knockout/knockout-3.5.1.js"></script>
+
+  <script src="js/util.js"></script>
+  <script src="js/main.js"></script>
+</head>
+
+<body>
+  <div id="cardflip_template" class="cardflip_template container-fluid activity-container">
+    <header class="activity-header clearfix">
+      <button type="button" class="setting-button"
+        data-bind="click:showSettingsPanelHandler,visible:!showSettingsPanel()" id="settingsBtn"
+        aria-label="Color Scheme">
+        <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" data-bind="if:curTheme"
+          aria-hidden="true" alt="color scheme">
+          <g id="noun_Settings_735233" transform="translate(-14.5 -15.5)">
+            <path id="Path_4" data-name="Path 4"
+              d="M51.644,31.572,49.2,30.5a3.345,3.345,0,0,1-1.755-1.788h0a3.345,3.345,0,0,1,0-2.5l.974-2.473a1.07,1.07,0,0,0-.118-1.375l-2.676-2.676a1.07,1.07,0,0,0-1.375-.118l-2.467,1.017a3.345,3.345,0,0,1-2.5,0h0a3.345,3.345,0,0,1-1.788-1.755l-1.07-2.441a1.07,1.07,0,0,0-1.07-.888H31.605a1.07,1.07,0,0,0-1.07.888l-1.07,2.441a3.345,3.345,0,0,1-4.282,1.777L22.742,19.6a1.07,1.07,0,0,0-1.375.118l-2.676,2.676a1.07,1.07,0,0,0-.118,1.375l1.012,2.446a3.345,3.345,0,0,1,0,2.515h0a3.345,3.345,0,0,1-1.755,1.777l-2.441,1.07a1.07,1.07,0,0,0-.888,1.07v3.746a1.07,1.07,0,0,0,.888,1.07l2.441,1.07a3.345,3.345,0,0,1,1.755,1.788h0a3.345,3.345,0,0,1,0,2.5l-.985,2.43a1.07,1.07,0,0,0,.118,1.375l2.676,2.676a1.07,1.07,0,0,0,1.375.118l2.446-1.012a3.345,3.345,0,0,1,2.5,0h0a3.345,3.345,0,0,1,1.788,1.755l1.07,2.441a1.07,1.07,0,0,0,1.07.888h3.746a1.07,1.07,0,0,0,1.07-.888l1.07-2.441a3.345,3.345,0,0,1,1.793-1.761h0a3.345,3.345,0,0,1,2.5,0l2.473.974a1.07,1.07,0,0,0,1.375-.118l2.676-2.676a1.07,1.07,0,0,0,.118-1.375l-1.054-2.43a3.345,3.345,0,0,1,0-2.515h0a3.345,3.345,0,0,1,1.755-1.777l2.441-1.07a1.07,1.07,0,0,0,.888-1.07V32.605A1.07,1.07,0,0,0,51.644,31.572ZM33.5,43.5a9,9,0,1,1,9-9,9,9,0,0,1-9,9Z"
+              transform="translate(0 0)" />
+          </g>
+        </svg>
+        <span class="sr-only">Close</span>
+      </button>
+      <div class="settings-container" data-bind="visible:showSettingsPanel" aria-labelledby="settingsBtn">
+        <div class="settings-container-themes">
+          <div class="settings-container-themes-title">
+            <strong>Color Scheme</strong>
+          </div>
+          <!-- ko foreach: themes-->
+          <button class="theme-btn"
+            data-bind="click:$parent.selectThemeHandler,attr:{'aria-pressed':$parent.curTheme() == $data ? 'true' : 'false'}">
+            <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35" aria-hidden="true">
+              <ellipse id="Ellipse_203" data-name="Ellipse 203" cx="17.5" cy="17.5" rx="17.5" ry="17.5"
+                data-bind="attr:{'fill': color1}" />
+              <rect id="Rectangle_769" data-name="Rectangle 769" width="35" height="5" rx="1"
+                transform="translate(0 15.5)" data-bind="attr:{'fill': color3,alt:title}" />
+            </svg>
+
+            <span data-bind="text:title"></span></button>
+          <!-- /ko -->
+        </div>
+        <button class="close-btn" data-bind="click:closeSettingsPanelHandler" aria-label="Close color scheme">
+          <img src="images/cross.svg" aria-hidden="true" alt="close" />
+          <span class="sr-only">Close color scheme</span>
+        </button>
+      </div>
+
+      <h1 class="activity-title" data-bind="html:title">11Target Audiences and Messaging in
+        Healthcare</h1>
+      <div data-bind="with:instruction,class:showHideCardsClass">
+        <div class="activity-instruction" data-bind="visible:!$parent.isLargeDeviceDeviceResoultion()">
+          <div class="instruction-text" data-bind="html:desktop">To complete the activity, select each definition and
+            then click the
+            term that it belongs to. Replay the interactiion as many times you
+            need. There is no time limit. Your responses will not be graded</div>
+        </div>
+
+        <div class="activity-instruction" data-bind="visible:$parent.isLargeDeviceDeviceResoultion()">
+          <div class="instruction-text" data-bind="html:mobile">To complete the activity, select each definition and
+            then click the
+            term that it belongs to. Replay the interactiion as many times you
+            need. There is no time limit. Your responses will not be graded</div>
+        </div>
+      </div>
+    </header>
+    <div class="artwork-reference-container" data-bind="class:showHideClass">
+      <p class="citationtitle" data-bind="html:citationtitle"></p>
+      <div class="ref-container" data-bind="foreach: clickableCards">
+        <div class="each-card-ref">
+          <img data-bind="attr:{src:'images/'+backImg,alt:backImgAlt, id: index}" />
+          <div data-bind="html:citation"></div>
+        </div>
+      </div>
+      <div class="ref-nav-container">
+        <!-- <button class="prev_btn" data-bind="event:{click:prevHandler}" title='previous'>
+          <svg xmlns="http://www.w3.org/2000/svg" width="77" height="77" viewBox="0 0 77 77">
+            <g>
+              <g class="gg" fill="#001a34" stroke="#001a34" transform="rotate(180 38.5 38.5)">
+                <circle cx="38.5" cy="38.5" r="38.5" stroke="none" />
+                <circle cx="38.5" cy="38.5" r="38" fill="none" />
+              </g>
+              <g>
+                <g>
+                  <path fill="#ffffff"
+                    d="M1.188 7.057a4.219 4.219 0 0 1 0-5.869 4.219 4.219 0 0 1 5.869 0l19.751 19.658a4.335 4.335 0 0 1 0 5.963L7.057 46.466a4.219 4.219 0 0 1-5.869 0 4.335 4.335 0 0 1 0-5.963l16.77-16.676-16.77-16.77z"
+                    transform="rotate(180 38.5 38.5) translate(27.906 13.826)" />
+                </g>
+              </g>
+            </g>
+          </svg>
+
+        </button> -->
+        <button class="ref-reset_btn" data-bind="event:{click:resetHandlerRef}" title='Back to the Beginning'>
+          <svg xmlns="http://www.w3.org/2000/svg" width="77" height="77" viewBox="0 0 77 77">
+
+            <g>
+              <g class="circle" fill="#001a34" stroke="001a34" transform="rotate(180 38.5 38.5)">
+                <circle cx="38.5" cy="38.5" r="38.5" stroke="none" />
+                <circle cx="38.5" cy="38.5" r="38" fill="none" />
+              </g>
+              <g>
+                <g>
+                  <path class="path1" fill="#ffffff" stroke="#001a34"
+                    d="M1.188 7.057a4.219 4.219 0 0 1 0-5.869 4.219 4.219 0 0 1 5.869 0l19.751 19.658a4.335 4.335 0 0 1 0 5.963L7.057 46.466a4.219 4.219 0 0 1-5.869 0 4.335 4.335 0 0 1 0-5.963l16.77-16.676-16.77-16.77z"
+                    transform="rotate(180 38.5 38.5) translate(17.906 13.826)" />
+                </g>
+              </g>
+              <g>
+                <g>
+                  <path class="path2" fill="#ffffff" stroke="#001a34"
+                    d="M1.188 7.057a4.219 4.219 0 0 1 0-5.869 4.219 4.219 0 0 1 5.869 0l19.751 19.658a4.335 4.335 0 0 1 0 5.963L7.057 46.466a4.219 4.219 0 0 1-5.869 0 4.335 4.335 0 0 1 0-5.963l16.77-16.676-16.77-16.77z"
+                    transform="rotate(180 38.5 38.5) translate(38.906 13.826)" />
+                </g>
+              </g>
+            </g>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <section class="activity-content" data-bind="class:showHideCardsClass">
+
+      <div class="flip" data-bind="foreach: clickableCards">
+        <div class="card" data-bind="class: addRemoveFlip()">
+
+          <button class="face front"
+            data-bind="click: flipIt , disable:disableEach(), attr: { 'aria-hidden': isfliped() }">
+            <!-- <img data-bind="attr:{src:'images/'+frontImg.src,title:frontImg.alt}" /> -->
+            <div role="img" data-bind="attr: { 'aria-hidden': isfliped() }" aria-label="flip the card">?</div>
+          </button>
+          <div class="face back" data-bind="attr: { 'aria-hidden': !isfliped() }">
+            <!-- <img class="img" data-bind="attr:{src:'images/'+backImg,alt:backImgAlt, id: cssClass}" /> -->
+
+            <div class="iconshape rectangle" aria-hidden="true" data-bind="if: iconshape==='rectangle'">
+              <svg xmlns="http://www.w3.org/2000/svg" width="53.933" height="13.988" viewBox="0 0 53.933 13.988">
+                <g id="noun_line_a_rounded_2014491" data-name="noun_line a rounded_2014491"
+                  transform="translate(118.95 192.99)">
+                  <g id="Livello_11" data-name="Livello 11" transform="translate(-117.95 -191.99)">
+                    <rect id="Rectangle_598" data-name="Rectangle 598" width="51.933" height="11.988" rx="4.98"
+                      transform="translate(0 0)" fill="#007961" stroke="#fff" stroke-width="2" />
+                  </g>
+                </g>
+              </svg>
+            </div>
+            <div class="iconshape traingle" aria-hidden="true" data-bind="if: iconshape==='traingle'">
+              <svg xmlns="http://www.w3.org/2000/svg" width="39.693" height="34.376" viewBox="0 0 39.693 34.376">
+                <g id="noun_triangle_2014521" transform="translate(-171.339 -222.5)">
+                  <g id="Livello_11" data-name="Livello 11" transform="translate(166.371 212)">
+                    <path id="Path_86" data-name="Path 86"
+                      d="M24.815,43.876H6.7l9.057-15.688L24.815,12.5l9.057,15.688,9.057,15.688Z"
+                      transform="translate(0 0)" fill="#E20E0E" stroke="#fff" stroke-width="2" />
+                  </g>
+                </g>
+              </svg>
+
+            </div>
+
+            <div class="iconshape square" aria-hidden="true" data-bind="if: iconshape==='square'">
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="33" viewBox="0 0 32 33">
+                <g id="Rectangle_600" data-name="Rectangle 600" fill="#0055B1" stroke="#fff" stroke-width="2">
+                  <rect width="32" height="33" stroke="none" />
+                  <rect x="1" y="1" width="30" height="31" fill="none" />
+                </g>
+              </svg>
+            </div>
+
+            <div class="iconshape hexagon" aria-hidden="true" data-bind="if: iconshape==='hexagon'">
+              <svg xmlns="http://www.w3.org/2000/svg" width="34" height="39.264" viewBox="0 0 34 39.264">
+                <g id="noun_exagon_full_2014502" data-name="noun_exagon full_2014502"
+                  transform="translate(-623.45 -279.863)">
+                  <g id="Livello_11" data-name="Livello 11" transform="translate(7.95 1.44)">
+                    <path id="Path_84" data-name="Path 84"
+                      d="M40.95,30.022l-16.5,9.527L7.95,30.022V10.967L24.45,1.44l16.5,9.527Z"
+                      transform="translate(608.05 277.56)" fill="#FF924A" stroke="#fff" stroke-width="1" />
+                  </g>
+                </g>
+              </svg>
+
+            </div>
+
+            <div class="iconshape decagon" aria-hidden="true" data-bind="if: iconshape==='decagon'">
+              <svg xmlns="http://www.w3.org/2000/svg" width="45.257" height="43.632" viewBox="0 0 45.257 43.632">
+                <g id="Livello_11" data-name="Livello 11" transform="translate(-1.75 -3.529)">
+                  <path id="Path_85" data-name="Path 85"
+                    d="M44.6,29.052h0a4.541,4.541,0,0,0-1.687,5.171h0a4.541,4.541,0,0,1-4.36,6h0a4.541,4.541,0,0,0-4.4,3.2h0A4.541,4.541,0,0,1,27.1,45.733h0a4.541,4.541,0,0,0-5.435,0h0A4.541,4.541,0,0,1,14.6,43.416h0a4.541,4.541,0,0,0-4.393-3.193h0a4.541,4.541,0,0,1-4.369-5.991h0a4.541,4.541,0,0,0-1.673-5.18h0a4.541,4.541,0,0,1,0-7.414h0a4.541,4.541,0,0,0,1.673-5.171h0a4.541,4.541,0,0,1,4.36-6h0a4.541,4.541,0,0,0,4.4-3.2h0a4.541,4.541,0,0,1,7.052-2.317h0a4.541,4.541,0,0,0,5.435,0h0a4.541,4.541,0,0,1,7.057,2.317h0a4.541,4.541,0,0,0,4.393,3.193h0a4.541,4.541,0,0,1,4.369,5.991h0a4.541,4.541,0,0,0,1.673,5.18h0a4.541,4.541,0,0,1,.014,7.414Z"
+                    fill="#5C0F6D" stroke="#707070" stroke-width="1" />
+                </g>
+              </svg>
+            </div>
+
+            <div class="iconshape circle" aria-hidden="true" data-bind="if: iconshape==='circle'">
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+                <g id="Ellipse_166" data-name="Ellipse 166" fill="#61BAB0" stroke="#fff" stroke-width="2">
+                  <circle cx="16" cy="16" r="16" stroke="none" />
+                  <circle cx="16" cy="16" r="15" fill="none" />
+                </g>
+              </svg>
+            </div>
+
+            <div class="text">
+              <div data-bind="text: captiontext"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+      <!-- <div id="artwork-ref-btn-container">
+        <button class="artwork-ref-btn" data-bind="click:showRef, text:artworktext, visible:isAllFlipped();"></button>
+      </div> -->
+
+    </section>
+
+    <div class="nav-feedback-container">
+
+      <!-- <div id="artwork-ref-btn-container1">
+        <button class="artwork-ref-btn" data-bind="click:showRef, text:artworktext, visible:isAllFlipped();"></button>
+      </div> -->
+      <div class="feedback" data-bind="visible:isAllFlipped()">
+        <p data-bind="html:feedback"></p>
+      </div>
+      <div class="nav-wraper" data-bind="visible:isAllFlipped()">
+        <button class="reset_btn" data-bind="event:{click:resetHandler}" title='Back to the Beginning'>
+          <svg xmlns="http://www.w3.org/2000/svg" width="77" height="77" viewBox="0 0 77 77">
+
+            <g>
+              <g class="circle" fill="#001a34" stroke="001a34" transform="rotate(180 38.5 38.5)">
+                <circle cx="38.5" cy="38.5" r="38.5" stroke="none" />
+                <circle cx="38.5" cy="38.5" r="38" fill="none" />
+              </g>
+              <g>
+                <g>
+                  <path class="path1" fill="#ffffff" stroke="#001a34"
+                    d="M1.188 7.057a4.219 4.219 0 0 1 0-5.869 4.219 4.219 0 0 1 5.869 0l19.751 19.658a4.335 4.335 0 0 1 0 5.963L7.057 46.466a4.219 4.219 0 0 1-5.869 0 4.335 4.335 0 0 1 0-5.963l16.77-16.676-16.77-16.77z"
+                    transform="rotate(180 38.5 38.5) translate(17.906 13.826)" />
+                </g>
+              </g>
+              <g>
+                <g>
+                  <path class="path2" fill="#ffffff" stroke="#001a34"
+                    d="M1.188 7.057a4.219 4.219 0 0 1 0-5.869 4.219 4.219 0 0 1 5.869 0l19.751 19.658a4.335 4.335 0 0 1 0 5.963L7.057 46.466a4.219 4.219 0 0 1-5.869 0 4.335 4.335 0 0 1 0-5.963l16.77-16.676-16.77-16.77z"
+                    transform="rotate(180 38.5 38.5) translate(38.906 13.826)" />
+                </g>
+              </g>
+            </g>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+  </div>
+</body>
+
+</html>
