@@ -35,16 +35,16 @@ function MatchingTemplate()
     this.isSubmitted = ko.observable(false);
     this.isAllCorrect = ko.observable(false);
 
-    this.scorm = pipwerks.SCORM; // shortcut
+    //this.scorm = pipwerks.SCORM; // shortcut
 
-    this.scorm.version = "1.2";
+    //this.scorm.version = "1.2";
 
     var ref = this;
 
     this.init = function(){
         this.loadXML("./data/data.xml",this.xmlLoaded.bind(this));
 
-        this.scorm.init()
+       // this.scorm.init()
 
     }
 
