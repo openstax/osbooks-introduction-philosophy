@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Allegory of the Cave Activity</title>
+   <instruction>
+    <desktop>Click a word and then click a box to match the word to the part of the image it describes. When you have matched each word to the part of Plato’s allegory of the cave that it describes, click Submit. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</desktop>
+    <mobile>Click a word and then click a box to match the word to the part of the image it describes. When you have matched each word to the part of Plato’s allegory of the cave that it describes, click Submit. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</mobile>
+  </instruction>
+
+  <image>
+    <src>opx_philo_ch_04_med01.svg</src>
+    <alt>Plato's Allegory of the Cave</alt>
+  </image>
+  <feedback>
+    <correct>In Plato's allegory of the cave, prisoners are located behind a wall and mistake shadows for reality. Freed or escaped prisoners can see beyond the cave and glimpse the truth.</correct>
+    <wrong>In Plato's allegory of the cave, prisoners are located behind a wall and mistake shadows for reality. Freed or escaped prisoners can see beyond the cave and glimpse the truth.</wrong>
+  </feedback>
+  <items>
+    <item>
+      <clickable>
+        <text>Misperception</text>
+      </clickable>
+      <matching>
+        <text>1</text>
+        <position>
+          <side>left</side>
+          <x>0%</x>
+          <y>5.75%</y>
+        </position>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Illusion</text>
+      </clickable>
+      <matching>
+        <text>2</text>
+       <position>
+          <side>left</side>
+          <x>0%</x>
+          <y>48.86%</y>
+        </position>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Prisoners</text>
+      </clickable>
+      <matching>
+        <text>5</text>
+        <position>
+          <side>left</side>
+          <x>0%</x>
+          <y>94%</y>
+        </position>
+      </matching>
+    </item>
+    
+
+    <item>
+      <clickable>
+        <text>The Truth</text>
+      </clickable>
+      <matching>      
+        <text>4</text>
+        <position>
+          <side>right</side>
+          <x>100%</x>
+          <y>5.75%</y>
+        </position>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Free Individuals</text>
+      </clickable>
+      <matching>
+        <text>3</text>
+        <position>
+          <side>right</side>
+          <x>100%</x>
+          <y>48.86%</y>
+        </position>
+      </matching>
+    </item>
+  
+
+  </items>
+</dataset>

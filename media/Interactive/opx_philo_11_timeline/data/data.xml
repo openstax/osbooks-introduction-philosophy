@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Political Philosophy Timeline</title>
+   <instruction>
+    <desktop>Click each node on the timeline to explore corresponding details. Replay this interaction as many times as you need. There is no time limit. This activity is not graded.</desktop>
+    <mobile>Click each node on the timeline to explore corresponding details. Replay this interaction as many times as you need. There is no time limit. This activity is not graded.</mobile>
+  </instruction>
+  <artworktext>Artwork References</artworktext>
+  <citationtitle>Citations and Attributions</citationtitle>
+  <timelinedrawdetails>
+    <tval>1500s</tval>
+    <tval>1600s</tval>
+    <tval>1700s</tval>
+    <tval>1800s</tval>
+    <tval>1900s</tval>
+    <tval>2000s</tval>
+  </timelinedrawdetails>
+
+  <slides>
+    <slide>
+    
+      <image>
+      <position>right</position>
+        <src>opx_philo_ch 11_med01.svg</src>
+        <alt>During the time men live without a common Power to keep them all in awe, they are in that condition which is called Warre; and such a warre, as is of every man, against every man. —Thomas Hobbes</alt>
+        <!-- <citation></citation> -->
+      </image>
+      <content>
+        <heading>Thomas Hobbes</heading>
+        <paras>
+          <para><![CDATA[Thomas Hobbes (1588–1679) was an English philosopher often credited with the development of modern social contract theory. In one of his major works, <em>Leviathan</em>, Hobbes proposes a hypothetical state of nature in which there is no government to protect its citizens. Hobbes writes that life in such a state would be “solitary, poore, nasty, brutish, and short” because each person would pursue their own interests in “a War of every man against every man.” To leave this state, individuals agree to a social contract in which they give up their individual liberties in return for the protection of a monarch who holds absolute power.]]></para>
+          <para></para>
+        </paras>
+      </content>
+      <redpointdetails>
+        <point>1588</point>
+        <rangevalue>17.6</rangevalue>
+        <desktop>
+          <marginleftpos>4.2px</marginleftpos>
+        </desktop>
+        <mobile>
+          <marginleftpos>-3px</marginleftpos>
+        </mobile>
+
+      </redpointdetails>
+    </slide>
+
+    <slide>
+    
+      <image>
+      <position>left</position>
+        <src>opx_philo_ch 11_med02.jpg</src>
+        <alt>John Locke</alt>
+        <citation><![CDATA["John Locke, philosopher" by Ann Longmore-Etheridge, Public Domain]]></citation>
+      </image>
+      <content>
+        <heading>John Locke</heading>
+        <paras>
+          <para>John Locke (1632–1704) was a British empiricist and an advocate of social contract theory. Locke held an optimistic view of human nature. He envisioned a state of nature into which individuals are born with natural rights and in which they can cooperate for mutal goals. He posited a natural law, grounded in rationality, that binds all people. People leave the state of nature to enter a social contract to establish a government that will protect the life, liberty, and property of its citizens. The citizens do not forfeit all their natural rights, decisions are made by majority rule, and the citizens have a right to replace the government.</para>
+          <para></para>
+        </paras>
+      </content>
+      <redpointdetails>
+      <point>1632</point>
+      <rangevalue>26.4</rangevalue>
+       <desktop>
+        <marginleftpos>-0.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-7px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+     
+     <slide>
+    
+      <image>
+      <position>right</position>
+        <src>opx_philo_ch 11_med03.svg</src>
+        <alt>Man is born free, and everywhere he is in chains. —Jean-Jacques Rousseau</alt>
+        <!-- <citation></citation> -->
+      </image>
+      <content>
+        <heading>Jean-Jacques Rousseau</heading>
+        <paras>
+          <para>Jean-Jacques Rousseau (1712–1778) was a Swiss-born philosopher and novelist whose work inspired the French Revolution, the Romantic movement, and other major political and social developments in the 18th and 19th centuries. Rousseau believed that people are essentially good but corrupted over time by society. He reframed the social contract as an agreement between an individual and the “general will” of the people, which naturally arises to serve the best interests of the collective. During the French Revolution, however, the “general will” was used to politically justify the mass murders that occurred at the guillotine.</para>
+          <para></para>
+        </paras>
+      </content>
+      <redpointdetails>
+      <point>1712</point>
+      <rangevalue>42.4</rangevalue>
+       <desktop>
+        <marginleftpos>-10.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-17px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+
+<!-- slide 4  -->
+    <slide>
+      <image>
+      <position>left</position>
+        <src>opx_philo_ch 11_med04.svg</src>
+        <alt>When bad men combine, the good must associate, else they will fall, one by one, an unpitied sacrifice in a contemptible struggle. —Edmund Burke.</alt>
+        <!-- <citation></citation> -->
+      </image>
+      <content>
+        <heading>Edmund Burke</heading>
+        <paras>
+          <para>The Irish political thinker Edmund Burke (1729–1797) is credited with developing the theories that form the basis of modern conservatism. Conservatives, in this sense, are not opposed to reform but are wary of challenges to existing systems that have generally held up well. They believe that any sudden change is likely to lead to instability and greater insecurity. Burke opposed the French Revolution and its bloody excesses, but he supported the American Revolution, which he saw as the natural evolution of representative government in the colonies.</para>
+          <para></para>
+        </paras>
+      </content>
+    <redpointdetails>
+      <point>1729</point>
+      <rangevalue>45.8</rangevalue>
+      <desktop>
+        <marginleftpos>-10.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-20px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+
+    
+<!-- slide 5  -->
+    <slide>
+      <image>
+      <position>left</position>
+        <src>opx_philo_ch 11_med05.svg</src>
+        <alt>Emma Goldman</alt>
+        <!-- <citation><![CDATA[T. Kajiwara (1876–1960), Public domain, via Wikimedia Commons]]></citation> -->
+      </image>
+      <content>
+        <heading>Emma Goldman</heading>
+        <paras>
+          <para>Emma Goldman (1869–1940) was a Russian-born anarchist who greatly influenced the socialist movement of the 20th century and the feminist movement of this century. She called for an overthrow of political systems that would replace inequalities with a natural blending of common interests. Goldman did believe that violence was at times necessary to overthrow a repressive state, but her primary mode of working toward a new state was education. Her visage has become a symbol of feminist anarchists today.</para>
+           <para></para>
+        </paras>
+       
+      </content>
+    <redpointdetails>
+      <point>1869</point>
+      <rangevalue>73.8</rangevalue>
+      <desktop>
+        <marginleftpos>-28.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-36px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+
+    
+<!-- slide 6  -->
+    <slide>
+      <image>
+      <position>left</position>
+        <src>opx_philo_ch 11_med06.jpg</src>
+        <alt>Hannah Arendt</alt>
+        <citation><![CDATA["Portrait of Hannah Arendt in 1924" by Yale University Press, Public Domain]]></citation>
+      </image>
+      <content>
+        <heading>Hannah Arendt</heading>
+        <paras>
+          <para><![CDATA[Hannah Arendt (1906–1975) was an influential philosopher, author, and Holocaust survivor renowned for her contributions to political philosophy. Her most famous work, <em>The Origins of Totalitarianism</em>, examines the rise of Stalinism and Nazism as representative of a new type of political system called totalitarianism, unique in its use of systematic violence to create total terror among a segment of the population. Totalitarianism dismantles an individual's capacity for independent thought until people are wholly dependent on the government and have no independent identity beyond that of "citizen."]]></para>
+          <para></para>
+        </paras>
+      </content>
+    <redpointdetails>
+      <point>1906</point>
+      <rangevalue>81.2</rangevalue>
+      <desktop>
+        <marginleftpos>-33.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-42px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+    
+<!-- slide 7  -->
+    <slide>
+      <image>
+      <position>left</position>
+        <src>opx_philo_ch 11_med07.jpg</src>
+        <alt>John Rawls</alt>
+        <citation><![CDATA["Photo portrait of American moral and political philosopher John Rawls in 1971" by  Harvard University Press, Public Domain]]></citation>
+      </image>
+      <content>
+        <heading>John Rawls</heading>
+        <paras>
+          <para><![CDATA[John Rawls (1921–2002) was an American philosopher known for his political theory concerning justice. In his “justice as fairness” model, each person has an equal right to the same basic liberties, such as freedom of speech, freedom to hold property, and freedom of assembly. Rawls’s famous “veil of ignorance” thought experiment asks people to consider how accessible these liberties would be in a just society.]]></para>
+          <para></para>
+        </paras>
+      </content>
+    <redpointdetails>
+      <point>1921</point>
+      <rangevalue>84.2</rangevalue>
+      <desktop>
+        <marginleftpos>-35.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-43px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+
+<!-- slide 8  -->
+    <slide>
+      <image>
+      <position>left</position>
+        <src>opx_philo_ch 11_med08.jpg</src>
+        <alt>Martha Nussbaum</alt>
+        <citation><![CDATA["Martha Nussbaum" by Simon Fraser University - Communications & Marketing, CC BY 2.0]]></citation>
+      </image>
+      <content>
+        <heading>Martha Nussbaum</heading>
+        <paras>
+          <para><![CDATA[The American philosopher, professor, and author Martha Nussbaum (b. 1947) is well known for her contributions to Greek philosophy, feminism, and ethics. She has helped advance the capability approach, which stresses the importance of providing resources to match individual need. Nussbaum argues that each person should be provided with the resources necessary to support a basic set of positive capabilities that all humans possess, and no life should be "so impoverished that it is not worthy of the dignity of the human being."]]></para>
+          <para></para>
+        </paras>
+      </content>
+    <redpointdetails>
+      <point>1947</point>
+      <rangevalue>89.4</rangevalue>
+      <desktop>
+        <marginleftpos>-37.5px</marginleftpos>
+      </desktop>
+      <mobile>
+        <marginleftpos>-45px</marginleftpos>
+      </mobile>
+      </redpointdetails>
+    </slide>
+
+  </slides>
+</dataset>
