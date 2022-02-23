@@ -1,13 +1,123 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>8.1 To come</title>
+  <title>The Fact-Value Distinction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>8.1 To come</md:title>
+    <md:title>The Fact-Value Distinction</md:title>
     <md:content-id>m00045</md:content-id>
     <md:uuid>00efe712-b067-4d6c-95ee-4ee2d6f9c4d7</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">Placeholder Text</para>
-    </section>
-</content>
+    <content>
+      <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Articulate the fact-value distinction.</item>
+      <item>Distinguish between descriptive and evaluative claims.</item>
+      <item>Explain the is-ought problem</item>
+      <item>Describe the naturalistic fallacy </item>
+      <item>Evaluate objections to the fact-value distinction.</item>
+      </list>
+      </section>
+      <para id="para-00002">Values are woven into how you live and relate to others. The ideals that guide your life decisions, the morals that shape how you treat others, and even the choices that define your personal aesthetic all express your values. Values signify judgments about the way people <emphasis effect="italics">ought</emphasis> to think, feel, or act based on what is good, worthwhile, or important. For example, you might think you <emphasis effect="italics">ought</emphasis> to read Ralph Ellison’s <emphasis effect="italics">Invisible Man</emphasis> because it is considered a great American novel or because you believe that reading about anti-Black racism in the United States is important for forming a more just worldview. Here, your reasoning for a course of action—reading <emphasis effect="italics">Invisible Man</emphasis>—is based on value judgments about the novel’s greatness and the importance of understanding racial injustice.</para>
+      <para id="para-00003">Values describe how people think things <emphasis effect="italics">should</emphasis> be, not necessarily how they are. Philosophers describe this difference as the <emphasis effect="italics">is-ought</emphasis> distinction or, more commonly, the fact-value distinction. The <term id="term-00001">fact-value distinction</term> distinguishes between what is the case (facts) and what people think ought to be the case (values) based on beliefs about what is good, beautiful, important, etc.</para>
+      <para id="para-00004">The line between facts and values is not always clear. It can be easy to mistake a value for a fact, especially when a person feels strongly about something and believes it is truly good or bad beyond any doubt. For example, the statement “killing an innocent person is bad” may seem like a fact, but it is not a description of how things are. This statement describes the way people think things should be, not the way the world is. For this reason, the fact-value distinction is an important place to begin. This section will give an overview of the fact-value distinction by examining the types of claims you can make about facts and values and how facts and values are related to or distinct from each other.</para>
+      <section id="sect-00002">
+      <title>Descriptive vs. Evaluative Claims</title>
+      <para id="para-00005">One way to think about the difference between facts and values is through the different types of claims you can make about them. People talk about facts using <term id="term-00002">descriptive claims</term> and values using <term id="term-00003">evaluative claims</term>. Descriptive claims are statements about matters of fact, whereas evaluative claims express a judgment about something’s value.</para>
+      <section id="sect-00003">
+      <title>Descriptive Claims: How the World Is</title>
+      <para id="para-00006">Descriptive claims make statements about <emphasis effect="italics">how the world is.</emphasis> They describe the facts of something, what you observe to be the case without any form of evaluation or judgment. For example, “the weather today is sunny” is a descriptive claim because it simply describes what someone observes.</para>
+      </section>
+      <section id="sect-00004">
+      <title>Evaluative Claims: How the World Ought to Be</title>
+      <para id="para-00007">Evaluative claims make statements about <emphasis effect="italics">how the world ought to be</emphasis>. They express judgments of value: what is good, just, fair, beautiful, healthy, important, etc. Instead of simply describing, evaluative claims interpret facts or assert what should be the case.</para>
+      <para id="para-00008">Evaluative claims can be <emphasis effect="italics">prescriptive</emphasis>—that is, they state what <emphasis effect="italics">should</emphasis> be the case or what people <emphasis effect="italics">ought</emphasis> to do in a given situation. For example, “I should go outside to get some sunshine” is an evaluative claim. It is based on a descriptive claim (“the weather today is sunny”), but it interprets this fact and ascribes a value to it (“sunshine is good for mental health”) in a way that prescribes an action (“I should go outside”). When people make evaluations about the goodness of something, it implies that they should do it. Evaluations are thus connected to actions and choices.</para>
+      <para id="para-00009">Sometimes people struggle to distinguish between facts and values and mistakenly think an evaluative statement is simply a positive claim about the way things are. As the next section will describe, this mistake is a type of fallacy.</para>
+      <note class="think-philosopher" id="note-00001">
+      <para id="para-00010">Determine whether the statements below are evaluative or descriptive. Propose a descriptive statement and a value statement that form the basis of each statement that you identify as evaluative.</para>
+      <list list-type="enumerated" id="list-00002">
+      <item>You should wear a scarf and mittens to keep warm.</item>
+      <item>People visit Athens to explore the remains of the ancient city.</item>
+      <item>Tomatoes contain vitamin C, which can boost your immune system.</item>
+      <item>The city needs to build more parks where residents can walk, jog, and exercise.</item>
+      </list>
+      </note>
+      </section>
+      </section>
+      <section id="sect-00005">
+      <title>The Naturalistic Fallacy</title>
+      <para id="para-00011">When thinking about values, it can be easy to make errors. A <term id="term-00004">fallacy</term> is an error in logical reasoning. Fallacies involve drawing the wrong conclusions from the premises of an argument or jumping to a conclusion without sufficient evidence. There are many types of logical fallacies because there are many ways people can make mistakes with their reasoning.</para>
+      <note class="philo-connections" id="note-00002">
+      <para id="para-00012">Learn more about informal fallacies in the chapter on logic and reasoning [link to chapter 5], and explore more about cognitive values in the chapter on critical thinking, research, reading, and writing [link to chapter 2].</para>
+      </note>
+      <para id="para-00013">The <term id="term-00005">naturalistic fallacy</term> is an error in reasoning that assumes you can derive values (what people <emphasis effect="italics">ought</emphasis> to do) from facts about the world (what <emphasis effect="italics">is</emphasis> the case). The British philosopher G. E. <term class="no-emphasis" id="term-00006">Moore</term> (1873–1958) explains the problem with this fallacy in his 1903 book <emphasis effect="italics">Principia Ethica</emphasis>. For Moore, if philosophers based the judgment “x is good” on a set of facts, or natural properties, about x, they have committed the naturalistic fallacy.</para>
+      <para id="para-00014">There are frequent examples of the naturalistic fallacy in popular discourse. Debates about whether monogamy is good or bad are frequently posed in terms of whether it is “natural,” and proponents for either side of the argument often point at monogamous or nonmonogamous animals to justify their answer. Claiming what humans ought to do from observations about animal behavior is an attempt to derive values from facts about the world.</para>
+      <section id="sect-00006">
+      <title>Hume and the Is-Ought Problem</title>
+      <para id="para-00015">The naturalistic fallacy is related to <term id="term-00007">the is-ought problem</term>. This problem asserts the challenge of moving from statements of fact (something <emphasis effect="italics">is</emphasis>) to statements of value (something <emphasis effect="italics">ought</emphasis> to be). The Scottish Enlightenment philosopher <term class="no-emphasis" id="term-00008">David Hume</term> (1711–1776) provides one of the most famous explanations of this problem in his <emphasis effect="italics"><term class="no-emphasis" id="term-00009">A Treatise of Human Nature</term></emphasis> (1739–1740).</para>
+      <figure id="fig-00001"><media alt="A lounging domestic cat looks directly at the viewer."><image mime-type="image/jpeg" src="../../media/PHIL_Figure_08_01_002.jpg"/></media>
+      <caption>The descriptive claim “Having pets has been shown to improve people’s mental health” can easily become the evaluative claim “People ought to have pets.” This is known as the is-ought problem. (credit: “My cat Toby” by Richard J/Flickr, Public Domain)</caption></figure>
+      <para id="para-00016">At the time Hume was writing the <emphasis effect="italics">Treatise</emphasis>, philosophers were rejecting a morality based on religious faith or dogmatic beliefs and were instead trying to find justifications for morality that relied on undeniable reasons for being a good person or trying to build a better society. Hume countered that you cannot derive <emphasis effect="italics">ought</emphasis> from <emphasis effect="italics">is</emphasis> because morality has to do with sentiments, not facts. In other words, morality has to do with what people believe and how we feel, and beliefs and feelings are not factual or derivable from facts. As Hume explains in the passage below, facts have to do with relations between objects. Morality, however, has to do with a human subject expressing their sentiments about a matter.</para>
+      <note class="read-philosopher" id="note-00003">
+      <para id="para-00017">Read this excerpt from David Hume’s <emphasis effect="italics">A</emphasis> <emphasis effect="italics">Treatise of Human Nature</emphasis>, Book 3, Part 1. As you read, pay attention to how he describes propositions that use “ought.” Does he seem to think they are justified with proper reasoning? Why not? Think of an example where using “ought” statements without rational justification could be a problem.</para>
+      <quote id="quote-00001">
+      <para id="para-00018">“I cannot forbear adding to these reasonings an observation, which may, perhaps, be found of some importance. In every system of morality, which I have hitherto met with, I have always remarked, that the author proceeds for some time in the ordinary way of reasoning, and establishes the being of a God, or makes observations concerning human affairs; when of a sudden I am surprized to find, that instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not. This change is imperceptible; but is, however, of the last consequence. For as this ought, or ought not, expresses some new relation or affirmation, it is necessary that it should be observed and explained; and at the same time that a reason should be given, for what seems altogether inconceivable, how this new relation can be a deduction from others, which are entirely different from it. But as authors do not commonly use this precaution, I shall presume to recommend it to the readers; and am persuaded, that this small attention would subvert all the vulgar systems of morality, and let us see, that the distinction of vice and virtue is not founded merely on the relations of objects, nor is perceived by reason.”</para>
+      </quote>
+      <para id="para-00019">(Source: Hume, David. (1739–1740) 2002. <emphasis effect="italics">A</emphasis> <emphasis effect="italics">Treatise of Human Nature</emphasis>, Book III, Part I, Section I. Project Gutenberg. https://www.gutenberg.org/files/4705/4705-h/4705-h.htm - link2H_4_0085)</para>
+      </note>
+      </section>
+      <section id="sect-00007">
+      <title>The Open-Question Argument</title>
+      <para id="para-00020">Hume’s description of the is-ought problem lives on in contemporary philosophy, especially in 20th-century ethics. In his 1903 book <emphasis effect="italics">Principia Ethica</emphasis>, G. E. <term class="no-emphasis" id="term-00010">Moore</term> introduces the <term id="term-00011">open-question argument</term> to argue against the naturalistic fallacy, which he sees as trying to derive non-natural properties, such as “right” and “good,” from natural properties. Unlike claims in the natural sciences, which extend understanding of or express a discovery about natural properties of the world, goodness and rightness are non-natural properties that cannot establish their truth based on natural properties and thus are always open to questioning. For example, the natural properties of water (H<sub>2</sub>0) are not open to questioning in the same way that the non-natural properties of things that people judge to be “good” or “right” are.</para>
+      <para id="para-00021">In order to answer the question “Is x good?” people frequently have to assert that something else is good. Is being kind to your neighbor good? Yes. Why? Because compassion for others is good. This does not “close” the question because it amounts to saying “good is good.” It is circular and thus uninformative, so the question remains open. Moore did believe that claims about moral properties can be true, but not in the same way as claims about natural properties.</para>
+      <note class="read-philosopher" id="note-00004">
+      <para id="para-00022">Search social media platforms for examples of “is” presented as “ought” statements. What types of beliefs do you notice people presenting as facts? What types of justifications are given for these claims?</para>
+      </note>
+      </section>
+      </section>
+      <section id="sect-00008">
+      <title>Objections to the Fact-Value Distinction</title>
+      <para id="para-00023">Not all philosophers agree that there is a strict distinction between facts and values. <term id="term-00012">Moral realists</term> argue for a more objective concept of morality. They feel that there are certain moral facts about the world that are objectively true, such as the claim “murder is immoral.” <term id="term-00013">Moral skeptics</term>, on the other hand, often use the fact-value distinction to argue against an objective basis for morality by emphasizing that moral values are <emphasis effect="italics">not</emphasis> factual and involve a different mode of thinking that is distinct from logical or scientific reasoning. Disagreements with the fact-value distinction come in different forms.</para>
+      <section id="sect-00009">
+      <title>Putnam’s Objection to the Fact-Value Distinction</title>
+      <para id="para-00024">Some philosophers reject the concept of empirical facts by demonstrating that scientific reasoning uses values to establish facts. In his 1982 article “Beyond the Fact-Value Dichotomy,” American philosopher and mathematician Hilary <term class="no-emphasis" id="term-00014">Putnam</term> (1926 – 2016) argues that scientists frequently must choose between conflicting theories and use desirable principles like simplicity or coherence to devise an explanation for complex observational data. To illustrate his point, he explains that Einstein’s theory of gravity was accepted over competing theories because it was simpler and preserved other laws of physics. Putnam argues that science’s creation of facts is an evaluative practice and does not necessarily stand on a firmer ground than conclusions about values like goodness or kindness. This approach to refuting the fact-value distinction is provocative because it challenges the idea that science is an objective presentation of facts.</para>
+      </section>
+      <section id="sect-00010">
+      <title>Lack of Distinction Claims</title>
+      <para id="para-00025">Another approach to challenging the fact-value distinction is to emphasize how people connect them in their everyday ways of speaking. Some philosophers argue that certain types of descriptive claims imply an evaluative claim, especially if they are linked by the concept of <emphasis effect="italics">purpose</emphasis> or <emphasis effect="italics">function</emphasis>. For example, if a person says, “This knife is too dull to cut anything,” then you can assume they also mean “This is a bad knife” because it does not fulfill its function. If you understand the purpose of function of the knife, you can follow this implication easily. Since people make these types of connections easily in everyday speech, the distinction between facts and values may not hold much meaning.</para>
+      </section>
+      <section id="sect-00011">
+      <title>Claims of Objective Moral Reasoning</title>
+      <para id="para-00026">Finally, some philosophers reject the fact-value distinction through the concept of <term id="term-00015">telos</term> (purpose, end, or goal). They argue that values are based on the fulfillment of a goal. You can objectively assess whether an action does or does not fulfill a goal. For example, if your goal is to help others in need, an action will be good if it fulfills that goal, like volunteering at a homeless shelter. Using this goal, you can objectively determine whether any action is good, bad, or neutral. Telos, therefore, establishes an objective morality.</para>
+      <para id="para-00027">To investigate the is-ought distinction further, you must explore what a value is. The following section will take up this question.</para>
+      </section>
+      </section>
+      
+      <section class="summary" id="sect-00012">
+      <title/>
+      <para id="para-00028">Values describe how people think things <emphasis effect="italics">should</emphasis> be, whereas facts describe how things <emphasis effect="italics">are</emphasis>. This is known as the fact-value distinction. People talk about facts using descriptive claims about how the world is, whereas they talk about values using evaluative claims about how the world <emphasis effect="italics">ought</emphasis> to be. Sometimes philosophers argue that you can make evaluative statements based on descriptive claims about nature or what is natural. However, this move from statements of fact to evaluative statements is considered a faulty form of reasoning called the naturalistic fallacy.</para>
+      </section>
+      
+      <section class="review-questions" id="sect-00013">
+      <title/>
+      <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00029"><link class="os-embed" url="#exercise/PH_Ch8-Sec1_RQ1"/></para></problem></exercise>
+      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00030"><link class="os-embed" url="#exercise/PH_Ch8-Sec1_RQ2"/></para></problem></exercise>
+      <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00031"><link class="os-embed" url="#exercise/PH_Ch8-Sec1_RQ3"/></para></problem></exercise>
+      <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00032"><link class="os-embed" url="#exercise/PH_Ch8-Sec1_RQ4"/></para></problem></exercise>
+      <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00033"><link class="os-embed" url="#exercise/PH_Ch8-Sec1_RQ5"/></para></problem></exercise>
+      <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00034"><link class="os-embed" url="#exercise/PH_Ch8-Sec1_RQ6"/></para></problem></exercise>
+      </section>
+      </content>
+      <glossary>
+      <definition id="def-00001"><term>Descriptive claims</term> <meaning>statements that describe matters of fact or how the world is.</meaning></definition>
+      <definition id="def-00002"><term>Evaluative claims</term> <meaning>statements that express a judgment about something’s value or how the world ought to be.</meaning></definition>
+      <definition id="def-00003"><term>Fact-value distinction</term> <meaning>the distinction between what is the case (facts) and what people think ought to be the case (values) based on beliefs about what is good, beautiful, important, etc. Some philosophers think it is a sharp distinction, while others consider it to be less black and white.</meaning></definition>
+      <definition id="def-00004"><term>Fallacy</term> <meaning>an error in logical reasoning—for example, jumping to a conclusion without proper evidence.</meaning></definition>
+      <definition id="def-00005"><term>Is-ought problem</term> <meaning>problem that asserts the challenge of moving from statements of fact (something <emphasis effect="italics">is</emphasis>) to statements of value (something <emphasis effect="italics">ought</emphasis> to be).</meaning></definition>
+      <definition id="def-00006"><term>Moral realism</term> <meaning>the philosophical position that morality is objective, not subjective.</meaning></definition>
+      <definition id="def-00007"><term>Moral skepticism</term> <meaning>the philosophical position that morality is not objective.</meaning></definition>
+      <definition id="def-00008"><term>Naturalistic fallacy</term> <meaning>an error in reasoning that assumes one can derive values (what people <emphasis effect="italics">ought</emphasis> to do) from facts about the world (what <emphasis effect="italics">is</emphasis> the case).</meaning></definition>
+      <definition id="def-00009"><term>Open-question argument</term> <meaning>G. E. Moore’s argument against the naturalistic fallacy, which he sees as trying to derive non-natural properties from natural properties. For Moore, arguing that something is “good” (a non-natural property) based on natural properties is circular and leaves an open question.</meaning></definition>
+      <definition id="def-00010"><term>Telos</term> <meaning>the purpose, end, or goal of something.</meaning></definition>
+      </glossary>
+
 </document>

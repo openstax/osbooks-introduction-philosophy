@@ -1,13 +1,145 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>8.3 To come</title>
+  <title>Metaethics</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>8.3 To come</md:title>
+    <md:title>Metaethics</md:title>
     <md:content-id>m00047</md:content-id>
     <md:uuid>a22ff86a-73e3-450a-9f9a-72b591a73940</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">Placeholder Text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Identify the meaning of the phrase “ontology of value.”</item>
+    <item>Identify the significance of realism and anti-realism for moral discourse.</item>
+    <item>Compare and contrast different theories regarding the foundations for moral theory.</item>
+    <item>Explain the importance of the Euthyphro problem for metaethics.</item>
+    </list>
     </section>
-</content>
+    <para id="para-00002">Ethics is the broad study of morality and is often divided into metaethics, normative ethics, and applied ethics. Normative ethics and applied ethics are covered in separate chapters. Each field is distinguished by a different <emphasis effect="italics">level </emphasis>of inquiry and analysis. <term id="term-00001">Metaethics</term> focuses on moral reasoning and foundational questions that explore the assumptions related to moral beliefs and practice. It attempts to understand the presuppositions connected to morality and moral deliberation. Metaethics explores, for example, where moral values originate, what it means to say something is right or good, whether there are any objective moral facts, whether morality is (culturally) relative, and whether there is a psychological basis for moral practices and value judgements.</para>
+    <para id="para-00003">In the previous two sections, in asking whether there is a fact-value distinction and what values are, we encountered a central question in metaethics—whether morality is grounded in objective or subjective values. We have also encountered questions about what is good or bad and right or wrong, which is the main concern of normative ethics. This section dives deeper into these questions and explores different foundations for moral values, such as God, religious faith, nature, society, politics, law, and rationality.</para>
+    <section id="sect-00002">
+    <title>Ontology of value</title>
+    <para id="para-00004">An important area of metaethics is the ontology of value. Ontology is the study (ology) of being (ōn). It gets at the nature of what makes something what it is. <term id="term-00002">Ontology of value</term> is the study of the being of values. What is a value? Is it a statement about reality? A subjective idea or belief? A mental state or emotion? As you will see, there are different ontological accounts of value.</para>
+    <section id="sect-00003">
+    <title>Realism and Anti-realism</title>
+    <para id="para-00005">Do moral values have a basis in reality, or are they purely subjective and relative to individuals or communities? Depending on your answer, your approach to ethics will look completely different. Thus, the first major distinction between different types of ethical reasoning is the difference between realism and anti-realism. Moral realists, as discussed earlier, object to the fact-value distinction. <term id="term-00003">Realism</term> asserts that ethical values have some basis in reality and that reasoning about ethical matters requires an objective framework or foundation to discover what is truly good. For a realist, values are not simply subjective opinions. <term id="term-00004">Anti-realism</term> asserts that ethical values are not based on objective facts about the world but instead rely on subjective foundations like individuals’ desires and beliefs.</para>
+    <note class="think-philosopher" id="note-00001">
+    <para id="para-00006">Are you a moral realist or anti-realist? Before answering this question, consider the list of actions below. For each, consider both whether you think the action is objectively wrong and why or why not you take this position. Both your responses and your reasons for your responses will help you to determine which category you fall into,</para>
+    <list id="list-00002">
+    <item>Murder</item>
+    <item>Lying</item>
+    <item>Corporal punishment</item>
+    <item>Harming an innocent person</item>
+    </list>
+    </note>
+    <para id="para-00007">This section extends moral realism beyond the fact-value distinction to examine why many argue that moral realism is an important position to take and the types of objective realities people have used to establish a moral reality.</para>
+    </section>
+    <section id="sect-00004">
+    <title>The Importance of Debate within Moral Realism</title>
+    <para id="para-00008">Moral debate poses a challenge to moral realism because it makes morality seem subjective. If people disagree on important moral issues, such as abortion, or on how to justify moral beliefs, how are we to determine who is right? Maybe no one has the right answer and moral claims are simply subjective opinions.</para>
+    <para id="para-00009">For a realist, moral disagreements do not mean that morality is subjective. Many fields, including the natural sciences, have vibrant debates and disagreements that do not necessarily indicate that their claims are subjective. For example, astronomers used to think that the sun and planets revolved around Earth, and the heliocentric concept of the universe was considered heretical. This disagreement does not mean that astronomy is subjective but instead that astronomy requires ongoing observation and debate to improve its understanding of reality. Along similar lines, moral debates do not necessarily prove morality is subjective and in fact can even improve one’s understanding of a moral issue. Moral realism asserts that morality has an objective framework or foundation, which means that you can make true moral claims. People do not necessarily, however, agree on which claims are true.</para>
+    </section>
+    <section id="sect-00005">
+    <title>The Importance of Moral Resolution</title>
+    <para id="para-00010">Moral relativism, discussed earlier, is an anti-realist position because it denies that there is an objective or universal justification for moral beliefs. Instead, morality is always relative to an individual or community. This means there is no way to say what is truly good or bad.</para>
+    <para id="para-00011">Moral relativism has taken many different shapes throughout the history of philosophy, and it is debated in popular discourses—especially politics and religion—as well as in metaethics. It is controversial because it seems to undermine the possibility of finding common ground in ethical debates that shape practical action or political policies. Thus anti-realism and moral relativism seem to create insurmountable barriers for overcoming moral disagreements.</para>
+    <para id="para-00012">For contemporary philosopher Michelle <term class="no-emphasis" id="term-00005">Moody-Adams</term>, however, moral disagreements between different cultures—and even within cultures—do not require us to adopt an anti-realist position. She takes moral disagreements seriously but also argues for “cautious optimism” about moral objectivity (1997). For Moody-Adams, irresolvable moral disagreements are an “unavoidable feature of moral experience” and not a reason to be skeptical about moral reasoning (1997, 107).</para>
+    <para id="para-00013">Since anti-realism is a form of moral skepticism, it can lead not only to relativism but also to pessimism about whether we can resolve moral debates or whether moral reasoning has any legitimacy. Being able to explain what is right or wrong is important not only for ethics but also for the lives of individuals within communities because people’s actions and decisions impact each other. This is one of the critiques that moral realists employ against anti-realists. If morality is purely subjective, then values are arbitrary and people are unable to make true claims about moral values.</para>
+    <para id="para-00014">Moral realism requires one to find objective justifications for moral beliefs and claims. These justifications take a variety of forms—including God and nature—which the following sections will explain.</para>
+    </section>
+    </section>
+    <section id="sect-00006">
+    <title>Divine and Religious Foundations for Moral Values</title>
+    <para id="para-00015">One way to analyze moral reasoning is by examining its <term id="term-00006">foundation</term>—that is, how it supports claims about morality. Throughout history, many humans have relied upon a concept of the divine to justify moral claims and values.</para>
+    <para id="para-00016">Ethical frameworks that are based on God can function in a variety of ways depending on the concept of the divine. God can function as the highest good. In this case, God provides an exemplar for the virtues and values that should guide human action. For example, if God is a loving being, humans should develop their ability to love, and performing loving actions will be the basis for morality. The concept of God can function as an ultimate judge who decides what is right and wrong from an omnipotent and infallible position. In this case, God provides an objective standpoint for moral judgment. With this ethical framework, humans may disagree on what is right or wrong because of their limited perspectives, but morality is not relative or arbitrary because it rests on eternal truths from an all-knowing God.</para>
+    <figure id="fig-00001"><media alt="Visually dense and complex drawing depicting stacked levels of beings. At the top is a figure representing God, seated upon a throne. Beneath God, in clearly delineated layers, are angels, humans, terrestial animals, aquatic animals, plants, and, at the very bottom, demonic creatures in Hell."><image mime-type="image/jpeg" src="../../media/PHIL_Figure_08_03_004.jpg"/></media>
+    <caption>This medieval engraving of the Great Chain of Being from the <emphasis effect="italics">Rhetorica Christiana</emphasis> by Fray Diego de Valadés (1579) depicts God on a throne ruling over all that exists. The concept of God can function as a foundation for deciding what is right and wrong. (credit: “The Great Chain of Being from the Rhetorica christiana by Fray Diego de Valades (1579)” by Diego de Valadés/Wikimedia, Public Domain)</caption></figure>
+    <para id="para-00017">Religions frequently claim knowledge about the nature and source of reality, the meaning of human existence, the foundations for morality, the purpose of suffering in the world, and what happens when people die. Many religions consider the tenets of their faith to come from a divine source, sacred revelations, or prophets. Religions also look to scripture, sacred practices and customs, images, and objects to determine moral values.</para>
+    <section id="sect-00007">
+    <title>Augustine on Faith and Knowledge</title>
+    <para id="para-00018">Those who challenge the divine as a source of moral authority question whether these moral beliefs are based on only faith or whether they are justified true beliefs that can be accepted as knowledge. <term id="term-00007">Faith</term> refers to beliefs that are not proven, including beliefs that cannot be proven. The medieval monk, theologian, and philosopher <term class="no-emphasis" id="term-00008">Augustine</term> of Hippo (354–430) argued that there are many things in life people claim to know that are actually based on faith. His argument attempts to blur the distinction between faith and knowledge. For example, if people are not adopted, they typically claim to know who their parents are and take that as firm knowledge, not belief. Yet people are not able to remember their own births or the earliest years of their lives, so they did not confirm this belief with their own observations. For Augustine, this is how faith works. In this sense, faith and knowledge serve a similar purpose in human life and the values people hold.</para>
+    </section>
+    <section id="sect-00008">
+    <title>The Euthyphro problem</title>
+    <para id="para-00019">Using God as the basis for moral values can introduce challenging philosophical questions that are difficult to answer. The<term id="term-00009">Euthyphro problem</term> describes such a challenge in theistic ethical systems. It asks whether something is good because God commands it or if God commands it because it is good. The name comes from the Platonic dialogue <emphasis effect="italics">Euthyphro</emphasis>, which features a conversation between the philosopher <term class="no-emphasis" id="term-00010">Socrates</term> and a man named Euthyphro who claims to be an expert on piety. Socrates asks, “Is the pious being loved by the gods because it is pious, or is it pious because it is being loved by the gods?” (<term class="no-emphasis" id="term-00011">Plato</term>, <emphasis effect="italics">Euthyphro</emphasis> 10a). In the former case, the gods do not determine what is good, so there must be a higher authority above the gods. In the latter case, the gods remain the ultimate authority, but there are no discernible principles for why they love what they love. That means that piety is a command from above without reason, which limits one’s ability to theorize about it. This idea is called <term id="term-00012">divine command theory</term>.</para>
+    <para id="para-00020">The former case, however, introduces a problem regarding God’s sovereignty and omnipotence because it places moral principles above the divine and seems to set up a situation in which there are rules not even God may violate. In other words, if God cannot act immorally, is God truly all-powerful?</para>
+    </section>
+    </section>
+    <section id="sect-00009">
+    <title>Natural and Human Foundations for Moral Values</title>
+    <para id="para-00021">Different ethical frameworks rest on different foundations or justifications: some appeal to a nonhuman principle like nature; others appeal to shared human institutions like culture, tradition, society, or law; and still others appeal to the individual and their resources for moral reasoning. This section examines moral reasoning based on nature, society, politics, the self, or reason.</para>
+    <section id="sect-00010">
+    <title>Nature and Natural Law</title>
+    <para id="para-00022">One approach to ethics appeals to nature or natural law to make claims about what is good or bad. An action, goal, or characteristic is good if it accords with nature or natural law and is bad if it violates it. Here, <emphasis effect="italics">nature</emphasis> can refer to human nature or the observed features of the natural world.</para>
+    <para id="para-00023">According to the medieval philosopher Thomas <term class="no-emphasis" id="term-00013">Aquinas</term> (1225–1274), there are four types of laws: eternal, natural, human, and divine. Eternal laws govern the universe, natural laws govern the natural world, and human laws govern human societies. Divine laws are supernatural and allow humans to reach salvation but cannot be known through human reason alone. Instead, they must be revealed by God (e.g., the Ten Commandments, Scriptures, and other divine revelations). Humans can use reason, however, to discover natural laws and create human laws. For Aquinas, human laws must align with natural law. Human laws that violate the laws of nature are “no longer a law but a perversion of law” (Aquinas [1485] 1948, 649). Aquinas’s argument contributes to classical <term id="term-00014">natural law theory</term>, which sees laws as upholding natural order. Because nature is not subjective, natural law theory sees values as objective.</para>
+    </section>
+    <section id="sect-00011">
+    <title>Ethical Naturalism</title>
+    <para id="para-00024">As discussed earlier, some philosophers believe that an essential link between values and telos, or purpose, creates an objective moral reality.<term id="term-00015">Ethical naturalism</term> argues that performing good actions fulfills human nature, while performing evil actions distorts it. If this is the case, moral values and “what is good” are based on natural facts about the world, not individuals’ subjective feelings or beliefs. Ethical naturalism often relies on concepts of pleasure, desire, happiness, or flourishing to define what is naturally good or bad.</para>
+    <para id="para-00025">The 20th-century philosopher Philippa <term class="no-emphasis" id="term-00016">Foot</term> (1920–2010) provides one of the most famous philosophical arguments for ethical naturalism. In <emphasis effect="italics">Natural Goodness </emphasis>(2003), Foot argues that moral values like “goodness” are not about statements, as G. E. <term class="no-emphasis" id="term-00017">Moore</term> suggested in <emphasis effect="italics">Principia Ethica</emphasis>, or about mere emotions that individuals feel, but are instead about human flourishing. Just as bees have qualities that help them thrive and build strong colonies, so humans have virtues that help them to thrive in life and build flourishing communities. Foot’s description of flourishing is influenced <term class="no-emphasis" id="term-00018">Aristotle</term>, who based his concept of ethics on an examination of different virtues, which involve fulfilling one’s telos, or purpose. This approach to morality is called <term id="term-00019">virtue ethics</term>. In ethical naturalism and virtue ethics, discovering moral values requires understanding one’s nature, which must be based on an objective understanding of human life.</para>
+    <note class="philo-connections" id="note-00002">
+    <para id="para-00026">The chapter on normative moral theory [link to chapter 8] explores virtue ethics in greater depth.</para>
+    </note>
+    <para id="para-00027">In <emphasis effect="italics">Natural Goodness</emphasis>, <term class="no-emphasis" id="term-00020">Foot</term> further argues that moral evaluations are similar to the types of evaluations that people make about other living things in the natural world. Moral goodness describes how one should live according to human nature. Just as you can know what is good for an animal by studying its nature, you can know what is good for humans by understanding their nature.</para>
+    <para id="para-00028">More importantly, Foot argues that part of understanding <emphasis effect="italics">what</emphasis> an organism is involves knowing what is good for it based on its vital processes. For example, you know what is good for a duck based on knowledge of what a duck is. This knowledge would include an understanding of the duck’s nature and what helps it live a good life. A duck is an aquatic bird, so a habitat with water will be good for it. Along similar lines, you can know what is good for a human based on knowledge of human nature.</para>
+    <para id="para-00029">In this sense, she connects morality to biological flourishing, or achieving the goals of human life. For example, if the purpose of human life is to develop meaningful relationships and to actualize one’s potential, then morality is based on the virtues that allow someone to achieve these ends. For example, one could argue that humans, like other primates, have evolved to cooperate and care for others as a part of their survival, so actions that promote cooperation and care are good, and actions that harm others are bad.</para>
+    </section>
+    <section id="sect-00012">
+    <title>Reason</title>
+    <para id="para-00030">Some ethical theories focus exclusively on certain human capacities, like reason. <term id="term-00021">Reason</term> is a methodical way of thinking that uses evidence and logic to draw conclusions. The use of reason as the grounds for morality became particularly important in <term class="no-emphasis" id="term-00022">Enlightenment</term> philosophy because philosophers wanted to assert the validity of moral principles without relying on religious beliefs or God.</para>
+    <para id="para-00031">The Enlightenment philosopher Immanuel <term class="no-emphasis" id="term-00023">Kant</term> (1724–1804) argued that as rational agents, humans express general principles or maxims when they act. You always act for a reason—namely, a goal or end in mind. For Kant, an action or decision is moral if you can universalize it, which he formulates in the <term id="term-00024">categorical imperative</term>. Kant’s categorical imperative states: “Act only according to that maxim whereby you can, at the same time, will that it should become a universal law” (Kant [1785] 1998, 31). That means you know an action is moral if can be universal for everyone. The categorical imperative works best when we note that an action contradicts it. For example, lying cannot be moral because it is not universalizable. It is impossible for everyone to lie. Even the act of lying assumes that people usually tell the truth.</para>
+    </section>
+    <section id="sect-00013">
+    <title>Self</title>
+    <para id="para-00032">Other approaches to ethical theory argue that morality originates in the self. How do people know what is right or wrong? What motivates them to be good and care for others? Some argue that the <term id="term-00025">conscience</term>, an individual’s inner sense of right and wrong, forms the basis for ethics. But where does one get this inner sense? Some argue that it comes through <term id="term-00026">intuition</term>—cognition that seems completely self-evident and impossible to deny—while others assert that individuals develop it through education or reason.</para>
+    <para id="para-00033">Other approaches to ethics rely upon the individual’s psychology, moral sentiments, or feelings. Multiple moral theories emphasize <term id="term-00027">compassion</term> and <term id="term-00028">empathy</term>, the ability to suffer with and share others’ feelings. For the ancient Chinese philosopher <term class="no-emphasis" id="term-00029">Mencius</term> (371–289 BCE), the feeling of compassion allows benevolent actions, which are the basis for ethics and well-being. Compassion and empathy might also be considered virtues that individuals cultivate. Virtue ethics bases its moral theory on virtues as personal characteristics that an individual can develop.</para>
+    <figure id="fig-00002"><media alt="Sketch of the head and torso of a Chinese man wearing a robe."><image mime-type="image/jpeg" src="../../media/PHIL_Figure_08_03_005.jpg"/></media>
+    <caption>The ancient Chinese philosopher Mencius emphasized compassion and empathy as the basis for ethical action. (credit: “Half Portraits of the Great Sage and Virtuous Men of Old - Meng Ke” by National Palace Museum, Public Domain)</caption></figure>
+    <para id="para-00034"><term id="term-00030">Feminist care ethics</term> bases ethics on individuals’ feelings for the people who play a significant role in their lives. In her book <emphasis effect="italics">Caring: A Feminine Approach to Ethics and Moral Education</emphasis>, the American philosopher Nel <term class="no-emphasis" id="term-00031">Noddings</term> (b. 1929) argues that an “ethics built on caring” is “characteristically and essentially feminine” insofar as it arises out of women’s experiences, which are traditionally defined through caregiving roles (2013, 8).</para>
+    <para id="para-00035">An important debate within ethical theory is the importance of <term id="term-00032">altruism</term>, which is the selfless care for others’ well-being. Some moral philosophers argue that only altruistic actions are completely moral, while others assert that self-interest can motivate the moral treatment of others. It is this issue that the next section addresses.</para>
+    <note class="think-philosopher" id="note-00003">
+    <para id="para-00036">In the above section, you learned that there are many different possible sources for moral knowledge. Do you think there are objective sources of moral knowledge? Why or why not?</para>
+    </note>
+    </section>
+    </section>
+    
+    <section class="summary" id="sect-00014">
+    <title/>
+    <para id="para-00037">Metaethics explores where moral values originate, what it means to say something is right or good, whether there are any objective moral facts, whether morality is relative, and the psychological basis for moral practices and values. Realism asserts that morality is objective, whereas anti-realism asserts that it is subjective. Philosophers consider a variety of sources for the origins of moral values, such as God, nature, social norms, laws, and reason.</para>
+    </section>
+    
+    <section class="review-questions" id="sect-00015">
+    <title/>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00038"><link class="os-embed" url="#exercise/PH_Ch8-Sec3_RQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00039"><link class="os-embed" url="#exercise/PH_Ch8-Sec3_RQ2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00040"><link class="os-embed" url="#exercise/PH_Ch8-Sec3_RQ3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00041"><link class="os-embed" url="#exercise/PH_Ch8-Sec3_RQ4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00042"><link class="os-embed" url="#exercise/PH_Ch8-Sec3_RQ5"/></para></problem></exercise>
+    <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00043"><link class="os-embed" url="#exercise/PH_Ch8-Sec3_RQ6"/></para></problem></exercise>
+    <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00044"><link class="os-embed" url="#exercise/PH_Ch8-Sec3_RQ7"/></para></problem></exercise>
+    <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00045"><link class="os-embed" url="#exercise/PH_Ch8-Sec3_RQ8"/></para></problem></exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>Altruism</term> <meaning>the selfless care for others’ well-being.</meaning></definition>
+    <definition id="def-00002"><term>Anti-realism</term> <meaning>the philosophical position that argues that morality is subjective, not objective.</meaning></definition>
+    <definition id="def-00003"><term>Categorical imperative</term> <meaning>Kant’s concept of moral reasoning and action. “Act only according to that maxim whereby you can, at the same time, will that it should become a universal law” (Kant [1785] 1998, 31). That means you know an action is moral if can be universal for everyone.</meaning></definition>
+    <definition id="def-00004"><term>Compassion</term> <meaning>the ability to care or share in others’ suffering.</meaning></definition>
+    <definition id="def-00005"><term>Conscience</term> <meaning>an individual’s inner sense of right and wrong.</meaning></definition>
+    <definition id="def-00006"><term>Divine command theory</term> <meaning>the philosophical position that uses God as the principle for morality. What is good is determined by God’s commands.</meaning></definition>
+    <definition id="def-00007"><term>Empathy</term> <meaning>the ability to share others’ feelings.</meaning></definition>
+    <definition id="def-00008"><term>Ethical naturalism</term> <meaning>the philosophical position that argues that moral values are based on natural facts about the world, not individuals’ subjective feelings or beliefs.</meaning></definition>
+    <definition id="def-00009"><term>Euthyphro problem</term> <meaning>a challenge to theistic ethical systems. It asks whether something is good because God commands it or if God commands it because it is good.</meaning></definition>
+    <definition id="def-00010"><term>Faith</term> <meaning>beliefs that are not or cannot be proven.</meaning></definition>
+    <definition id="def-00011"><term>Feminist care ethics</term> <meaning>an ethical theory that proposes that morality is based on caring for others and that caring for others arises out of women’s experiences as caregivers.</meaning></definition>
+    <definition id="def-00012"><term>Foundation</term> <meaning>a principle, concept, or assumption on which a philosophical position is founded.</meaning></definition>
+    <definition id="def-00013"><term>Intuition</term> <meaning>cognition that seems completely self-evident and impossible to deny.</meaning></definition>
+    <definition id="def-00014"><term>Metaethics</term> <meaning>branch of philosophy that focuses on moral reasoning and foundational questions that explore the assumptions related to moral beliefs and practice.</meaning></definition>
+    <definition id="def-00015"><term>Natural law theory</term> <meaning>an ethical position that asserts that morals are objective and derived from nature.</meaning></definition>
+    <definition id="def-00016"><term>Ontology of value</term> <meaning>the study of the being of values.</meaning></definition>
+    <definition id="def-00017"><term>Realism</term> <meaning>the philosophical position that asserts that ethical values have some basis in reality and that reasoning about ethical matters requires an objective framework or foundation.</meaning></definition>
+    <definition id="def-00018"><term>Reason</term> <meaning>a methodical way of thinking that uses evidence and logic to draw conclusions, or the capacity to think this way.</meaning></definition>
+    <definition id="def-00019"><term>Virtue ethics</term> <meaning>a philosophical approach to ethics based on the examination of different virtues.</meaning></definition>
+    </glossary>
 </document>

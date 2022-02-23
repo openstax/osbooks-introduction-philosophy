@@ -1,13 +1,72 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>8.2 To come</title>
+  <title>Basic Questions about Values</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>8.2 To come</md:title>
+    <md:title>Basic Questions about Values</md:title>
     <md:content-id>m00046</md:content-id>
     <md:uuid>0dfe6060-2f92-4bfc-b587-bdd75c9e002b</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">Placeholder Text</para>
-    </section>
-</content>
+    <content>
+      <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Relate extrinsic values to intrinsic values.</item>
+      <item>Distinguish between monism and pluralism in value theory.</item>
+      <item>Explain the concept of incommensurability in value theory.</item>
+      <item>Compare and contrast moral pluralism and moral relativism.</item>
+      </list>
+      </section>
+      <para id="para-00002">People spend much of their time trying to accomplish goals that they deem as “good.” But what do people mean when they say something is “good”? What does it mean to value something? Can conflicting values be resolved? This section will explore different answers to these questions and, in doing so, help you understand the meaning of value.</para>
+      <section id="sect-00002">
+      <title>Intrinsic and Extrinsic Value</title>
+      <para id="para-00003">One way to think about what a value is has to do with whether it is valuable for its own sake or valuable for the sake of something else. Something has <term id="term-00001">intrinsic value</term> if it is valuable for its own sake. For example, <term class="no-emphasis" id="term-00002">Aristotle</term> asserted that happiness has intrinsic value because it is an end in itself. He believed that all actions ultimately aim at happiness, but happiness is pursued for its own sake. If someone were to ask, “What is happiness good for?” Aristotle would reply that it simply good in and of itself.</para>
+      <para id="para-00004">Something has <term id="term-00003">extrinsic value</term> if it is valuable for the sake of something else. It is a means to an end. For example, you probably engage in a variety of activities that are good insofar as they help your health. Eating a well-balanced diet, going to the doctor regularly, and keeping an active routine all contribute to health and well-being. Health is thus the intrinsic good that makes each of those activities extrinsically good.</para>
+      <figure id="fig-00001"><media alt="A plate of cut up beets, apples, and oranges. On the table behind the plate are several whole fruits."><image mime-type="image/jpeg" src="../../media/PHIL_Figure_08_03_003.jpg"/></media>
+      <caption>Eating fruits and vegetables is an extrinsic good, in that it contributes to the intrinsic value of human health. If eating fruits and vegetables were found to not contribute to health, this would no longer be viewed as a desirable action. (credit: “Healthy and tasty fruits and vegetables” by Marco Verch Professional/Flickr, CC BY 2.0)</caption></figure>
+      </section>
+      <section id="sect-00003">
+      <title>Fundamentality</title>
+      <para id="para-00005">One could argue, however, that health is yet an extrinsic value because people only value health because it contributes to happiness. When people distinguish between intrinsic and extrinsic values, they think about not only what is valuable but also how values are related to each other. The example of health and happiness raises the question of <term id="term-00004">fundamentality</term>—whether there is only one intrinsic value or many.</para>
+      <para id="para-00006"><term id="term-00005">Monism</term> argues that there is only one fundamental intrinsic value that forms the foundation for all other values. For example, hedonists think that pleasure is a fundamental intrinsic value and that something must be pleasurable to be good. A monist believes that if people evaluate their values carefully—and the relationship between their values—then one value will be more important than the others and the others will serve that intrinsic value. For a monist, it is important to identify which value is more fundamental so that it can guide your beliefs, judgments, and actions.</para>
+      <para id="para-00007"><term id="term-00006">Pluralism</term> argues that there are multiple fundamental intrinsic values rather than one. A pluralist can still evaluate which values are intrinsic and which are extrinsic, but that process does not lead them to identify one ultimate intrinsic value that forms the foundation for all other values. Pluralism holds that people have two or more fundamental values because these values are not reducible to each other. For example, knowledge and love are both intrinsic goods if what is good about knowledge cannot be summed up in terms of love and if what is good about love cannot be summed up in terms of knowledge.</para>
+      <para id="para-00008">Philosophers who argue for monism often see pluralism as a type of relativism that can prevent people from resolving moral issues when values come into conflict. Consider <term class="no-emphasis" id="term-00007">physician-assisted suicide</term>. A monist would want to address the issue of ending one’s life for medical reasons by evaluating it according to one ethical principle. For example, if monists hold that pleasure is the intrinsic good, they might argue that physician-assisted suicide is good when it allows the cessation of pain, particularly in cases where the patient’s suffering prohibits any pleasure of mind or body. Pluralists, however, would have to evaluate this physician-assisted suicide based on multiple intrinsic values, such as pleasure and life. In this case, the cessation of pain and the continuation of life are both good, and neither is better than the other. As a result, pluralists may not find a way to resolve the conflicting values or may not be able to identify whether this action is right or wrong. By contrast, monism allows someone to hold a unified and coherent metaethical framework because it asserts one fundamental value rather than many.</para>
+      <para id="para-00009">Pluralists, however, consider life to have many intrinsic goods including satisfying one’s desires, achieving one’s aims, developing one’s abilities, and developing deep personal relationships. In <emphasis effect="italics">Women and Human Development</emphasis>, American feminist and moral philosopher Martha <term class="no-emphasis" id="term-00008">Nussbaum</term> (1947 - present) describes many intrinsic goods—including life, health, emotional attachment, affiliation, play, reason, and more (2000). A flourishing life will have many goods, not just one. Pluralists, moreover, are concerned with the consequences of monism. Asserting that there is only one intrinsic good, despite differences in opinion, could potentially restrict individual’s freedom, especially when their values differ from the mainstream.</para>
+      </section>
+      <section id="sect-00004">
+      <title>Incommensurability</title>
+      <para id="para-00010">Pluralism frequently relies on the concept of <term id="term-00009">incommensurability</term>, which describes a situation in which two or more goods, values, or phenomena have no standard of evaluation that applies to them all. You can compare the size of one object in feet and another object in centimeters by converting feet to centimeters. But you cannot compare the speed of a running cheetah to the size of the Taj Mahal because one involves measuring miles per hour and the other involves measuring square feet.</para>
+      <para id="para-00011">Similarly, some values are simply too different to be evaluated in the same way. For example, there are some things in life that you cherish and cannot describe in terms of a dollar amount, such as love or friendship. The value of friendship is not commensurate with the value of money. Furthermore, physical health and supportive friends are both valuable, but they are good in different ways, so they are incomparable values. Even if you can evaluate values in the same way, you might not be able to compare them in the sense of judging what is better or worse than the other. For example, you might have many friendships that you value highly but not be able to rank them or determine who your best friend is.</para>
+      </section>
+      <section id="sect-00005">
+      <title>Moral Pluralism vs. Moral Relativism</title>
+      <para id="para-00012">Moral pluralism argues that there are different moral frameworks that cannot be unified into one. One implication of this is that one culture may have difficulty understanding the values of another culture because they have completely different concepts of what is good, and we might not be able to find a way to reconcile these differences. Cultural differences play an important role in value pluralism and the idea that there can be multiple frameworks for understanding morality.</para>
+      <para id="para-00013">At the same time, pluralism is not the same as relativism. <term id="term-00010">Moral relativism</term> makes a larger claim than pluralism because it not only asserts that there are multiple moral frameworks, it also asserts that each framework is equally valid insofar as individuals, communities, and cultures determine what is moral. Moral relativism thus prohibits cultures from judging each other’s value systems.</para>
+      <para id="para-00014"><term class="no-emphasis" id="term-00011">Nussbaum</term> uses the example of genital mutilation as an example of why moral relativism raises issues (1999). If morality is completely relative to a culture’s own traditions and values, it would be impossible for any outsiders to condemn female genital mutilation or other practices that harm women or keep them in a weakened or exploited state. Nussbaum argues that feminist issues should not be evaluated by local traditions and that a global notion of justice is needed to address gender inequality. She thus argues for a universal account of justice that is sensitive to differences between cultures, which she calls <term class="no-emphasis" id="term-00012">reasonable pluralism</term>.</para>
+      <para id="para-00015">Pluralism and relativism get at the heart of many real-world ethical issues that people navigate in life, especially when they look at moral beliefs from historical or cultural perspectives that show how different values can be. Situating different values in relation to each other is difficult, and how people do so has practical outcomes for how they define what is right or wrong, which actions they consider ethical or unethical, and what aims they pursue in life.</para>
+      </section>
+      
+      <section class="summary" id="sect-00006">
+      <title/>
+      <para id="para-00016">Philosophers distinguish between intrinsic value and extrinsic value. Something has intrinsic value if it is valuable for its own sake. Something has extrinsic value if it is valuable for the sake of something else. Philosophers debate whether there is one or many intrinsic values. Monists argue that there is only one intrinsic value, and everything else is valuable in relation to it. Pluralists argue that there are multiple intrinsic values that cannot be reduced to one because they are incommensurable or incomparable.</para>
+      </section>
+      
+      <section class="review-questions" id="sect-00007">
+      <title/>
+      <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00017"><link class="os-embed" url="#exercise/PH_Ch8-Sec2_RQ1"/></para></problem></exercise>
+      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00018"><link class="os-embed" url="#exercise/PH_Ch8-Sec2_RQ2"/></para></problem></exercise>
+      <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00019"><link class="os-embed" url="#exercise/PH_Ch8-Sec2_RQ3"/></para></problem></exercise>
+      <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00020"><link class="os-embed" url="#exercise/PH_Ch8-Sec2_RQ4"/></para></problem></exercise>
+      <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00021"><link class="os-embed" url="#exercise/PH_Ch8-Sec2_RQ5"/></para></problem></exercise>
+      <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00022"><link class="os-embed" url="#exercise/PH_Ch8-Sec2_RQ6"/></para></problem></exercise>
+      </section>
+      </content>
+      <glossary>
+      <definition id="def-00001"><term>Extrinsic value</term> <meaning>the quality of being valued for the sake of something else.</meaning></definition>
+      <definition id="def-00002"><term>Fundamentality</term> <meaning>the issue of foundations, the philosophical inquiry into the basis for an idea or system of ideas.</meaning></definition>
+      <definition id="def-00003"><term>Incommensurability</term> <meaning>when there is no standard of evaluation between two or more goods or values.</meaning></definition>
+      <definition id="def-00004"><term>Intrinsic value</term> <meaning>the quality of being valued for its own sake.</meaning></definition>
+      <definition id="def-00005"><term>Monism</term> <meaning>theory that argues that there is only one fundamental intrinsic value that forms the foundation for all other values.</meaning></definition>
+      <definition id="def-00006"><term>Moral relativism</term> <meaning>the philosophical position that there are multiple moral frameworks that are equally valid because values are relative to individuals, communities, and cultures.</meaning></definition>
+      <definition id="def-00007"><term>Pluralism</term> <meaning>theory that argues that there are multiple fundamental intrinsic values rather than one.</meaning></definition>
+      </glossary>
 </document>
