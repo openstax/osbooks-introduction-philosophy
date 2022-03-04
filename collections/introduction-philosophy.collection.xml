@@ -1,144 +1,145 @@
-<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:sys="http://cnx.rice.edu/system-info" xmlns="http://cnx.rice.edu/collxml">
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:uuid>fe58be6f-3b61-4e16-b3b6-db6924f0b2f2</md:uuid>
     <md:title>Introduction to Philosophy</md:title>
     <md:slug>introduction-philosophy</md:slug>
+    <md:language>en</md:language>
+    <md:uuid>fe58be6f-3b61-4e16-b3b6-db6924f0b2f2</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
     <md:content-id>col00005</md:content-id>
-    <md:language>en</md:language>
   </col:metadata>
-  <content>
-    <subcollection>
+  <col:content>
+    <col:module document="m00077"/>
+    <col:subcollection>
       <md:title>Introduction to Philosophy</md:title>
-      <content>
-        <module document="m00001"/>
-        <module document="m00002"/>
-        <module document="m00003"/>
-        <module document="m00004"/>
-        <module document="m00005"/>
-      </content>
-    </subcollection>
-    <subcollection>
+      <col:content>
+        <col:module document="m00001"/>
+        <col:module document="m00002"/>
+        <col:module document="m00003"/>
+        <col:module document="m00004"/>
+        <col:module document="m00005"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Critical Thinking, Research, Reading, and Writing</md:title>
-      <content>
-        <module document="m00006"/>
-        <module document="m00007"/>
-        <module document="m00008"/>
-        <module document="m00009"/>
-        <module document="m00010"/>
-        <module document="m00011"/>
-        <module document="m00012"/>
-      </content>
-    </subcollection>
-    <subcollection>
+      <col:content>
+        <col:module document="m00006"/>
+        <col:module document="m00007"/>
+        <col:module document="m00008"/>
+        <col:module document="m00009"/>
+        <col:module document="m00010"/>
+        <col:module document="m00011"/>
+        <col:module document="m00012"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>The Early History of Philosophy Around the World</md:title>
-      <content>
-        <module document="m00013"/>
-        <module document="m00014"/>
-        <module document="m00015"/>
-        <module document="m00016"/>
-        <module document="m00017"/>
-        <module document="m00018"/>
-      </content>
-    </subcollection>
-    <subcollection>
+      <col:content>
+        <col:module document="m00013"/>
+        <col:module document="m00014"/>
+        <col:module document="m00015"/>
+        <col:module document="m00016"/>
+        <col:module document="m00017"/>
+        <col:module document="m00018"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>The Emergence of Classical Philosophy</md:title>
-      <content>
-        <module document="m00019"/>
-        <module document="m00020"/>
-        <module document="m00021"/>
-        <module document="m00022"/>
-        <module document="m00023"/>
-        <module document="m00024"/>
-      </content>
-    </subcollection>
-    <subcollection>
+      <col:content>
+        <col:module document="m00019"/>
+        <col:module document="m00020"/>
+        <col:module document="m00021"/>
+        <col:module document="m00022"/>
+        <col:module document="m00023"/>
+        <col:module document="m00024"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Logic and Reasoning</md:title>
-      <content>
-        <module document="m00025"/>
-        <module document="m00026"/>
-        <module document="m00027"/>
-        <module document="m00028"/>
-        <module document="m00029"/>
-        <module document="m00030"/>
-      </content>
-    </subcollection>
-    <subcollection>
+      <col:content>
+        <col:module document="m00025"/>
+        <col:module document="m00026"/>
+        <col:module document="m00027"/>
+        <col:module document="m00028"/>
+        <col:module document="m00029"/>
+        <col:module document="m00030"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Metaphysics</md:title>
-      <content>
-        <module document="m00031"/>
-        <module document="m00032"/>
-        <module document="m00033"/>
-        <module document="m00034"/>
-        <module document="m00035"/>
-      </content>
-    </subcollection>
-    <subcollection>
+      <col:content>
+        <col:module document="m00031"/>
+        <col:module document="m00032"/>
+        <col:module document="m00033"/>
+        <col:module document="m00034"/>
+        <col:module document="m00035"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Epistemology</md:title>
-      <content>
-        <module document="m00038"/>
-        <module document="m00039"/>
-        <module document="m00040"/>
-        <module document="m00041"/>
-        <module document="m00042"/>
-        <module document="m00043"/>
-      </content>
-    </subcollection>
-    <subcollection>
+      <col:content>
+        <col:module document="m00038"/>
+        <col:module document="m00039"/>
+        <col:module document="m00040"/>
+        <col:module document="m00041"/>
+        <col:module document="m00042"/>
+        <col:module document="m00043"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Value Theory</md:title>
-      <content>
-        <module document="m00044"/>
-        <module document="m00045"/>
-        <module document="m00046"/>
-        <module document="m00047"/>
-        <module document="m00048"/>
-        <module document="m00049"/>
-        </content>
-    </subcollection>
-    <subcollection>
+      <col:content>
+        <col:module document="m00044"/>
+        <col:module document="m00045"/>
+        <col:module document="m00046"/>
+        <col:module document="m00047"/>
+        <col:module document="m00048"/>
+        <col:module document="m00049"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Normative Moral Theory</md:title>
-      <content>
-        <module document="m00051"/>
-        <module document="m00052"/>
-        <module document="m00053"/>
-        <module document="m00054"/>
-        <module document="m00055"/>
-        <module document="m00056"/>
-        <module document="m00057"/>
-      </content>
-    </subcollection>
-    <subcollection>
+      <col:content>
+        <col:module document="m00051"/>
+        <col:module document="m00052"/>
+        <col:module document="m00053"/>
+        <col:module document="m00054"/>
+        <col:module document="m00055"/>
+        <col:module document="m00056"/>
+        <col:module document="m00057"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Applied Ethics</md:title>
-      <content>
-        <module document="m00058"/>
-        <module document="m00059"/>
-        <module document="m00060"/>
-        <module document="m00061"/>
-        <module document="m00062"/>
-        <module document="m00063"/>
-      </content>
-    </subcollection>
-    <subcollection>
+      <col:content>
+        <col:module document="m00058"/>
+        <col:module document="m00059"/>
+        <col:module document="m00060"/>
+        <col:module document="m00061"/>
+        <col:module document="m00062"/>
+        <col:module document="m00063"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Political Philosophy</md:title>
-      <content>
-        <module document="m00064"/>
-        <module document="m00065"/>
-        <module document="m00066"/>
-        <module document="m00067"/>
-        <module document="m00068"/>
-      </content>
-    </subcollection>
-    <subcollection>
+      <col:content>
+        <col:module document="m00064"/>
+        <col:module document="m00065"/>
+        <col:module document="m00066"/>
+        <col:module document="m00067"/>
+        <col:module document="m00068"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Post-Enlightment Philosophy</md:title>
-      <content>
-        <module document="m00069"/>
-        <module document="m00070"/>
-        <module document="m00071"/>
-        <module document="m00072"/>
-        <module document="m00073"/>
-        <module document="m00074"/>
-        <module document="m00075"/>
-      </content>
-    </subcollection>
-  </content>
+      <col:content>
+        <col:module document="m00069"/>
+        <col:module document="m00070"/>
+        <col:module document="m00071"/>
+        <col:module document="m00072"/>
+        <col:module document="m00073"/>
+        <col:module document="m00074"/>
+        <col:module document="m00075"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
 </col:collection>
