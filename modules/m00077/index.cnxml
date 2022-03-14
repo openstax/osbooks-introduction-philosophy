@@ -8,7 +8,7 @@
   <content class="preface">
     <section id="sect-00001">
       <title>About OpenStax</title>
-      <para id="para-00001">OpenStax is part of Rice University, which is a 501(c)(3) nonprofit charitable corporation. As an educational initiative, it’s our mission to transform learning so that education works for every student. Through our partnerships with philanthropic foundations and our alliance with other educational resource companies, we’re breaking down the most common barriers to learning Because we believe that everyone should and can have access to knowledge.</para>
+      <para id="para-00001">OpenStax is part of Rice University, which is a 501(c)(3) nonprofit charitable corporation. As an educational initiative, it’s our mission to transform learning so that education works for every student. Through our partnerships with philanthropic foundations and our alliance with other educational resource companies, we’re breaking down the most common barriers to learning. Because we believe that everyone should and can have access to knowledge.</para>
       </section>
       <section id="sect-00002">
       <title>About OpenStax Resources</title>
@@ -44,7 +44,7 @@
       </section>
       <section id="sect-00010">
       <title>Reminding Readers that Philosophy Is a Living Discipline</title>
-      <para id="para-00011">Calling attention to the fact that philosophy is not just a feature of our human past, <emphasis effect="italics">Introduction to Philosophy</emphasis> discusses the ways contemporary academic philosophers address some of our most pressing ethical and moral issues. Examples include discussion of bioethics, emerging issues surrounding genetic engineering and communication technologies, what brain science can and cannot tell us about human consciousness, and morality pertaining to human treatment of the natural world. Through discussion of these topics and others, readers will gain awareness of the range of answers that contemporary philosophers offer to current issues and learn to appreciate the type of reasoning that philosophers use. Throughout the text, students are also encouraged to critically reflect on philosophical points of view and develop their own philosophical positions.</para>
+      <para id="para-00011">Calling attention to the fact that philosophy is not just a feature of our human past, <emphasis effect="italics">Introduction to Philosophy</emphasis> discusses the ways contemporary academic philosophers address some of our most pressing ethical and moral issues. Examples include discussions of bioethics, emerging issues surrounding genetic engineering and communication technologies, what brain science can and cannot tell us about human consciousness, and morality pertaining to human treatment of the natural world. Through discussion of these topics and others, readers will gain awareness of the range of answers that contemporary philosophers offer to current issues and learn to appreciate the type of reasoning that philosophers use. Throughout the text, students are also encouraged to critically reflect on philosophical points of view and develop their own philosophical positions.</para>
       </section>
       </section>
       <section id="sect-00011">
@@ -67,20 +67,20 @@
       <section id="sect-00013">
       <title>“Doing” Philosophy</title>
       <para id="para-00013">While there is certainly not one method of “doing” philosophy, there are practices and habits that make someone a better reader, writer, researcher, and thinker in philosophy. A set of recurring features makes these skills explicit and concrete, with guidance geared toward the introductory student.</para>
-      <quote id="quote-00001">
-      <para id="para-00014"><emphasis effect="bold">Think Like a Philosopher—</emphasis>These features adopt one of two approaches. Some instances prompt students to engage with concepts key to philosophical argument, and thus to critical thinking, either in the form of interactive online exercises or as written guidance. Others guide students in formulating their own approaches to philosophical questions.</para>
-      <para id="para-00015"><emphasis effect="bold">Write Like a Philosopher—</emphasis>These features challenge the reader to articulate their own written responses to philosophical prompts or to craft their own philosophical arguments. Clear guidance is given on both the considerations that should appear in the response and the most effective structure for written philosophical discourse.</para>
-      <para id="para-00016"><emphasis effect="bold">Read Like a Philosopher—</emphasis>These features prompt students to engage with portions of key primary texts, such as Plato’s <emphasis effect="italics">Apology</emphasis> or the <emphasis effect="italics">Daodejing</emphasis>. Clear structure is provided, guiding the reader on what elements of the text to pay close attention to and what questions they should hold in their minds while reading.</para>
-      </quote>
+      <list id="list-00003">
+      <item><emphasis effect="bold">Think Like a Philosopher</emphasis>. These features adopt one of two approaches. Some instances prompt students to engage with concepts key to philosophical argument, and thus to critical thinking, either in the form of interactive online exercises or as written guidance. Others guide students in formulating their own approaches to philosophical questions.</item>
+      <item><emphasis effect="bold">Write Like a Philosopher</emphasis>. These features challenge the reader to articulate their own written responses to philosophical prompts or to craft their own philosophical arguments. Clear guidance is given on both the considerations that should appear in the response and the most effective structure for written philosophical discourse.</item>
+      <item><emphasis effect="bold">Read Like a Philosopher</emphasis>. These features prompt students to engage with portions of key primary texts, such as Plato’s <emphasis effect="italics">Apology</emphasis> or the <emphasis effect="italics">Daodejing</emphasis>. Clear structure is provided, guiding the reader on what elements of the text to pay close attention to and what questions they should hold in their minds while reading.</item>
+      </list>
       </section>
       <section id="sect-00014">
       <title>“How It All Hangs Together”</title>
       <para id="para-00017">Philosophy is an inherently interconnected undertaking that speaks to universal human concerns. The broad questions philosophers ask (e.g., what makes a good life, how does one define morality, how should people treat one another, what rights should be accorded individuals within society) touch many aspects of our social and individual existences. A number of features address the interconnectedness of philosophical inquiry and philosophical thought, as well as its relevance to all lives.</para>
-      <quote id="quote-00002">
-      <para id="para-00018"><emphasis effect="bold">Connections features—</emphasis>Throughout the text, callouts direct students to additional coverage of both important theories and key thinkers in other chapters.</para>
-      <para id="para-00019"><emphasis effect="bold">Videos—</emphasis>Video features provide supplemental resources from trusted contemporary sources, such as the BBC Radio 4 series <emphasis effect="italics">A History of Ideas</emphasis> and the e-series <emphasis effect="italics">Wi-Phi Philosophy</emphasis>.</para>
-      <para id="para-00020"><emphasis effect="bold">Podcasts</emphasis>—Podcast links are provided from engaging series, such as <emphasis effect="italics">The History of Philosophy without Any Gaps</emphasis> and <emphasis effect="italics">Philosophy Bites</emphasis>.</para>
-      </quote>
+      <list id="list-00004">
+      <item><emphasis effect="bold">Connections features</emphasis>. Throughout the text, callouts direct students to additional coverage of both important theories and key thinkers in other chapters.</item>
+      <item><emphasis effect="bold">Videos</emphasis>. Video features provide supplemental resources from trusted contemporary sources, such as the BBC Radio 4 series <emphasis effect="italics">A History of Ideas</emphasis> and the e-series <emphasis effect="italics">Wi-Phi Philosophy</emphasis>.</item>
+      <item><emphasis effect="bold">Podcasts</emphasis>. Podcast links are provided from engaging series, such as <emphasis effect="italics">The History of Philosophy without Any Gaps</emphasis> and <emphasis effect="italics">Philosophy Bites</emphasis>.</item>
+      </list>
       </section>
       <section id="sect-00015">
       <title>Pedagogical Framework</title>
@@ -99,7 +99,7 @@
       <title>About the Authors</title>
       <section id="sect-00017">
       <title>Senior Contributing Author</title>
-      <figure id="fig-00001"><media alt="This is a photograph of Nathan Smith, who is the Senior Contributing Author for book  “Introduction to Philosophy”. He is smiling in this photograph and wearing glasses. He is also wearing a checkered shirt and a blue colored coat."><image mime-type="image/jpeg" src="../../media/PHIL_00_Author.jpg"/></media></figure>
+      <figure id="fig-00001"><media alt="Head shot of Nathan Smith. This is a photograph of Nathan Smith, who is the Senior Contributing Author for book  “Introduction to Philosophy”. He is smiling in this photograph and wearing glasses. He is also wearing a checkered shirt and a blue colored coat."><image mime-type="image/jpeg" src="../../media/PHIL_00_Author.jpg"/></media></figure>
       <para id="para-00022">Nathan Smith, Houston Community College</para>
       <para id="para-00023">Nathan Smith has a PhD in philosophy from Boston College and the University of Paris, Sorbonne. His dissertation was on René Descartes’s early scientific and mathematical work. He has been a full-time instructor of philosophy at Houston Community College (HCC) since 2008. He has published on Descartes, phenomenology, and topics in Open Educational Resources, including chapter contributions to an OER textbook through the Rebus Foundation. At HCC, he served as Chair of the Philosophy, Humanities, and Library Sciences Department from 2015 to 2017 and has served as the Open Educational Resources Coordinator since 2017. In this capacity he has secured and managed over $500,000 in grants for the institution and leads a cross-disciplinary, district-wide effort to provide “zero cost books” courses and degree plans for students.</para>
       </section>
@@ -119,11 +119,29 @@
       </section>
       <section id="sect-00019">
       <title>Reviewers</title>
-      <para id="para-00035">Gregory Browne</para>
+      <para id="para-00014">Gregory Browne, <emphasis effect="italics">Eastern Michigan University</emphasis></para>
+      <para id="para-00015">Jason Castonzo, <emphasis effect="italics">Indian River State College</emphasis></para>
+      <para id="para-00016">Amy Cedrone, <emphasis effect="italics">Harford Community College</emphasis></para>
+      <para id="para-00018">Parish Conkling, <emphasis effect="italics">Houston Community College</emphasis></para>
+      <para id="para-00019">Caitlin Dolan, <emphasis effect="italics">San Francisco State University</emphasis></para>
+      <para id="para-00020">Katrina Elliott, <emphasis effect="italics">University of California, Los Angeles</emphasis></para>
+      <para id="para-00035">Shane Gronholz, <emphasis effect="italics">Gonzaga University</emphasis></para>
       <para id="para-00036">Kyle Hirsch, <emphasis effect="italics">Community College of Aurora</emphasis></para>
-      <para id="para-00037">Jeremy Proulx, <emphasis effect="italics">Eastern Michigan University</emphasis></para>
-      <para id="para-00038">Mike VanQuickenborne, <emphasis effect="italics">Everett Community College</emphasis></para>
-      <para id="para-00039">Steve Wyre, <emphasis effect="italics">American Public University</emphasis></para>
+      <para id="para-00037">Catherine Homan, <emphasis effect="italics">Mount Mary University</emphasis></para>
+      <para id="para-00038">Jason Jenson, <emphasis effect="italics">Houston Community College</emphasis></para>
+      <para id="para-00039">Andrew Law, <emphasis effect="italics">University of Southern California</emphasis></para>
+      <para id="para-00041">Jeremy Proulx, <emphasis effect="italics">Eastern Michigan University</emphasis></para>
+      <para id="para-00042">Valérie Racine, <emphasis effect="italics">Western New England University</emphasis></para>
+      <para id="para-00043">Ellyn Ritterskamp, <emphasis effect="italics">University of North Carolina, Charlotte</emphasis></para>
+      <para id="para-00046">Jessica Roisen, <emphasis effect="italics">Saint Ambrose University</emphasis></para>
+      <para id="para-00047">Kris Sealey, <emphasis effect="italics">Fairfield University</emphasis></para>
+      <para id="para-00048">Gregory Stoutenburg, <emphasis effect="italics">York College of Pennsylvania</emphasis></para>
+      <para id="para-00049">Adam Thompson, <emphasis effect="italics">University of Nebraska, Lincoln</emphasis></para>
+      <para id="para-00050">Drew Thompson, <emphasis effect="italics">Loyola University</emphasis></para>
+      <para id="para-00051">Antione Tomlin, <emphasis effect="italics">Anne Arundel Community College</emphasis></para>
+      <para id="para-00052">Mike VanQuickenborne, <emphasis effect="italics">Everett Community College</emphasis></para>
+      <para id="para-00053">Steve Wyre, <emphasis effect="italics">American Public University</emphasis></para>
+      <para id="para-00054">Jongbok Yi, <emphasis effect="italics">Stockton University</emphasis></para>
       </section>
       </section>
       <section id="sect-00020">
@@ -131,9 +149,11 @@
       <section id="sect-00021">
       <title>Student and Instructor Resources</title>
       <para id="para-00040">We’ve compiled additional resources for both students and instructors, including an instructor’s manual, test bank, and lecture slides. Instructor resources require a verified instructor account, which you can apply for when you log in or create your account on OpenStax.org. Take advantage of these resources to supplement <emphasis effect="italics">Introduction to Philosophy</emphasis>.</para>
-      <para id="para-00041"><emphasis effect="bold">Comprehensive Instructor’s Manual.</emphasis> Designed to provide maximum guidance for delivering content in an interesting and dynamic manner, each chapter of the instructor’s manual includes an in-depth lecture outline, a key terms list, a set of “questions for further thought,” and a list of recommended resources for further reading and exploration. Authored by Kyle Hirsh, <emphasis effect="italics">Community College of Aurora</emphasis>.</para>
-      <para id="para-00042"><emphasis effect="bold">Test Bank.</emphasis> With 500 true/false and multiple-choice questions in our test bank, instructors can customize tests to support a variety of course objectives. The test bank is available in Word format. Authored by Steve Wyre, <emphasis effect="italics">American Public University</emphasis>.</para>
-      <para id="para-00043"><emphasis effect="bold">PowerPoint Lecture Slides.</emphasis> The PowerPoint slides provide outlines, images, and an overview of chapter topics as a starting place for instructors to build their lectures. Authored by Gregory Browne.</para>
+      <list id="list-00005">
+      <item><emphasis effect="bold">Comprehensive Instructor’s Manual.</emphasis> Designed to provide maximum guidance for delivering content in an interesting and dynamic manner, each chapter of the instructor’s manual includes an in-depth lecture outline, a key terms list, a set of “questions for further thought,” and a list of recommended resources for further reading and exploration. Authored by Kyle Hirsh, <emphasis effect="italics">Community College of Aurora</emphasis>.</item>
+      <item><emphasis effect="bold">Test Bank.</emphasis> With 500 true/false and multiple-choice questions in our test bank, instructors can customize tests to support a variety of course objectives. The test bank is available in Word format. Authored by Steve Wyre, <emphasis effect="italics">American Public University</emphasis>.</item>
+      <item><emphasis effect="bold">PowerPoint Lecture Slides.</emphasis> The PowerPoint slides provide outlines, images, and an overview of chapter topics as a starting place for instructors to build their lectures. Authored by Gregory Browne.</item>
+      </list>
       </section>
       <section id="sect-00022">
       <title>Community Hubs</title>
