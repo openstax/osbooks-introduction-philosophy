@@ -6,8 +6,13 @@
     <md:uuid>97a21c42-24ec-4a8c-85bb-de4bbdd4ef0f</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">Placeholder Text</para>
-    </section>
-</content>
+    <figure class="splash" id="fig-00001">
+    <media alt="Large, bronze sculpture of a man seated in a hunched-over position, elbow on knee and chin in hand. He stares pensively into a space in the near distance.">
+    <image mime-type="image/jpeg" src="../../media/PHIL_Figure_07_Intro_001_Splash.jpg"/></media>
+    <caption><emphasis effect="italics">The Thinker</emphasis>, sculpted by French artist Auguste Rodin at the very beginning of the 20th century, has become as a symbol of the intellect-centered pursuit of truth characteristic of the Western philosophical tradition. (credit: “Paris” by Evgenii/flickr, CC BY 2.0)</caption></figure>
+    <para id="para-00001">Within any discipline of study, the acquisition of new knowledge is a primary goal. Theorists and researchers throughout academia seek to expand the body of knowledge associated with their discipline. Philosophers likewise aim for knowledge acquisition but are also concerned with the nature of knowledge itself. What <emphasis effect="italics">is</emphasis> knowledge? Is there a limit to what we can know? How can we increase our knowledge without first understanding what knowledge is? <term id="term-00001">Epistemology</term> is the field within philosophy that focuses on questions pertaining to the nature and extent of human knowledge. This chapter seeks to provide a general understanding of the discipline of epistemology.</para>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>Epistemology</term> <meaning>the field within philosophy that focuses on questions pertaining to the nature and extent of human knowledge.</meaning></definition>
+    </glossary>  
 </document>
