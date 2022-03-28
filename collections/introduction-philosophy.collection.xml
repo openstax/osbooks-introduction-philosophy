@@ -4,8 +4,7 @@
     <md:slug>introduction-philosophy</md:slug>
     <md:language>en</md:language>
     <md:uuid>fe58be6f-3b61-4e16-b3b6-db6924f0b2f2</md:uuid>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-    <md:content-id>col00005</md:content-id>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
     <col:module document="m00077"/>
@@ -32,13 +31,13 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>The Early History of Philosophy Around the World</md:title>
+      <md:title>The Early History of Philosophy around the World</md:title>
       <col:content>
         <col:module document="m00013"/>
         <col:module document="m00014"/>
         <col:module document="m00015"/>
         <col:module document="m00016"/>
-        </col:content>
+      </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>The Emergence of Classical Philosophy</md:title>
