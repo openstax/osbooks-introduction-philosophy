@@ -126,7 +126,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Post-Enlightment Philosophy</md:title>
+      <md:title>Contemporary Philosophies and Social Theories</md:title>
       <col:content>
         <col:module document="m00069"/>
         <col:module document="m00070"/>
@@ -134,7 +134,6 @@
         <col:module document="m00072"/>
         <col:module document="m00073"/>
         <col:module document="m00074"/>
-        <col:module document="m00075"/>
       </col:content>
     </col:subcollection>
   </col:content>
