@@ -46,6 +46,48 @@
       <section id="sect-00007">
       <title>Results from Other Disciplines</title>
       <para id="para-00013">The relevance of experimental methods for philosophy suggests a broader source of evidence for philosophical claims, namely, the results of scientific disciplines. When philosophers make claims about the natural world, they ought to be aware of what the natural sciences say. When philosophers make claims about human nature, they ought to be aware of what biology and the social sciences say. As we have already seen, there is an important difference between philosophical investigation and these various disciplines. Yet, given that philosophers attempt to gain some understanding of truth as a whole, they ought to welcome evidence from other disciplines that can help them better understand portions of that whole truth.</para>
+      <table summary="" id="table-00001">
+        <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+        <row>
+        <entry>Type of Evidence</entry>
+        <entry>Description</entry>
+        <entry>Example</entry>
+        </row>
+        </thead>
+        <tbody>
+        <row>
+        <entry>History</entry>
+        <entry>The insights of historical philosophers, sages, natural philosophers, and religious thinkers can help us understand contemporary philosophical questions.</entry>
+        <entry>The question “What is a good life?” is a perennial philosophical concern; attempts at answers from the past continue to have relevance for contemporary people.</entry>
+        </row>
+        <row>
+        <entry>Intuition</entry>
+        <entry>The philosophical meaning of intuition can best be traced back to Plato, for whom intuition involved a kind if insight into the very nature of things.</entry>
+        <entry>The truth of a mathematical sentence like “2+2=4” is so clear that if it turned out to be wrong, you would have to give up core beliefs about the nature of numbers, addition, and equality.</entry>
+        </row>
+        <row>
+        <entry>Common sense</entry>
+        <entry>When philosophers talk about common sense, they mean specific claims based on direct sense perception.</entry>
+        <entry>Someone who is holding their hand in front of their face can rightly claim “this is my hand” without having to resort to any further proofs.</entry>
+        </row>
+        <row>
+        <entry>Experimental philosophy</entry>
+        <entry>The basic idea motivating experimental philosophy is that philosophers use terms and concepts that can be tested in a laboratory.</entry>
+        <entry>A philosopher might pose scenarios to research subjects and ask them whether they believe an absence of free choice would remove moral responsibility in these scenarios, in order to test a philosophical claim about moral responsibility and free will.</entry>
+        </row>
+        <row>
+        <entry>Results from other disciplines</entry>
+        <entry>Evidence from other disciplines can help philosophers better understand portions of philosophical inquiries.</entry>
+        <entry>Information provided by other social scientists (e.g., sociologists, historians, anthropologists) can be used to inform philosophical claims about human nature.</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>Types of Philosophical Evidence</caption>
+        </table>
       </section>
       </section>
       <section id="sect-00008">
@@ -95,6 +137,44 @@
       <para id="para-00029">When philosophers want to clarify the relationship between concepts, they often consider hypothetical scenarios meant to isolate one or more features of a concept and place it in the appropriate relationship with other concepts. Such hypothetical scenarios are called <term id="term-00014">thought experiments</term>. These imaginative scenarios allow us to test or compare concepts to better understand their connections and logical consequences. Philosophers have used thought experiments for as long as we have a written record of philosophical thought. For instance, <term class="no-emphasis" id="term-00015">Plato</term> devised an elaborate thought experiment in <term class="no-emphasis" id="term-00016"><emphasis effect="italics">The Republic</emphasis></term>, in which he depicts Socrates and several of his friends describing an ideal city. The premise of this thought experiment is that if the philosophers could describe an ideal city in detail, they would be able to identify which part of the city gives rise to justice.</para>
       <para id="para-00030"><term class="no-emphasis" id="term-00017">Aristotle</term>, a Greek philosopher who followed Plato, arrives at the famous claim that “nature abhors a vacuum” (i.e., nature would not allow empty space between matter) by constructing a thought experiment. To argue for this conclusion, Aristotle assumes that there is such a void and then asks, how could one know the distance between two points in a vacuum? If there is any distance between two points, Aristotle reasons, that distance would have to be the property of something. But, by hypothesis, there is nothing between the two points: it is a pure void. Aristotle bases his reasoning on the idea that it is impossible for properties to exist without something they are the property of. This argument reveals that Aristotle thinks distance is a property of matter. Accordingly, it is impossible to measure distance in a pure void. Therefore, Aristotle reasons, it is not possible for a void to exist because it would occupy a distance that has no measure. Puzzles like this one can prompt fruitful philosophical reflection. What do you think about it?</para>
       <para id="para-00031">Thought experiments are also common in ethics as a way of testing out moral theories. A moral theory could be supported by a thought experiment if the result of applying the theory to a hypothetical case made good moral sense. On the other hand, the thought experiment might undermine the moral theory by demonstrating that when the theory is applied, it results in an absurd or immoral outcome. In any case, thought experiments can help us clarify the relationship between our concepts and theories.</para>
+      <table summary="" id="table-00002">
+        <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+        <row>
+        <entry>Type of Conceptual Analysis</entry>
+        <entry>Description</entry>
+        <entry>Application</entry>
+        </row>
+        </thead>
+        <tbody>
+        <row>
+        <entry>Predicates</entry>
+        <entry>Predicates are descriptive terms, like “yellow” or “six feet tall”. The role of conceptual analysis is to identify the right predicates for analysis and to clarify the relationship between them.</entry>
+        <entry>Predicates can help us clarify statements. For any sentence, we can ask, what is being predicated, and how is it being predicated?</entry>
+        </row>
+        <row>
+        <entry>Descriptions</entry>
+        <entry>A definite description is a way of analyzing names and object terms for the purpose of making them more like predicates. This way we can clarify what we are talking about without resorting to gestures, context, or direct experience.
+        </entry>
+        <entry>Understanding that language is composed of definite descriptions and predicates can help us remove some of the ambiguity and vagueness that is a natural part of speech.</entry>
+        </row>
+        <row>
+        <entry>Enumeration</entry>
+        <entry>The process of enumeration can help us specify the nature of the thing we are talking about. In effect, we are identifying the parts that make up a whole.</entry>
+        <entry>Since claims about the whole can be analyzed as claims about its parts and claims about how the parts pertain to the whole, it is helpful to enumerate the parts and consider how claims about the whole relate to claims about the parts.</entry>
+        </row>
+        <row>
+        <entry>Thought experiments</entry>
+        <entry>Thought experiments are hypothetical scenarios meant to isolate one or more features of a concept and place it in the appropriate relationship with other concepts.</entry>
+        <entry>Thought experiments allow us to test or compare concepts to better understand their connections and logical consequences.</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>Four Methods of Conceptual Analysis</caption>
+        </table>
       </section>
       </section>
       <section id="sect-00017">
@@ -122,8 +202,14 @@
       </section>
       <section id="sect-00020" class="summary">
         <title/>
-        <para id="para-00037">Philosophers use a number of techniques to gain a holistic understanding of how things hang together in the broadest possible sense. Some of these sources include the history of philosophy; intuition, or realizations that are a product of a clear and attentive mind; and common sense, or facts that are ascertained through sense perception. Logic has always been an important part of both philosophical and scientific reasoning, as well as conceptual analysis, which breaks down complex ideas into smaller and simpler components. Other techniques used by philosophers are thought experiments, trade-offs (sacrificing one conception of the world in favor of another), “biting the bullet” (accepting the negative implications of a view that has much to recommend it), and reflective equilibrium (comparing theory to real-world cases or examples).</para>
-        </section>
+        <para id="para-00037">The goal of philosophy to provide a coherent story of how the world as it appears to us can be explained in a way that also makes sense of what the sciences tells us. Given the influence of philosophy on world history, it is worthwhile to engage with the writings of past philosophers to inform our understanding of pressing philosophical questions of today.</para>
+<para id="para-00043">What philosophers today mean by intuition can best be traced back to Plato, for whom intuition (<emphasis effect="italics">nous</emphasis>) involved a kind if insight into the very nature of things. This notion has had religious connotations, as if the knowledge gained through intuition is like catching a glimpse of divine light.</para>
+<para id="para-00044">When philosophers talk about common sense, they mean specific claims based on direct sense perception, which are true in a relatively fundamental sense. In other words, philosophical champions of common sense deny that one can be skeptical of certain basic claims of sense perception.</para>
+<para id="para-00045">Experimental philosophy is a relatively recent movement in philosophy by which philosophers engage in empirical methods of investigation, similar to those used by psychologists or cognitive scientists. Philosophers use experimental methods to find out what average people think about philosophical issues. Since common sense and intuition are already a source of evidence in philosophical reasoning, it makes sense to confirm that what philosophers ascribe to common sense or intuition aligns with what people generally think about these things.</para>
+<para id="para-00046">Logic attempts to formalize the process that we use or ought to use when we provide reasons for some claims. The first and most important move in logic is to recognize that claims are the product of arguments. In particular, a claim is just the conclusion of a series of sentences, where the preceding sentences (called premises) provide evidence for the conclusion. In logic, an argument is just a way of formalizing reasons to support a claim, where the claim is the conclusion and the reasons given are the premises.</para>
+<para id="para-00047">A set of beliefs or statements is coherent, or logically consistent, if it is possible for them to all be true at the same time. If it is not possible for statements or beliefs to be true at the same time, then they are contradictory. It seems unreasonable for a person to accept contradictory claims because a contradiction is a logical impossibility. If a person holds contradictory beliefs, then they must be wrong about at least some of their beliefs.</para>
+<para id="para-00048">One of the techniques that philosophers use to clarify and understand philosophical statements (either premises or conclusions) is conceptual analysis. Conceptual analysis involves the analysis of concepts, notions, or ideas as they are presented in statements or sentences. The term analysis has been a part of philosophical terminology and methodology since its beginning. In its most basic sense, analysis refers to the process of breaking apart complex ideas into simpler ones. Analysis also involves a cluster of related strategies that philosophers use to discover truths. Each of these techniques attempts to arrive at a clearer and more workable definition of the concepts in question.</para>
+</section>
         <section class="review-questions" id="sect-00021">
           <title/>
           <exercise id="exer-00007">
