@@ -74,6 +74,57 @@
 <para id="para-00022">A similar type of faulty reasoning leads to the <term id="term-00009">gambler’s fallacy</term>, in which a person reasons that future chance events will be more likely if they have not happened recently. For instance, if I flip a coin many times in a row, I may get a string of heads. But even if I flip several heads in a row, that does not make it more likely I will flip tails on the next coin flip. Each coin flip is statistically independent, and there is an equal chance of turning up heads or tails. The gambler, like the reasoner from sunk costs, is tied to the past when they should be reasoning about the present and future.</para>
 <para id="para-00023">There are important social and evolutionary purposes for past-looking thinking. Sunk-cost thinking keeps parents engaged in the growth and development of their children after they are born. Sunk-cost thinking builds loyalty and affection among friends and family. More generally, a commitment to sunk costs encourages us to engage in long-term projects, and this type of thinking has the evolutionary purpose of fostering culture and community. Nevertheless, it is important to periodically reevaluate our investments in both people and things.</para>
 <para id="para-00024">In recent ethical scholarship, there is some debate about how to assess the sunk costs of moral decisions. Consider the case of war. Just-war theory dictates that wars may be justified in cases where the harm imposed on the adversary is proportional to the good gained by the act of defense or deterrence. It may be that, at the start of the war, those costs seemed proportional. But after the war has dragged on for some time, it may seem that the objective cannot be obtained without a greater quantity of harm than had been initially imagined. Should the evaluation of whether a war is justified estimate the total amount of harm done or prospective harm that will be done going forward (Lazar 2018)? Such questions do not have easy answers.</para>
+<para id="para-00012"><link target-id="table-00001" document="m00008"/> summarizes these common cognitive biases." Insert attached table.</para>
+<table summary="" id="table-00001">
+  <tgroup cols="3">
+  <colspec colnum="1" colname="c1"/>
+  <colspec colnum="2" colname="c2"/>
+  <colspec colnum="3" colname="c3"/>
+  <thead>
+  <row>
+  <entry>Bias</entry>
+  <entry>Description</entry>
+  <entry>Example</entry>
+  </row>
+  </thead>
+  <tbody>
+  <row>
+  <entry>Confirmation bias</entry>
+  <entry>The tendency to search for, interpret, favor, and recall information that confirms or supports prior beliefs</entry>
+  <entry>As part of their morning routine, a person scans news headlines on the internet and chooses to read only those stories that confirm views they already hold.</entry>
+  </row>
+  <row>
+  <entry>Anchoring bias</entry>
+  <entry>The tendency to rely on initial values, prices, or quantities when estimating the actual value, price, or quantity of something</entry>
+  <entry>When supplied with a random number and then asked to provide a number estimate in response to a question, people supply a number close to the random number they were initially given.</entry>
+  </row>
+  <row>
+  <entry>Availability heuristic</entry>
+  <entry>The tendency to evaluate new information based on the most recent or most easily recalled examples</entry>
+  <entry>People in the United States overestimate the probability of dying in a criminal attack, since these types of stories are easy to vividly recall.</entry>
+  </row>
+  <row>
+  <entry>Tribalism</entry>
+  <entry>The tendency for human beings to align themselves with groups with whom they share values and practices</entry>
+  <entry>People with a strong commitment to one political party often struggle to objectively evaluate the political positions of those who are members of the opposing party.</entry>
+  </row>
+  <row>
+  <entry>Bandwagon fallacy</entry>
+  <entry>The tendency to do something or believe something because many other people do or believe the same thing.</entry>
+  <entry>Advertisers often rely on the bandwagon fallacy, attempting to create the impression that “everyone” is buying a new product, in order to inspire others to buy it.</entry>
+  <entry>Sunk cost fallacy</entry>
+  <entry>The tendency to attach a value to things in which resources have been invested that is greater than the value those things actually have</entry>
+  <entry>A business person continues to invest money in a failing venture, “throwing good money after bad”</entry>
+  </row>
+  <row>
+  <entry>Gambler’s fallacy</entry>
+  <entry>The tendency to reason that future chance events will be more likely if they have not happened recently</entry>
+  <entry>Someone who regularly buys lottery tickets reasons that they are “due to win,” since they haven’t won once in twenty years.</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption>Common Cognitive Biases</caption>
+  </table>
 <note class="think-philosopher" id="note-00007">
 <para id="para-00026">As we have seen, cognitive biases are built into the way human beings process information. They are common to us all, and it takes self-awareness and effort to overcome the tendency to fall back on biases. Consider a time when you have fallen prey to one of the five cognitive biases described above. What were the circumstances? Recall your thought process. Were you aware at the time that your thinking was misguided? What were the consequences of succumbing to that cognitive bias?</para>
 <para id="para-00027">Write a short paragraph describing how that cognitive bias allowed you to make a decision you now realize was irrational. Then write a second paragraph describing how, with the benefit of time and distance, you would have thought differently about the incident that triggered the bias. Use the tools of critical reflection and metacognition to improve your approach to this situation. What might have been the consequences of behaving differently? Finally, write a short conclusion describing what lesson you take from reflecting back on this experience. Does it help you understand yourself better? Will you be able to act differently in the future? What steps can you take to avoid cognitive biases in your thinking today?</para>
@@ -83,7 +134,10 @@
 
 <section class="summary" id="sect-00009">
 <title/>
-<para id="para-00028">Faulty inferences based on quick, automatic thinking are called cognitive biases, of which there are many. Strategies of critical reflection and metacognition help guard against cognitive biases and aid philosophers in avoiding common tendencies toward erroneous thinking.</para>
+<para id="para-00014">Metacognition means thinking about thinking and involves the kind of self-awareness that engages higher order thinking skills. Cognition, or the way we typically engage with the world around us, is first-order thinking, while metacognition is higher-order thinking.</para>
+<para id="para-00025">One of the most common cognitive biases is confirmation bias, which is the tendency to search for, interpret, favor, and recall information that confirms or supports your prior beliefs. Anchoring bias refers to our tendency to rely on initial values, prices, or quantities when estimating the actual value, price, or quantity of something. If you are presented with a quantity, even if that number is clearly arbitrary, you will have a hard discounting it in your subsequent calculations; the initial value “anchors” subsequent estimates. The availability heuristic refers to the tendency to evaluate new information based on the most recent or most easily recalled examples. The availability heuristic occurs when people take easily remembered instances as being more representative than they objectively are (i.e., based on statistical probabilities). </para>
+<para id="para-00028">Another more loosely defined category of cognitive bias is the tendency for human beings to align themselves with groups with whom they share values and practices. Tribal thinking makes it hard for us to objectively evaluate information that either aligns with or contradicts the beliefs held by our group or tribe. A related bias is called the bandwagon fallacy. The bandwagon fallacy can lead you to conclude that you ought to do something or believe something because many other people do or believe the same thing.</para>
+<para id="para-00036">The sunk cost fallacy is thinking that attaches a value to things in which you have already invested resources that is greater than the value those things have today. A similar type of faulty reasoning leads to the gambler’s fallacy, in which a person reasons that future chance events will be more likely if they have not happened recently.</para>
 </section>
 
 <section class="review-questions" id="sect-00010">
