@@ -49,6 +49,7 @@
     </section>
       <section id="sect-00008">
       <title>Representative Government</title>
+      <para id="para-00044">In representative government systems, individuals are chosen by various means to represent the larger group.</para>
       <para id="para-00011">Representative government likely has deeper roots than monarchies or aristocracies. Cheyenne, Iroquois, Huron, and other Native American peoples established tribal democracies prior to European settlement of the Americas, and San (Bushmen), Pygmies, and other African peoples practice “campfire democracy” (Glassman 2017). These examples and others suggest that cooperation between bands of peoples may have featured elements of representative government prior to urban settlements.</para>
       <para id="para-00012">The story of <term id="term-00005">democracy</term> in urban settings is often linked to ancient <term class="no-emphasis" id="term-00006">Greece</term>, specifically <term class="no-emphasis" id="term-00007">Athens</term>, where the hand of government was extended to the people, but only to individuals in particular classes. The Athenian mode of government was unique in the region. Before 700 BCE, Athens was ruled by single individuals or small groups who often encountered social and economic problems that brought about instability. Around the year 600 BCE, the Athenian ruler <term class="no-emphasis" id="term-00008">Solon</term> (c. 630–c. 560 BCE) implemented a proto-democratic system. He did not allow nonaristocratic individuals to hold certain offices, but he did allow all male citizens (which is not to say all inhabitants) to vote on local leaders, and he did his best to outlaw debt slavery. His successes were short-lived, but he paved the way for an impressive span of democratic rule in Athens.</para>
       <para id="para-00013">In Thucydides’s (c. 460–c. 404 BCE) <emphasis effect="italic">History of the Peloponnesian War</emphasis>, <term class="no-emphasis" id="term-00009">Pericles</term> (c. 495–429 BCE) praises the Athenian constitution, in particular the idea that all members of a state should be allowed to participate in its governance. The Athenian constitution “favors the many instead of the few,” he says, and the laws “afford equal justice to all in their private differences” (Thucydides [1996] 2008, 112).</para>
@@ -76,6 +77,56 @@
       <section id="sect-00012">
       <title>Hannah Arendt on Totalitarianism</title>
       <para id="para-00023">In the seminal book <term class="no-emphasis" id="term-00015"><emphasis effect="italic">The Origins of Totalitarianism</emphasis></term> (1951), philosopher and political theorist Hannah <term class="no-emphasis" id="term-00016">Arendt</term> (1906–1975) argues that totalitarianism is a relatively new form of government that seeks to exert control over every aspect of not just social and political life but citizens’ personal lives as well. She says that a key difference between dictatorships, including those operating under fascism, and totalitarian regimes is that while the former assumes power and seeks to install members of its party in all offices of government, the latter includes a proliferation of the party into all arenas, including the state, the police, elite groups, and so forth. Furthermore, under a totalitarian system, laws are fungible, meaning they can change day by day. The ultimate goal of such regimes, Arendt says, is the eradication of any notion of the self as an individual in favor of the creation of the self as an extension of the government (Arendt 1951). The power of totalitarianism lies in the use of systematic violence to create a sense of total terror at the thought of countering the government and the dismantling of one’s capacity for independent thought until people are wholly dependent on the government. The survival of the regime depends on eliminating any factor of identity for individuals beyond that of “citizen”—although people under totalitarian rule are more captives than citizens.</para>
+      <figure id="fig-00001"><media alt="Posed photograph of Hannah Arendt as a young woman."><image mime-type="image/jpeg" src="../../media/PHIL_Figure_11_02_003a.jpg"/></media>
+        <caption>Hannah Arendt wrote extensively on the origins and power of totalitarianism, following the upheaval and suffering caused by totalitarian regimes in the first half of the twentieth century.</caption></figure>
+      <para id="para-00045"><link target-id="table-00001" document="m00066"/> summarizes these various forms of government.</para>
+      <table summary="" id="table-00001">
+        <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+        <row>
+        <entry>Form of Government</entry>
+        <entry>Description</entry>
+        <entry>Example</entry>
+        </row>
+        </thead>
+        <tbody>
+        <row>
+        <entry>Monarchy</entry>
+        <entry>Authority resides in one individual, who is the head of state</entry>
+        <entry>Numerous, including past kingdoms such as Spain and France and modern kingdoms such as Morocco</entry>
+        </row>
+        <row>
+        <entry>Aristocracy</entry>
+        <entry>Authority is in the hands of a small numbers of individuals considered to be elite</entry>
+        <entry>Greek class system, Indian case system</entry>
+        </row>
+        <row>
+        <entry>Representative Government</entry>
+        <entry>Individuals are chosen to represent the larger group</entry>
+        <entry>Tribal democracies of Native American peoples; the majority of contemporary governments in North America, South America, and Europe</entry>
+        </row>
+        <row>
+        <entry>Totalitarianism</entry>
+        <entry>Government limits individual freedom through controls over the press, mass surveillance, and other social controls</entry>
+        <entry>Soviet Union under Stalin, Italian regime under Mussolini</entry>
+        </row>
+        <row>
+        <entry>Communism</entry>
+        <entry>The state owners the means of production, sets wages, regulates production, and controls prices</entry>
+        <entry>People’s Republic of China</entry>
+        </row>
+        <row>
+        <entry>Fascism</entry>
+        <entry>Totalitarian political system characterized by a strong sense of nationalism, a disdain for democratic principles, and a belief in social hierarchy</entry>
+        <entry>Germany under Hitler, Spain under Franco</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>Forms of Government</caption>
+        </table>
       <note class="write-philosopher" id="note-00002">
       <para id="para-00024">View Hannah Arendt’s <link url="https://openstax.org/r/The-Origins-of-Totalitarianism">revisions to the introduction of the third edition of <emphasis effect="italic">The Origins of Totalitarianism</emphasis></link> at the Library of Congress. Read through the hand-edited, typewritten manuscript. Then, answer these questions.</para>
       <list id="list-00002">
@@ -90,7 +141,7 @@
       </section>
       <section class="summary" id="sect-00013">
       <title/>
-      <para id="para-00025">Whereas Plato and Al-Farabi believed that good government could be achieved by having a virtuous leader, philosophers and laypeople have advanced other structures of government that they feel might better accomplish this purpose. Monarchies placed political decisions in the hands of a ruler who was chosen by God and so must be virtuous. However, ideas of representative government arose as class systems changed and social contract theory became popular. Later, totalitarian governments emerged as the new ideologies of communism and fascism sparked revolutions in the 20th century.</para>
+      <para id="para-00025">Whereas Plato and Al-Farabi believed that good government could be achieved by having a virtuous leader, philosophers and laypeople have advanced other structures of government that they feel might better accomplish this purpose. Monarchies placed political decisions in the hands of a ruler who was chosen by God and so must be virtuous. Ruling authority in an aristocracy is in the hands of a small number of individuals considered to be elite members of society. However, ideas of representative government arose as class systems changed and social contract theory became popular. Later, totalitarian governments emerged as the new ideologies of communism and fascism sparked revolutions in the 20th century.</para>
       </section>
       <section class="review-questions" id="sect-00014">
       <title/>
