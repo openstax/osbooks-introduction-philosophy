@@ -26,12 +26,17 @@
       <table summary="" id="table-00001">
       <title>Pre-Socratic Monists</title>
       <tgroup cols="3">
-      <tbody>
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+      <thead>
       <row>
       <entry>Date</entry>
       <entry>Philosopher</entry>
       <entry>The One Is:</entry>
       </row>
+      </thead>
+      <tbody>
       <row>
       <entry>c. 624–547 BCE</entry>
       <entry>Thales of Miletus</entry>
