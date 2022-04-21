@@ -72,8 +72,10 @@
       <title><term id="term-00005">Pluralism</term></title>
       <para id="para-00009"><emphasis effect="bold">Pluralism</emphasis> asserts that fundamental reality consists of many types of being. The pluralists viewed the “really real” as “many,” but like the pre-Socratic monists, they did not hold a uniform view concerning how to define the many or basic realities (see <link target-id="table-00002" document="m00032"/>).</para>
       <table summary="" id="table-00002">
-      <title>Pre-Socratic Pluralists</title>
       <tgroup cols="3">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <colspec colnum="3" colname="c3"/>
       <thead>
       <row>
       <entry>Date</entry>
@@ -104,7 +106,8 @@
       </row>
       </tbody>
       </tgroup>
-      </table>
+      <caption>Pre-Socratic Pluralists</caption>
+            </table>
       <para id="para-00010">One of the views that resonates with the contemporary reader is that of atomism. Note that the atomism alluded to here is different from what is referred to as atomic theory. The atom within the thinking of Leucippus and <term class="no-emphasis" id="term-00006">Democritus</term> refers to <emphasis effect="italics">atomos</emphasis> as meaning “uncuttable” or “that which cannot be divided.” The plurality we experience is the result of atoms in motion. As these indivisible and eternal bits of true being collide and either join or separate, the beings we experience are formed. But underneath or supporting the being we experience is that being which is eternal and unchanging—in other words, the atoms. Atoms are the true being, and the visible objects are not!</para>
       <para id="para-00011">Although it might appear that they have broken all philosophical ties with the monists, both the monists and pluralists agreed that true being was eternal. Anything real stayed as it was. Change happened to things that were not real. This assertion, however, leads to the unsatisfactory conclusion that neither the acorn nor the oak is real.</para>
       </section>
