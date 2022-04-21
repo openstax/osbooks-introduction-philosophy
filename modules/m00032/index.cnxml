@@ -74,12 +74,14 @@
       <table summary="" id="table-00002">
       <title>Pre-Socratic Pluralists</title>
       <tgroup cols="3">
-      <tbody>
+      <thead>
       <row>
       <entry>Date</entry>
       <entry>Philosopher</entry>
       <entry>The Many Is:</entry>
       </row>
+      </thead>
+      <tbody>
       <row>
       <entry>c. 500–428 BCE</entry>
       <entry>Anaxagoras</entry>
