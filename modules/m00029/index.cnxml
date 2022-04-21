@@ -85,7 +85,7 @@
 </section>
 <section id="sect-00005">
 <title>Testing Deductive Inferences</title>
-<para id="para-00018">Earlier it was explained that logical analysis involves assuming the premises of an argument are true and then determining whether the conclusion logically follows, given the truth of those premises. For deductive arguments, if you can come up with a scenario where the premises are true but the conclusion is false, you have proven that the argument is invalid. An instance of a deductive argument where the premises are all true but the conclusion false is called a <term id="term-00004">counterexample</term>. As with counterexamples to statements, counterexamples to arguments are simply instances that <emphasis effect="italics">run counter to</emphasis> the argument. Counterexamples to statements show that the statement is false, while counterexamples to deductive arguments show that the argument is invalid. Complete the exercise below to get a better understanding of coming up with counterexamples to prove invalidity.</para>
+<para id="para-00018">Earlier it was explained that logical analysis involves assuming the premises of an argument are true and then determining whether the conclusion logically follows, given the truth of those premises. For deductive arguments, if you can come up with a scenario where the premises are true but the conclusion is false, you have proven that the argument is invalid. An instance of a deductive argument where the premises are all true but the conclusion false is called a <term class="no-emphasis" id="term-00004">counterexample</term>. As with counterexamples to statements, counterexamples to arguments are simply instances that <emphasis effect="italics">run counter to</emphasis> the argument. Counterexamples to statements show that the statement is false, while counterexamples to deductive arguments show that the argument is invalid. Complete the exercise below to get a better understanding of coming up with counterexamples to prove invalidity.</para>
 <note class="think-philosopher" id="note-00002">
 <para id="para-00019">Using the sample arguments given, come up with a counterexample to prove that the argument is invalid. A counterexample is a scenario in which the premises are true but the conclusion is false. Solutions are provided below.</para>
 <para id="para-00020"><emphasis effect="bold">Argument 1:</emphasis></para>
@@ -143,7 +143,7 @@
 <para id="para-00039">Notice that this reasoner has gone through a series of instances to make an inference about one additional instance. In doing so, the reasoner implicitly assumed a generalization along the way. The reasoner’s implicit generalization is that no cat likes its tail being pulled. She then uses that generalization to determine that she shouldn’t pull the tail of the cat in front of her now. A reasoner can use several instances in their experience as premises to draw a general conclusion and then use that generalization as a premise to draw a conclusion about a specific new instance.</para>
 <para id="para-00040">Inductive reasoning finds its way into everyday expressions, such as “Where there is smoke, there is fire.” When people see smoke, they intuitively come to believe that there is fire. This is the result of inductive reasoning. Consider your own thought process as you examine <link target-id="fig-00001" document="m00029"/>.</para>
 <figure id="fig-00001"><media alt="Small wisps and large clouds of smoke rising above the trees and into the sky above a mountain horizon."><image mime-type="image/jpeg" src="../../media/PHIL_Figure_05_04_003.jpg"/></media>
-<caption>Smoke in the sky above a mountain horizon. (credit: “20140803-FS-UNK-0017” by US Department of Agriculture/flickr, CC BY 2.0)</caption></figure>
+<caption>“Where there is smoke, there is fire” is an example of inductive reasoning. (credit: “20140803-FS-UNK-0017” by US Department of Agriculture/flickr, CC BY 2.0)</caption></figure>
 </section>
 <section id="sect-00009">
 <title>Reasoning from Past to Future</title>
@@ -169,10 +169,6 @@
 <para id="para-00047">Because abduction reasons from evidence to the most likely explanation for that evidence, it is often called “inference to the best explanation.” We start with a set of data and attempt to come up with some unifying hypothesis that can best explain the existence of those data. Given this structure, the evidence to be explained is usually accepted as true by all parties involved. The focus is not the truth of the evidence, but rather what the evidence means.</para>
 <para id="para-00048">Although you may not be aware, you regularly use this form of reasoning. Let us say your car won’t start, and the engine won’t even turn over. Furthermore, you notice that the radio and display lights are not on, even when the key is in and turned to the ON position. Given this evidence, you conclude that the best explanation is that there is a problem with the battery (either it is not connected or is dead). Or perhaps you made pumpkin bread in the morning, but it is not on the counter where you left it when you get home. There are crumbs on the floor, and the bag it was in is also on the floor, torn to shreds. You own a dog who was inside all day. The dog in question is on the couch, head hanging low, ears back, avoiding eye contact. Given the evidence, you conclude that the best explanation for the missing bread is that the dog ate it.</para>
 <para id="para-00049">Detectives and forensic investigators use abduction to come up with the best explanation for how a crime was committed and by whom. This form of reasoning is also indispensable to scientists who use observations (evidence) along with accepted hypotheses to create new hypotheses for testing. You may also recognize abduction as a form of reasoning used in medical diagnoses. A doctor considers all your symptoms and any further evidence gathered from preliminarily tests and reasons to the best possible conclusion (a diagnosis) for your illness.</para>
-<note class="think-philosopher" id="note-00004">
-<para id="para-00050">In this activity, you will identify which type of inference (inductive, deductive, or abductive) is used in each statement.</para>
-<media alt="atoms_isotopes"><iframe width="660" height="371.4" src="../../media/Interactive/031221_opx_philo_05_interactive03_drag_drop_1b/index.html"/></media>
-</note>
 </section>
 <section id="sect-00013">
 <title>Explanatory Virtues</title>
@@ -186,6 +182,43 @@
 <section id="sect-00014">
 <title>Extraordinary Claims Require Extraordinary Evidence</title>
 <para id="para-00058">Is it possible that our established beliefs (or scientific theories) could be wrong? Why give precedence to an explanation because it upholds our beliefs? Scientific thought would never have advanced if we deferred to conservative explanations all the time. In fact, the explanatory virtues are not laws but rules of thumb, none of which are supreme or necessary. Sometimes the correct explanation is more complicated, and sometimes the correct explanation will require that we give up long-held beliefs. Novel and revolutionary explanations can be strong if they have evidence to back them up. In the sciences, this approach is expressed in the following principle: <term class="no-emphasis" id="term-00009"><emphasis effect="italics">Extraordinary claims</emphasis></term> <emphasis effect="italics">will require extraordinary evidence.</emphasis> In other words, a novel claim that disrupts accepted knowledge will need more evidence to make it credible than a claim that already aligns with accepted knowledge.</para>
+<para id="para-00050"><link target-id="table-00001" document="m00029"/> summarizes these three types of inferences.</para>
+<table summary="" id="table-00001">
+  <tgroup cols="4">
+  <colspec colnum="1" colname="c1"/>
+  <colspec colnum="2" colname="c2"/>
+  <colspec colnum="3" colname="c3"/>
+  <colspec colnum="4" colname="c4"/>
+  <thead>
+  <row>
+  <entry>Type of inference</entry>
+  <entry>Description</entry>
+  <entry namest="c3" nameend="c4">Considerations</entry>
+  </row>
+  </thead>
+  <tbody>
+  <row>
+  <entry>Deductive</entry>
+  <entry>Focuses on the structure of arguments</entry>
+  <entry>Provides valid inferences when its structure guarantees the truth of its conclusion</entry>
+  <entry>Provides invalid inferences when, even if the premises are true, the conclusion may be false</entry>
+  </row>
+  <row>
+  <entry>Inductive</entry>
+  <entry>Uses general beliefs about the world to create beliefs about specific experiences or to make predictions about future experiences</entry>
+  <entry>Strong if the conclusion is probably true, assuming that the evidence is true</entry>
+  <entry>Weak if the conclusion is probably not true, even if the evidence offered is true</entry>
+  </row>
+  <row>
+  <entry>Abductive</entry>
+  <entry>An explanation is offered to justify and explain evidence</entry>
+  <entry>Strong if it is explanatory, simple, conservative, and has depth.</entry>
+  <entry>Extraordinary claims require extraordinary evidence.</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption>Three Types of Inferences</caption>
+  </table>
 </section>
 </section>
 
@@ -221,9 +254,10 @@
 <glossary>
 <definition id="def-00001"><term>Abductive</term> <meaning>having to do with abduction/abductive reasoning. Abduction is probabilistic form of inference in which an explanation is offered to justify and explain evidence.</meaning></definition>
 <definition id="def-00002"><term>Deductive</term> <meaning>having to do with deduction/deductive reasoning. Deduction is a form of inference that can guarantee the truth of its conclusions, given the truth of the premises.</meaning></definition>
+<definition id="def-00007"><term>Explanatory virtues</term> <meaning>aspects of an explanation that generally make it strong; Four such virtues are that a good hypothesis should be explanatory, simple, and conservative, and have depth.</meaning></definition>
 <definition id="def-00003"><term>Inductive</term> <meaning>having to do with induction/inductive reasoning. Induction is a probabilistic form of inference in which observation or experience is used to draw conclusions about the world.</meaning></definition>
 <definition id="def-00004"><term>Inference</term> <meaning>a reasoning process that moves from one idea to another, resulting in conclusions.</meaning></definition>
-<definition id="def-00005"><term>Invalid reference</term> <meaning>a property of bad deductive inferences. An invalid inference/argument is one in which the truth of the premises does not guarantee the truth of the conclusion.</meaning></definition>
+<definition id="def-00005"><term>Invalidity</term> <meaning>a property of bad deductive inferences. An invalid inference/argument is one in which the truth of the premises does not guarantee the truth of the conclusion.</meaning></definition>
 <definition id="def-00006"><term>Validity</term> <meaning>a property of deductive arguments where the structure of an argument is such that if the premises are true, then the conclusion is guaranteed to be true. A valid inference is a logically good inference.</meaning></definition>
 </glossary>
 </document>
