@@ -164,7 +164,7 @@
   </thead>
   <tbody>
   <row>
-  <entry>Fallacies of relevance—rely on evidence that is not relevant for logically establishing a conclusion</entry>
+  <entry><emphasis effect="bold">Fallacies of relevance</emphasis>—rely on evidence that is not relevant for logically establishing a conclusion</entry>
   <entry> </entry>
   <entry> </entry>
   </row>
@@ -179,7 +179,7 @@
   <entry>Argues against someone’s idea or suggestion by attacking the individual personally, rather than pointing out problems with the idea or suggestion</entry>
   </row>
   <row>
-  <entry>Fallacies of weak induction—rely on evidence or reasons that are too weak to firmly establish a conclusion</entry>
+  <entry><emphasis effect="bold">Fallacies of weak induction</emphasis>—rely on evidence or reasons that are too weak to firmly establish a conclusion</entry>
   <entry> </entry>
   <entry> </entry>
   </row>
@@ -204,7 +204,7 @@
   <entry>A causal relation is assumed to exist between two events or things that are not causally connected; “correlation does not equal causation”</entry>
   </row>
   <row>
-  <entry>Fallacies of unwarranted assumption—rely on information or beliefs that require further justification</entry>
+  <entry><emphasis effect="bold">Fallacies of unwarranted assumption</emphasis>—rely on information or beliefs that require further justification</entry>
   <entry> </entry>
   <entry> </entry>
   </row>
@@ -219,7 +219,7 @@
   <entry>Either assumes the truth of a conclusion in the course of trying to prove it or assumes the truth of a contentious claim</entry>
   </row>
   <row>
-  <entry>Fallacies of diversion—rely on attempts to distract the attention of the audience away from the argument at hand</entry>
+  <entry><emphasis effect="bold">Fallacies of diversion</emphasis>—rely on attempts to distract the attention of the audience away from the argument at hand</entry>
   <entry> </entry>
   <entry> </entry>
   </row>
@@ -291,7 +291,7 @@
 </section>
 </content>
 <glossary>
-  <definition id="def-00006"><term>Ad hominin attack</term> <meaning>fallacy of relevance that Argues against someone’s idea or suggestion by attacking the individual personally, rather than pointing out problems with the idea or suggestion.</meaning></definition>
+  <definition id="def-00006"><term>Ad hominin attack</term> <meaning>fallacy of relevance that argues against someone’s idea or suggestion by attacking the individual personally, rather than pointing out problems with the idea or suggestion.</meaning></definition>
   <definition id="def-00007"><term>Appeal to ignorance</term> <meaning>a fallacy of weak induction that relies on the lack of knowledge or evidence for a thing (our ignorance of it) to draw a definite conclusion about that thing.</meaning></definition>
   <definition id="def-00008"><term>Begging the question</term> <meaning>a fallacy of unwarranted assumption that either assumes the truth of a conclusion in the course of trying to prove it or assumes the truth of a contentious claim.</meaning></definition>
   <definition id="def-00009"><term>Biased sample</term> <meaning>a fallacy of weak induction that draws a conclusion using evidence that is biased in some way.</meaning></definition>

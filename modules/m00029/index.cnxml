@@ -212,8 +212,8 @@
   <row>
   <entry>Abductive</entry>
   <entry>An explanation is offered to justify and explain evidence</entry>
-  <entry>Strong if it is explanatory, simple, conservative, and has depth.</entry>
-  <entry>Extraordinary claims require extraordinary evidence.</entry>
+  <entry>Strong if it is explanatory, simple, conservative, and has depth</entry>
+  <entry>Extraordinary claims require extraordinary evidence</entry>
   </row>
   </tbody>
   </tgroup>
@@ -254,7 +254,7 @@
 <glossary>
 <definition id="def-00001"><term>Abductive</term> <meaning>having to do with abduction/abductive reasoning. Abduction is probabilistic form of inference in which an explanation is offered to justify and explain evidence.</meaning></definition>
 <definition id="def-00002"><term>Deductive</term> <meaning>having to do with deduction/deductive reasoning. Deduction is a form of inference that can guarantee the truth of its conclusions, given the truth of the premises.</meaning></definition>
-<definition id="def-00007"><term>Explanatory virtues</term> <meaning>aspects of an explanation that generally make it strong; Four such virtues are that a good hypothesis should be explanatory, simple, and conservative, and have depth.</meaning></definition>
+<definition id="def-00007"><term>Explanatory virtues</term> <meaning>aspects of an explanation that generally make it strong; four such virtues are that a good hypothesis should be explanatory, simple, and conservative, and have depth.</meaning></definition>
 <definition id="def-00003"><term>Inductive</term> <meaning>having to do with induction/inductive reasoning. Induction is a probabilistic form of inference in which observation or experience is used to draw conclusions about the world.</meaning></definition>
 <definition id="def-00004"><term>Inference</term> <meaning>a reasoning process that moves from one idea to another, resulting in conclusions.</meaning></definition>
 <definition id="def-00005"><term>Invalidity</term> <meaning>a property of bad deductive inferences. An invalid inference/argument is one in which the truth of the premises does not guarantee the truth of the conclusion.</meaning></definition>

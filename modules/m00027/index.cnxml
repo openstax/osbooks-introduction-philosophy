@@ -59,7 +59,7 @@
 
 <section class="summary" id="sect-00008">
 <title/>
-<para id="para-00019">Logical statements can be conditionals or universal affirmative statements. Both are important since they express the important logical relations (also called “conditions”) of necessity and sufficiency. If something is sufficient, it is always sufficient for something else. And if something is necessary, it is always necessary for something else. If you want to prove that a conditional or universal affirmative statement is false (which is to also prove that necessary and sufficient conditions they express do not hold), then you must offer a counterexample.</para>
+<para id="para-00019">Logical statements can be conditionals or universal affirmative statements. Both are important since they express the important logical relations (also called “conditions”) of necessity and sufficiency. If something is sufficient, it is always sufficient for something else. And if something is necessary, it is always necessary for something else. If you want to prove that a conditional or universal affirmative statement is false (which is to also prove that the necessary and sufficient conditions they express do not hold), then you must offer a counterexample.</para>
 </section>
 
 <section class="review-questions" id="sect-00009">
