@@ -143,7 +143,7 @@
 <para id="para-00039">Notice that this reasoner has gone through a series of instances to make an inference about one additional instance. In doing so, the reasoner implicitly assumed a generalization along the way. The reasoner’s implicit generalization is that no cat likes its tail being pulled. They then use that generalization to determine that they shouldn’t pull the tail of the cat in front of them now. A reasoner can use several instances in their experience as premises to draw a general conclusion and then use that generalization as a premise to draw a conclusion about a specific new instance.</para>
 <para id="para-00040">Inductive reasoning finds its way into everyday expressions, such as “Where there is smoke, there is fire.” When people see smoke, they intuitively come to believe that there is fire. This is the result of inductive reasoning. Consider your own thought process as you examine <link target-id="fig-00001" document="m00029"/>.</para>
 <figure id="fig-00001"><media alt="Small wisps and large clouds of smoke rising above the trees and into the sky above a mountain horizon."><image mime-type="image/jpeg" src="../../media/PHIL_Figure_05_04_003.jpg"/></media>
-<caption>“Where there is smoke, there is fire” is an example of inductive reasoning. (credit: “20140803-FS-UNK-0017” by US Department of Agriculture/flickr, CC BY 2.0)</caption></figure>
+<caption>“Where there is smoke, there is fire” is an example of inductive reasoning. (credit: “20140803-FS-UNK-0017” by US Department of Agriculture/Flickr, CC BY 2.0)</caption></figure>
 </section>
 <section id="sect-00009">
 <title>Reasoning from Past to Future</title>
