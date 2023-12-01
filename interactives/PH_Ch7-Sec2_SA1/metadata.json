@@ -1,0 +1,23 @@
+{
+  "errata_id": "08ccc3b616c760aabd299ac632918ca1229651cbfb9a8c017e41d1c0bbe6e618",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:094444fe-c48f-47fb-b4c7-0bebd3599197",
+    "lo:stax-phi:07-02-01",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:7-2-knowledge"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "07-02-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00040"
+  ]
+}
