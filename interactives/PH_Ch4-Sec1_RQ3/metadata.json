@@ -1,0 +1,23 @@
+{
+  "errata_id": "9e4fbf3de8df3ee87ad03087ad8541ab41ef984ed5062bc4cde5388c241b4904",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "lo:stax-phi:4-1-1",
+    "context-cnxmod:4b84cc98-28f7-4672-9d8d-88d7ef18a7f9",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:4-1-historiography-and-the-history-of-philosophy"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "4-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00020"
+  ]
+}
