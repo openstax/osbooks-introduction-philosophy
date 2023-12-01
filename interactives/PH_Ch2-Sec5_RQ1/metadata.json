@@ -1,0 +1,22 @@
+{
+  "errata_id": "21f2da8b3f74506008d6bfe398554fae53dd95cdfbcff64131067ed3d99719a2",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:2-5-1",
+    "context-cnxmod:1feeebcf-4d33-4ae2-b08b-c0e5dfab6d36",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:2-5-reading-philosophy"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "2-5-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00011"
+  ]
+}
