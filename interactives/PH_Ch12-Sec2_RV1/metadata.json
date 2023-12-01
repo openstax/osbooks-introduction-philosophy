@@ -1,0 +1,23 @@
+{
+  "errata_id": "36925ec4a7f6580a95dc91e791d93fe255d301f6c7566eaa20ea0fcaac0baf66",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "lo:stax-phi:12-02-03",
+    "context-cnxmod:61bb6dff-0af7-483e-91c2-1f91c49f3911",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:12-2-the-marxist-solution"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "12-02-03"
+      ]
+    }
+  ],
+  "context": [
+    "m00071"
+  ]
+}
