@@ -1,0 +1,23 @@
+{
+  "errata_id": "e6571dee96e65e247acbf3824d8f6dbecb594d7f88f901960fded79fc801fc89",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:17c61db5-11fa-48ba-89ff-b1173f589b28",
+    "lo:stax-phi:4-2-3",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:4-2-classical-philosophy"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "4-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00021"
+  ]
+}
