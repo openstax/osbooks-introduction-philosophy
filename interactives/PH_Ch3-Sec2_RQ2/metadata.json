@@ -1,0 +1,23 @@
+{
+  "errata_id": "b182edca8be33089a5a914dae82059f4ab1e94ff9eeb3e56e831afcdcc20d766",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:9a4f6816-3039-443f-9b3d-c84ecd532511",
+    "lo:stax-phi:3-2-1",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:3-2-classical-indian-philosophy"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "3-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00015"
+  ]
+}
