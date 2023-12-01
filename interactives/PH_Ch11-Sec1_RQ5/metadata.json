@@ -1,0 +1,22 @@
+{
+  "errata_id": "0c5a84a842cddc2474b2e6d25827c42ae588aef8c4d3b73e00ab248ebdbaf8d7",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:11-1-2",
+    "context-cnxmod:387da6b2-2258-4ef0-814a-d663f78981fd",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:11-1-historical-perspectives-on-government"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "11-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00065"
+  ]
+}
