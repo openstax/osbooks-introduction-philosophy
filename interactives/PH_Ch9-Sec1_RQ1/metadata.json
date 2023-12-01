@@ -1,0 +1,22 @@
+{
+  "errata_id": "42abb3d7eeff44ddae8ad48097ea8b3841db1d2e38797f10aa7bd684d0bb07e2",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:9-1-2",
+    "context-cnxmod:e3968d01-ef57-4e6f-905b-0d9153de6057",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:9-1-requirements-of-a-normative-moral-theory"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "9-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00052"
+  ]
+}
