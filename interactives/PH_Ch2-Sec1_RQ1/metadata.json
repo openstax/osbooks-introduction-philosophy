@@ -1,0 +1,22 @@
+{
+  "errata_id": "86d6dd9b28aa400b8e74c8a3560f372a5894d523a8be523dc99de76a1a6b2756",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:50690b89-1cc4-4fa3-961c-3204bafe1f27",
+    "lo:stax-phi:2-1-1",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:2-1-the-brain-is-an-inference-machine"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "2-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00007"
+  ]
+}
