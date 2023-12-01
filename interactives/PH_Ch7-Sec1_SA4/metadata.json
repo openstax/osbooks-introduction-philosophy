@@ -1,0 +1,23 @@
+{
+  "errata_id": "305257cbdfd07566a7b8290dada22345b0dd9c555e686440ab93a02c894811c5",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:002e7566-d66d-471c-b35a-cde524b1d473",
+    "lo:stax-phi:07-01-04",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:7-1-what-epistemology-studies"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "07-01-04"
+      ]
+    }
+  ],
+  "context": [
+    "m00039"
+  ]
+}
