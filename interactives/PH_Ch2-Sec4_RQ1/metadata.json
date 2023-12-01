@@ -1,0 +1,22 @@
+{
+  "errata_id": "8c44302256c47ae977cedfa0d4d348abbe6f2ae730574c24f6baa12d90058c2d",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:2-4-1",
+    "context-cnxmod:f08e2339-73c8-49d1-b57c-deb5373cc7bd",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:2-4-gathering-information-evaluating-sources-and-understanding-evidence"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "2-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00010"
+  ]
+}
