@@ -1,0 +1,23 @@
+{
+  "errata_id": "dd1212397743685cec58735b3ab1fb051404779ea3358d9949043b132fba1699",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:4ba1d9cd-6b98-4190-9c10-1746a56cf8d7",
+    "lo:stax-phi:3-3-2",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:3-3-classical-chinese-philosophy"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "3-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00016"
+  ]
+}
