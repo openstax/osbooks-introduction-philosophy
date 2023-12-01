@@ -1,0 +1,23 @@
+{
+  "errata_id": "4384788b124fe19cf8e952d0be89f88695bb1ffb4d2e799b575694c59ea6dc5f",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:52252ace-a309-4284-be8d-eda0911a2cf4",
+    "lo:stax-phi:12-05-02",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:12-5-postmodernism"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "12-05-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00074"
+  ]
+}
