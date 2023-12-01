@@ -1,0 +1,23 @@
+{
+  "errata_id": "8f6f489580753c911712b8221ee9d962c547c52cf77c5f59ec8b477e236ebf3f",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:64c335e0-bbe5-4c4e-ba29-cd8f5b58b736",
+    "lo:stax-phi:07-04-02",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:7-4-skepticism"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "07-04-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00042"
+  ]
+}
