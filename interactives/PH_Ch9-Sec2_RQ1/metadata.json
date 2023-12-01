@@ -1,0 +1,22 @@
+{
+  "errata_id": "58c03f2c2a97a79baf18db461c55f1421a433f20684e8f3d27d6b914eb51c643",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:9-2-2",
+    "context-cnxmod:bcf14c26-e33c-46a5-9c36-f922341598ae",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:9-2-consequentialism"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "9-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00053"
+  ]
+}
