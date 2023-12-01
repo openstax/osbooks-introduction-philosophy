@@ -1,0 +1,22 @@
+{
+  "errata_id": "d7c33a245c51bdb5cff1156c753ec67981271f397a2e0916e5390cfa82dc40a6",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:1-4-1",
+    "context-cnxmod:210be7bd-12c2-46cc-8944-f0f8fce45a17",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:1-4-an-overview-of-contemporary-philosophy"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "1-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00005"
+  ]
+}
