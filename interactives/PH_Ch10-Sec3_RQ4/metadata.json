@@ -1,0 +1,23 @@
+{
+  "errata_id": "df07151bca1fbe85903b98ac400014bf16e7dc39c6e3264e8382eed3adfdeeb9",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:23845038-1bb7-4b16-87ec-67d710c3d6b5",
+    "lo:stax-phi:10-3-2",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:10-3-business-ethics-and-emerging-technology"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "10-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00061"
+  ]
+}
