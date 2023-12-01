@@ -1,0 +1,22 @@
+{
+  "errata_id": "b3518233605f9738f9df6095f01b9c8d65be9f1bfc7c1203b568a7aaf9d72230",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:2-6-1",
+    "context-cnxmod:3cd60dea-12bb-4cc4-bccf-e56836cefd1b",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:2-6-writing-philosophy-papers"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "2-6-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00012"
+  ]
+}
