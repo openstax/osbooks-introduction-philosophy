@@ -1,0 +1,22 @@
+{
+  "errata_id": "527cfccccdbf834a6d35114b3a7d915c57d5bfba9ff82f90f678426889693304",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:a6c29dc1-1304-4949-843f-72fecb1393ef",
+    "lo:stax-phi:9-5-2",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:9-5-daoism"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "9-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00056"
+  ]
+}
