@@ -1,0 +1,22 @@
+{
+  "errata_id": "b9b3a99dc6f10b51e670039012765eafee43f0fb3eadd7c43a54da528e9cc413",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:b9b463c5-a485-40a0-be6e-53c3077170e9",
+    "lo:stax-phi:9-4-2",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:9-4-virtue-ethics"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "9-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00055"
+  ]
+}
