@@ -1,0 +1,22 @@
+{
+  "errata_id": "04e5ee49234ffe6996d1190b05d45c1083d7156d0f073c8c9d60234ed246f31a",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:1-2-3",
+    "context-cnxmod:3967085c-8986-4766-8b97-e820664129b0",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:1-2-how-do-philosophers-arrive-at-truth"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "1-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00003"
+  ]
+}
