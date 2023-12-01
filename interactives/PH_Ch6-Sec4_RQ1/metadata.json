@@ -1,0 +1,22 @@
+{
+  "errata_id": "b8348dd39d070921f96c3b78fe39c663ed1ec696781161c4b9a4c290dee86bd8",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:6-4-1",
+    "context-cnxmod:ab47841c-29dd-4fed-a613-d43d890eab27",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:6-4-free-will"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "6-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00035"
+  ]
+}
