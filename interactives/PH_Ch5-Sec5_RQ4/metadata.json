@@ -1,0 +1,22 @@
+{
+  "errata_id": "958ab8e9861311cb0238e57382eaf871c86273852198a90e4dced2a8821a2078",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:1ecedac5-43f3-465e-a7ab-83e36b9225a9",
+    "lo:stax-phi:5-5-2",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:5-5-informal-fallacies"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "5-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00030"
+  ]
+}
