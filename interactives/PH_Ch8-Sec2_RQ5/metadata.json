@@ -1,0 +1,22 @@
+{
+  "errata_id": "ff8fc8bfe226d14d1ec18ebf68562a97e183d22277f02e46ae272583e7a1015a",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:0dfe6060-2f92-4bfc-b587-bdd75c9e002b",
+    "lo:stax-phi:8-2-3",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:8-2-basic-questions-about-values"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "8-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00046"
+  ]
+}
