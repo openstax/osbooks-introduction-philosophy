@@ -1,0 +1,22 @@
+{
+  "errata_id": "45ccaec46a93d8e3e9bd38fb88f6aabbaf53c845f56a3a79b0bb918c1a3b8be2",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:9-6-2",
+    "context-cnxmod:799ffce9-acb4-406e-ac42-bbbe2d66e59f",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:9-6-feminist-theories-of-ethics"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "9-6-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00057"
+  ]
+}
