@@ -1,0 +1,22 @@
+{
+  "errata_id": "deba08a7c572a620c67073a9840611359aa0d3092b6e8e213a7fe8d5250ab5d3",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:7efee8f2-beea-4aa1-bf11-19be0c7e2e77",
+    "lo:stax-phi:2-3-2",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:2-3-developing-good-habits-of-mind"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "2-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00009"
+  ]
+}
