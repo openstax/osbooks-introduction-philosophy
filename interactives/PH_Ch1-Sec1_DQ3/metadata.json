@@ -1,0 +1,22 @@
+{
+  "errata_id": "6931866359ce9bf0b5ec385f144ce19ceaa83f7b43eb5a9aecb8f22a19e94cfb",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:1-1-1",
+    "context-cnxmod:aef97309-6cc5-4947-b0bf-d0f62ca6b387",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:1-1-what-is-philosophy"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "1-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00002"
+  ]
+}
