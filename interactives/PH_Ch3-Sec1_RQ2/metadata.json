@@ -1,0 +1,23 @@
+{
+  "errata_id": "43b2931703e7b3831023766061490be89926b6d706f8933f9a2e41660f1db7aa",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "lo:stax-phi:3-1-1",
+    "context-cnxmod:ba121eb1-da99-45d6-b51e-b121651c343f",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:3-1-indigenous-philosophy"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "3-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00014"
+  ]
+}
