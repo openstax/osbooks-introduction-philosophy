@@ -1,0 +1,22 @@
+{
+  "errata_id": "6c223087af0acef3d76503333560fd0e3fe38d4124800313f394ab37fa0e97c2",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:b7543219-e6e8-447d-be8a-0984959c2141",
+    "lo:stax-phi:8-5-2",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:8-5-aesthetics"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "8-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00049"
+  ]
+}
