@@ -1,0 +1,22 @@
+{
+  "errata_id": "596f7493b5e95a625a4ecb1c4610598f13d4628bc7cdf802e746ae62ea34d12e",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:baa679a0-3e85-4020-a7a6-dfef29225e99",
+    "lo:stax-phi:6-3-4",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:6-3-cosmology-and-the-existence-of-god"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "6-3-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00034"
+  ]
+}
