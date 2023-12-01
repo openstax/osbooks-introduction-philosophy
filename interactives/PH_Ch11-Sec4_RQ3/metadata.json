@@ -1,0 +1,23 @@
+{
+  "errata_id": "813ff6c7ead283b076e8ad3e957ef9241dc600d5966ac6c85c871cb5bb134248",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:1ca3e6ec-374a-43b1-9a6b-35395140cc99",
+    "lo:stax-phi:11-4-2",
+    "assignment-type:homework",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:11-4-political-ideologies"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "11-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00068"
+  ]
+}
