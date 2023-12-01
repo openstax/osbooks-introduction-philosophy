@@ -1,0 +1,22 @@
+{
+  "errata_id": "8c0dd406a583c316ca6d45bfdbcd4bbe8f42d78257313561f0d6efde49b9db92",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:cd2e04a0-8b3e-4094-8239-6aaa903b1f9b",
+    "lo:stax-phi:6-1-3",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:6-1-substance"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "6-1-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00032"
+  ]
+}
