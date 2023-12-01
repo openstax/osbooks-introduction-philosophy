@@ -1,0 +1,22 @@
+{
+  "errata_id": "691099b8167c2ec242f7015b09c3831a884e94fc342205f092026f7a82ad773f",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:8-1-1",
+    "context-cnxmod:00efe712-b067-4d6c-95ee-4ee2d6f9c4d7",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:8-1-the-fact-value-distinction"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "8-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00045"
+  ]
+}
