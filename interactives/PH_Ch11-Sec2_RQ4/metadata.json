@@ -1,0 +1,22 @@
+{
+  "errata_id": "8ee8de43f018af5c4e8a2e6256d513b1405aeff8fb1a86b79082f628d12ddae2",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:8111980b-02f8-47ca-9355-18b9eff903af",
+    "lo:stax-phi:11-2-2",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:11-2-forms-of-government"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "11-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00066"
+  ]
+}
