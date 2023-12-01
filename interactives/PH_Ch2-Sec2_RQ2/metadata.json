@@ -1,0 +1,22 @@
+{
+  "errata_id": "72ad7bef1bcda775cbc45396ba39e616a04fb7972123cc72b8384ecd3a7405cf",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:3e19563e-1abc-4ca3-bba1-4b64fe515b4f",
+    "lo:stax-phi:2-2-2",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:2-2-overcoming-cognitive-biases-and-engaging-in-critical-reflection"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "2-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00008"
+  ]
+}
