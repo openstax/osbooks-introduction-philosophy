@@ -1,0 +1,23 @@
+{
+  "errata_id": "f6806da99e3199bd67b733865da9c7f67b3b03503f926e1f803a54ca89bf229f",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:a956f498-d191-41d9-95ec-1fef6aa4f083",
+    "lo:stax-phi:12-04-02",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:12-4-the-frankfurt-school"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "12-04-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00073"
+  ]
+}
