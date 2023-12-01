@@ -1,0 +1,22 @@
+{
+  "errata_id": "5284c838af339e9d579797c33f2aa5e78d17b36a70d3ecf440c0f3c7ab394ebc",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:11-3-1",
+    "context-cnxmod:78646126-912b-4b7a-bf99-e3d14b25fd03",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:11-3-political-legitimacy-and-duty"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "11-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00067"
+  ]
+}
