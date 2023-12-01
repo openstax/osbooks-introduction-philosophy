@@ -1,0 +1,22 @@
+{
+  "errata_id": "5fe64351e3b666edd7ffb5151fee674e8264648fa7b8b719b1766cf7153f6701",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:c3ef0069-3a9a-4416-bb9c-a02f722f84a5",
+    "lo:stax-phi:8-4-4",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:8-4-well-being"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "8-4-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00048"
+  ]
+}
