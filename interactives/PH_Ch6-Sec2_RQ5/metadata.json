@@ -1,0 +1,22 @@
+{
+  "errata_id": "ee8c72ec0bd2e12927c3be2e01a4b998ac1c5458d18c0da60177d401d6fb6c25",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:6-2-1",
+    "context-cnxmod:745489ba-cd23-4cd3-adbe-d904142c2c76",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:6-2-self-and-identity"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "6-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00033"
+  ]
+}
