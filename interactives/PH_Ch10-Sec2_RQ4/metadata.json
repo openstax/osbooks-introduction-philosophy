@@ -1,0 +1,23 @@
+{
+  "errata_id": "2c66217b3309d0affaf75de3f99f34513800c5228fd8966cd400fb92cded4fda",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:5541f644-3d85-494e-ba7f-03b8b546d633",
+    "lo:stax-phi:10-2-3",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:10-2-environmental-ethics"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "10-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00060"
+  ]
+}
