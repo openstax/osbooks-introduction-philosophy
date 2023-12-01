@@ -1,0 +1,22 @@
+{
+  "errata_id": "99c9cb4108ad683f2d4c965f72d642b56f1967a23e351ffbdb68febeec9155e2",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:8-3-1",
+    "context-cnxmod:a22ff86a-73e3-450a-9f9a-72b591a73940",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:8-3-metaethics"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "8-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00047"
+  ]
+}
