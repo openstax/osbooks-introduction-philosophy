@@ -1,0 +1,23 @@
+{
+  "errata_id": "c1fe3fc2ad5f25cff55bb71fa9f2b45dbbf6c086db88f8561ef1e14f8e4be00d",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "lo:stax-phi:12-01-01",
+    "context-cnxmod:ac97b342-bc8d-46b3-9aaa-bbc83cd5709e",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:12-1-enlightenment-social-theory"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "12-01-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00070"
+  ]
+}
