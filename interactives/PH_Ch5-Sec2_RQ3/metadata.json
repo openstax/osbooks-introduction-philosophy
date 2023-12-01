@@ -1,0 +1,22 @@
+{
+  "errata_id": "cc52b16322e0b29168a5379b7e2ca07db4b68a806ecb3786e3395aecdbaffaa9",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:b0f9c507-49c0-4a77-a524-25c520a021eb",
+    "lo:stax-phi:5-2-2",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:5-2-logical-statements"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "5-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00027"
+  ]
+}
