@@ -1,0 +1,23 @@
+{
+  "errata_id": "767f4a1d56bee7358576e006c8a9d17c7efd12a4357ea6d1fd530fafd587da41",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:85b41e5a-c21e-4e2f-87c3-c31add0e8b14",
+    "lo:stax-phi:12-03-04",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:12-3-continental-philosophys-challenge-to-enlightenment-theories"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "12-03-04"
+      ]
+    }
+  ],
+  "context": [
+    "m00072"
+  ]
+}
