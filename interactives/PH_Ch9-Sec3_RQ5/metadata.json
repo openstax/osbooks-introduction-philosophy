@@ -1,0 +1,22 @@
+{
+  "errata_id": "65dbc2d365678dbc9c447406ce9afd46efade47ff58999f3a6dd5003a4274c64",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:c60a1ae3-cf35-4b40-9208-3f123f72748e",
+    "lo:stax-phi:9-3-3",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:9-3-deontology"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "9-3-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00054"
+  ]
+}
