@@ -1,0 +1,23 @@
+{
+  "errata_id": "4836f65dfe9fbd4d2a44b2894c751502249fae571f8bb4fc01f56ee24aef20a4",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "lo:stax-phi:10-1-1",
+    "context-cnxmod:a698e866-5321-4c57-8a1e-cc9f6255cf77",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:10-1-the-challenge-of-bioethics"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "10-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00059"
+  ]
+}
