@@ -1,0 +1,23 @@
+{
+  "errata_id": "702b2dc8c9f5d8114286a4101673404f5da8802225b0319ab7b016cbee06b385",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:1eb262e3-d4ef-4c23-a050-f134213bba93",
+    "lo:stax-phi:4-3-3",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:4-3-jewish-christian-and-islamic-philosophy"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "4-3-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00022"
+  ]
+}
