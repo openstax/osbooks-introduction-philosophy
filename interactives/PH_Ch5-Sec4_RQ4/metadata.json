@@ -1,0 +1,22 @@
+{
+  "errata_id": "96c8a4ef567fd8d0cde2710018ff5ad86b6cc49286046ac1ca96178a4775588f",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "lo:stax-phi:5-4-1",
+    "context-cnxmod:bb5b9b30-e078-4328-9708-ccb8e69dba63",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:5-4-types-of-inferences"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "5-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00029"
+  ]
+}
