@@ -1,0 +1,22 @@
+{
+  "errata_id": "aba362dddfc343a2373a322391bd9613e4abf9343e5a9f3d0d688f20af5defb9",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:e37f7f6b-0084-4836-a4fa-ca5fd634cdba",
+    "lo:stax-phi:5-1-2",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:5-1-philosophical-methods-for-discovering-truth"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "5-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00026"
+  ]
+}
