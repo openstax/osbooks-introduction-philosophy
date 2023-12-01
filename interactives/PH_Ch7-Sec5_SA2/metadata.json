@@ -1,0 +1,23 @@
+{
+  "errata_id": "36ce33767558e02321a6af7fcf9e35447ad8689a62ac058dc42eaf072afa9653",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "assignment-type:homework",
+    "context-cnxmod:2a80d666-3e4d-4691-99ce-46fc49961743",
+    "lo:stax-phi:07-05-02",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:7-5-applied-epistemology"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "07-05-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00043"
+  ]
+}
