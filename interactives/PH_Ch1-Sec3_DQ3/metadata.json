@@ -1,0 +1,22 @@
+{
+  "errata_id": "001fe8a1b812d599abb4cfe5b632d4dd9f781d2fa9a228df4fd67306f8071464",
+  "attachments": [],
+  "tags": [
+    "book:stax-phi",
+    "context-cnxmod:1cb9fd57-077e-425b-966c-d4b4ba9cc3be",
+    "lo:stax-phi:1-3-2",
+    "book-slug:introduction-philosophy",
+    "module-slug:introduction-philosophy:1-3-socrates-as-a-paradigmatic-historical-philosopher"
+  ],
+  "books": [
+    {
+      "name": "stax-phi",
+      "lo": [
+        "1-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00004"
+  ]
+}
