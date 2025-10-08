@@ -93,6 +93,6 @@
 <definition id="def-00004"><term>Necessary condition</term> <meaning>X is a necessary condition for Y if and only if X must be true given the truth of Y. If X is necessary for Y, then X is guaranteed by Y—without the truth of X, Y cannot be true.</meaning></definition>
 <definition id="def-00005"><term>Statement</term> <meaning>a sentence with a truth value—a sentence that must be either true or false.</meaning></definition>
 <definition id="def-00006"><term>Sufficient condition</term> <meaning>X is a sufficient condition for Y if and only if the truth of X guarantees the truth of Y. If X is sufficient for Y, then the truth of X is enough to prove the truth of Y.</meaning></definition>
-<definition id="def-00007"><term>Universal affirmative statement</term> <meaning>statements that take two groups of things and claim all members of the first group are also members of the second groups.</meaning></definition>
+<definition id="def-00007"><term>Universal affirmative statement</term> <meaning>statements that take two groups of things and claim all members of the first group are also members of the second group.</meaning></definition>
 </glossary>
 </document>
