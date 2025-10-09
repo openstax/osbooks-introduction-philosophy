@@ -65,7 +65,7 @@
 <item>The moon is made of cheese.</item>
 <item>Therefore, mice vacation on the moon.</item>
 </list>
-<para id="para-00011">The premises of the above argument are false, as is the conclusion. However, the argument has strong reasoning because it contains a good inference. If the premises are true, then the conclusion does follow. Indeed, the argument uses a particular kind of inference—deductive inference—and good a deductive inference <emphasis effect="italics">guarantees</emphasis> the truth of its conclusion as long as its premises are true.</para>
+<para id="para-00011">The premises of the above argument are false, as is the conclusion. However, the argument has strong reasoning because it contains a good inference. If the premises are true, then the conclusion does follow. Indeed, the argument uses a particular kind of inference—deductive inference—and a good deductive inference <emphasis effect="italics">guarantees</emphasis> the truth of its conclusion as long as its premises are true.</para>
 <para id="para-00012">The important thing to remember is that a good inference involves clear steps by which we can move from premise to premise to reach a conclusion. The basic method for testing the two common types of inferences—deductive and inductive—is to provisionally assume that their premises are true. Assuming a neutral stance in considering an inference is crucial to doing philosophy. You begin by assuming that the premises are true and then ask whether the conclusion logically follows, given the truth of those premises.</para>
 </section>
 <section id="sect-00005">
