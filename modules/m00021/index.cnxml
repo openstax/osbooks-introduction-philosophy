@@ -58,9 +58,7 @@
     <caption>For the function <emphasis effect="italics">y</emphasis> = 1/<emphasis effect="italics">x</emphasis>, neither <emphasis effect="italics">x</emphasis> nor <emphasis effect="italics">y</emphasis> can have a value of zero because <emphasis effect="italics">y</emphasis> approaches infinity as <emphasis effect="italics">x</emphasis> approaches zero and <emphasis effect="italics">x</emphasis> approaches infinity as <emphasis effect="italics">y</emphasis> approaches zero. Other functions show these same characteristics, which are called asymptotes or limits. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)</caption></figure>
     <note class="media-video" id="note-00002">
     <title>The Paradoxes of Zeno</title>
-    <media alt="atoms_isotopes">
-    <iframe width="660" height="371.4" src="https://openstax.org/r/theparadoxesofzeno"/>
-    </media>
+    <para id="para-00056"><link url="https://openstax.org/r/theparadoxesofzeno">The Paradoxes of Zeno</link></para>
     </note>
     </section>
     <section id="sect-00009">
