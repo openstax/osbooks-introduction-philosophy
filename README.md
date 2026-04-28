@@ -1,13 +1,13 @@
-# Introduction to Philosophy
+# Introduction to Philosophy 2e
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/openstax/osbooks-introduction-philosophy)
 
-_Introduction to Philosophy_ is a textbook published by [OpenStax](https://openstax.org/), a non profit organization that is part of [Rice University](https://www.rice.edu/).
+_Introduction to Philosophy 2e_ is a textbook published by [OpenStax](https://openstax.org/), a non profit organization that is part of [Rice University](https://www.rice.edu/).
 
-The book can be viewed [online](https://openstax.org/details/books/introduction-philosophy), where you can also see a list of contributors.
+The book can be viewed [online](https://openstax.org/details/books/introduction-philosophy-2e), where you can also see a list of contributors.
 
 ## License
-_Introduction to Philosophy_ is available under the [Creative Commons Attribution-NonCommercial-ShareAlike License](./LICENSE) license.
+_Introduction to Philosophy 2e_ is available under the [Creative Commons Attribution-NonCommercial-ShareAlike License](./LICENSE) license.
 
 ## Support
 If you would like to support the creation of free textbooks for students, your [donations are welcome](https://riceconnect.rice.edu/donation/support-openstax-banner).
