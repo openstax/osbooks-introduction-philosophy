@@ -252,7 +252,7 @@
 </section>
 </content>
 <glossary>
-<definition id="def-00001"><term>Abductive</term> <meaning>having to do with abduction/abductive reasoning. Abduction is probabilistic form of inference in which an explanation is offered to justify evidence.</meaning></definition>
+<definition id="def-00001"><term>Abductive</term> <meaning>having to do with abduction/abductive reasoning. Abduction is a probabilistic form of inference in which an explanation is offered to justify evidence.</meaning></definition>
 <definition id="def-00002"><term>Deductive</term> <meaning>having to do with deduction/deductive reasoning. Deduction is a form of inference that can guarantee the truth of its conclusions, given the truth of the premises.</meaning></definition>
 <definition id="def-00007"><term>Explanatory virtues</term> <meaning>aspects of an explanation that generally make it strong; four such virtues are that a good hypothesis should be explanatory, simple, and conservative, and have depth.</meaning></definition>
 <definition id="def-00003"><term>Inductive</term> <meaning>having to do with induction/inductive reasoning. Induction is a probabilistic form of inference in which observation or experience is used to draw conclusions about the world.</meaning></definition>
